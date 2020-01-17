@@ -32,6 +32,14 @@ Days seems to be passing slowly, but I know I will keep on the challenge. Today 
 [Run it online](https://trinket.io/python3/6cb29aaacd?outputOnly=true&runOption=run)
 
 
+### Day 3: January 16, 2020 (Learning Django)
+
+**Today's Progress**: Install Django, read about packages, read and try to poll app in the Django tutorial web.
+
+**Thoughts:** What a day. I struggle to start today but at least I spend some time on coding. Feeling a little bit down.
+
+
+
 
 ### Day : January 15, 2020 ()
 
