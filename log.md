@@ -20,6 +20,19 @@
 [The random number game](https://github.com/Ed1123/The-random-number-game)
 
 
+### Day 2: January 15, 2020 ()
+
+**Today's Progress**: Some improvements to the Whatsapp autosend and the random number game. Also investigate and plan on how to run the python code online. For now the workaround is Trinket.io. I'll have my own webapp for that soon.
+
+**Thoughts:** I'm amazed by how well the code was on the random number game and the fact that I did it a long time ago just by myself. Point for me there.
+Days seems to be passing slowly, but I know I will keep on the challenge. Today was a tired day. At least I manage to keep on the challenge. Let's sleep now.
+
+**Link to work:**
+[The random number game](https://github.com/Ed1123/The-random-number-game)
+[Run it online](https://trinket.io/python3/6cb29aaacd?outputOnly=true&runOption=run)
+
+
+
 ### Day : January 15, 2020 ()
 
 **Today's Progress**: .
@@ -30,5 +43,4 @@
 
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [Link](http://www.example.com)
