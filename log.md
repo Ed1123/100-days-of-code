@@ -20,7 +20,7 @@
 [The random number game](https://github.com/Ed1123/The-random-number-game)
 
 
-### Day 2: January 15, 2020 ()
+### Day 2: January 16, 2020 ()
 
 **Today's Progress**: Some improvements to the Whatsapp autosend and the random number game. Also investigate and plan on how to run the python code online. For now the workaround is Trinket.io. I'll have my own webapp for that soon.
 
@@ -32,11 +32,20 @@ Days seems to be passing slowly, but I know I will keep on the challenge. Today 
 [Run it online](https://trinket.io/python3/6cb29aaacd?outputOnly=true&runOption=run)
 
 
-### Day 3: January 16, 2020 (Learning Django)
+### Day 3: January 17, 2020 (Learning Django)
 
 **Today's Progress**: Install Django, read about packages, read and try to poll app in the Django tutorial web.
 
 **Thoughts:** What a day. I struggle to start today but at least I spend some time on coding. Feeling a little bit down.
+
+
+### Day 4: January 18, 2020 (Django vs Flask)
+
+**Today's Progress**: Very little really. I learn the differences between Flask and Django. I run both "Hello World" webapps. For now I think I'll put apart Django and learn Flask for its simplicity. Tomorrow I'll start learning Flask. I planned that for the end of the next week I'll have my own webapp.
+
+**Thoughts:** It was a day full of activities. I manage to be on top of then and controll all the situations. Now its time to sleep. I'm really tired.
+
+**Link to work:** [There is no link for today](http://www.example.com)
 
 
 
