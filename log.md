@@ -48,6 +48,14 @@ Days seems to be passing slowly, but I know I will keep on the challenge. Today 
 **Link to work:** [There is no link for today](http://www.example.com)
 
 
+### Day 5: January 19, 2020 (Troubleshooting)
+
+**Today's Progress**: I spend most of the time troubleshooting. I found the Flask tutorial by freeCodeAcademy.org on YouTube but I couldn't finished it yet for the problems I was facing. At least now I know about virtual enviroments, problems with Windows Store Python and decided to use VSCode alonside with Notepad++. Sublime is pretty good, but I can't allow me to spend on it just yet.
+
+**Thoughts:** Long day with some negative thoughts for the problem after problem I faced. At least they didn't last longer. Tomorrow will be a different story.
+
+
+
 
 
 ### Day : January 15, 2020 ()
