@@ -55,6 +55,12 @@ Days seems to be passing slowly, but I know I will keep on the challenge. Today 
 **Thoughts:** Long day with some negative thoughts for the problem after problem I faced. At least they didn't last longer. Tomorrow will be a different story.
 
 
+### Day 6: January 20, 2020 (Starting with Flask)
+
+**Today's Progress**: Continue with the Flask tutorial. I like that it's really fast. I like that challenge, but that also means that I have to pause a lot to read and understant what I'm doing. That 46 minutes tutorial will be a couple of chapters for me ^^u. With all of that I like it.
+
+**Thoughts:** A hard day at work. It draind almost all my energy. My mind didn't help that much neither. Fortunately, I manage to move at least a little bit in my coding path.
+
 
 
 
