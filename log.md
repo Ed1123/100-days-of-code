@@ -62,6 +62,14 @@ Days seems to be passing slowly, but I know I will keep on the challenge. Today 
 **Thoughts:** A hard day at work. It draind almost all my energy. My mind didn't help that much neither. Fortunately, I manage to move at least a little bit in my coding path.
 
 
+### Day 7: January 21, 2020 (Bah)
+
+**Today's Progress**: The Flaks project seems too much. At least for today I couldn't finish it. On the other hand, I learn about Linux ownership and permissions (chown and chmod), install pyinstaller to be able to compile python into executables and learn about 4 types of hosting (self hosting, traditional, free and VPS (cloud?)).
+
+**Thoughts:** What a day. The most down day in a lot of time. The extra things I had to do for work may be the reason.
+
+
+
 
 
 ### Day : January 15, 2020 ()
