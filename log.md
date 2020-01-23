@@ -69,6 +69,12 @@ Days seems to be passing slowly, but I know I will keep on the challenge. Today 
 **Thoughts:** What a day. The most down day in a lot of time. The extra things I had to do for work may be the reason.
 
 
+### Day 8: January 22, 2020 (Not prepare YET. Still recovering.)
+
+**Today's Progress**: I did some researsh on Python and came up to the conclusion that I'm not prepare for learning frameworks like Django or Flask yet. First, I need to master Data Structures and Algorithms. I found many free (and payed) courses online. I toke a glance at some of them and narrow my alternatives down to 3. Tomorrow I'll start with any of those. Now I want to sleep.
+
+**Thoughts:** Still recovering from yesterday terrible day. I feel tired today and couldn't move that much. At least I did my yoga and do some researsh.
+
 
 
 
