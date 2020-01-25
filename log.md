@@ -76,6 +76,20 @@ Days seems to be passing slowly, but I know I will keep on the challenge. Today 
 **Thoughts:** Still recovering from yesterday terrible day. I feel tired today and couldn't move that much. At least I did my yoga and do some researsh.
 
 
+### Day 9: January 23, 2020 (Much better. Data Structures and Algoriths)
+
+**Today's Progress**: After a little lot thinking on where to start I finally started with a 6-months coursera specialization, Data Structures and Algorithms. I just started it and so far I looks awesome. I reviewed also a little bit of discrete math, which basics are needed for the course. I think I've learned in college, but not with that name.
+
+**Thoughts:** I feel better with the help of my love. Day was a bit hard and with few time (it's 1:24am right now), but now everything seems ok.
+
+
+### Day 10: January 24, 2020 (Discrete Maths and Data Structures and Algoriths)
+
+**Today's Progress**: Review some discrete maths concepts and move on the course. I now know what is a stress test. Tomorrow I will implement it.
+
+**Thoughts:** Day full of activities (battery, psy, Ayr). It was a great day. I'm feeling full of energies. I'd make more hours of code, but I need to rest.
+
+
 
 
 ### Day : January 15, 2020 ()
