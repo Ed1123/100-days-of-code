@@ -90,6 +90,13 @@ Days seems to be passing slowly, but I know I will keep on the challenge. Today 
 **Thoughts:** Day full of activities (battery, psy, Ayr). It was a great day. I'm feeling full of energies. I'd make more hours of code, but I need to rest.
 
 
+### Day 11: January 25, 2020 (Fibbonaci)
+
+**Today's Progress**: Learn to stress test and probe an algorithm works for many cases. Also review the Fibbonaci series and how it grows more quickly than 2^(n/2) (demostrated by induction) The course is getting pretty academic. I love it!
+
+**Thoughts:** Another great day. I feel a little worried for the time not being enough for my codeing hour. Well, it's 1:24 am ._.
+
+
 
 
 ### Day : January 15, 2020 ()
