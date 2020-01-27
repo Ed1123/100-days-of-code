@@ -97,6 +97,18 @@ Days seems to be passing slowly, but I know I will keep on the challenge. Today 
 **Thoughts:** Another great day. I feel a little worried for the time not being enough for my codeing hour. Well, it's 1:24 am ._.
 
 
+### Day 12: January 26, 2020 (Big-O)
+
+**Today's Progress**: Algorithms efficiency and Big-O notation. I dive into the math part of Big-O notation. I'm really liking how technically this course allow me to be.
+
+**Thoughts:** A sunday. I wanted to rest, but I also want to study. At the end I gave a little bit more than an hour to studying. :)
+
+
+
+
+
+
+
 
 
 ### Day : January 15, 2020 ()
