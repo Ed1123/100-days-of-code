@@ -104,7 +104,11 @@ Days seems to be passing slowly, but I know I will keep on the challenge. Today 
 **Thoughts:** A sunday. I wanted to rest, but I also want to study. At the end I gave a little bit more than an hour to studying. :)
 
 
+### Day 13: January 27, 2020 (Big-Theta)
 
+**Today's Progress**: Big-theta. I spend the hole hour demostrating Big-Theta of a geometrical series. Amazing and tyring.
+
+**Thoughts:** Something unconfortable at home change my mood. A little bit down... again.
 
 
 
