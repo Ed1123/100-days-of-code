@@ -126,6 +126,13 @@ Days seems to be passing slowly, but I know I will keep on the challenge. Today 
 
 
 
+### Day 16: January 30, 2020 (Google Cloud Platform / Matrixes for Fibonacci)
+
+**Today's Progress**: Signed up for GCP (free $300 for a year) and set up a virtual server. I think I'll be hosting something simple there soon. I also reviewed the algorithms book's missing exercises. I have an idea for all of them but the last. Tomorrow I will write them down and continue with the next chapter in the course.
+
+**Thoughts:** Feeling tired from yesterday, but I found energy to study.
+
+
 
 
 ### Day : January 15, 2020 ()
