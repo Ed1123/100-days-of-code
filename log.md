@@ -111,6 +111,19 @@ Days seems to be passing slowly, but I know I will keep on the challenge. Today 
 **Thoughts:** Something unconfortable at home change my mood. A little bit down... again.
 
 
+### Day 14: January 28, 2020 (Fibonacci proves)
+
+**Today's Progress**: Trying some Fibonacci proves. I couldn't make it.
+
+**Thoughts:** I don't remember. I think I was better than yesterday.
+
+
+### Day 15: January 29, 2020 (Fibonacci proves... again)
+
+**Today's Progress**: I found the proves I couldn't find yesterfay.
+
+**Thoughts:** I feel... ok. Not bad, not good. I felt great after finding the solutions I couldn't do myself yesterdey.
+
 
 
 
