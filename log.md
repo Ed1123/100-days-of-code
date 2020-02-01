@@ -133,6 +133,13 @@ Days seems to be passing slowly, but I know I will keep on the challenge. Today 
 **Thoughts:** Feeling tired from yesterday, but I found energy to study.
 
 
+### Day 17: January 15, 2020 (Euclidean Algorithm)
+
+**Today's Progress**: Euclidean Algorithm. I did it on nano. Pretty good. :)
+
+**Thoughts:** Feeling really tired for not sleeping well this last two days.
+
+
 
 
 ### Day : January 15, 2020 ()
