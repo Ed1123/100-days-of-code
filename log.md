@@ -133,11 +133,20 @@ Days seems to be passing slowly, but I know I will keep on the challenge. Today 
 **Thoughts:** Feeling tired from yesterday, but I found energy to study.
 
 
-### Day 17: January 15, 2020 (Euclidean Algorithm)
+### Day 17: January 31, 2020 (Euclidean Algorithm)
 
 **Today's Progress**: Euclidean Algorithm. I did it on nano. Pretty good. :)
 
 **Thoughts:** Feeling really tired for not sleeping well this last two days.
+
+
+### Day 18: February 01, 2020 (Problem solving and reading)
+
+**Today's Progress**: Discuss an elegant way to prove the number of matrices multiplications. Read a little bit more about the Euclid's algorithm. And also make a little program that prints Fib numbers (the algorithm that uses an array) to visualize it and explain it. Now I have my screen filled with a fib number. ^^u
+
+**Thoughts:** It was a great day. I have a great time with my special one :).
+
+
 
 
 
