@@ -147,11 +147,17 @@ Days seems to be passing slowly, but I know I will keep on the challenge. Today 
 **Thoughts:** It was a great day. I have a great time with my special one :).
 
 
+### Day 19: February 02, 2020 (Reviewing Asimptotic Notation)
+
+**Today's Progress**: Review aimptotic notation in the course. It's the last part of the second week of it. I also learn some Jupiter and how to use the python's numpy and matplotlib libraries.
+
+**Thoughts:** Feeling good, a little tired and the beggining but good after all. Today I finish early. It's 9pm. :D
 
 
 
 
-### Day : January 15, 2020 ()
+
+### Day : February , 2020 ()
 
 **Today's Progress**: .
 
