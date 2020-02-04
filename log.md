@@ -154,6 +154,13 @@ Days seems to be passing slowly, but I know I will keep on the challenge. Today 
 **Thoughts:** Feeling good, a little tired and the beggining but good after all. Today I finish early. It's 9pm. :D
 
 
+### Day 20: February 03, 2020 (Quizes and first real assigment)
+
+**Today's Progress**: I did some quizes and solve the first problem of my first real assigment. Still basic algorithms.
+
+**Thoughts:** It was a good day meeting an old friend after a long time. It's good to have good friends supporting you. :)
+
+
 
 
 
