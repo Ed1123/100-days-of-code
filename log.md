@@ -161,6 +161,15 @@ Days seems to be passing slowly, but I know I will keep on the challenge. Today 
 **Thoughts:** It was a good day meeting an old friend after a long time. It's good to have good friends supporting you. :)
 
 
+### Day 21: February 04, 2020 (fibonacci_last_digit.py)
+
+**Today's Progress**: Learn to plot histograms with Pandas. Also finish the second assignment of 8 I have to do. I think I need to speed things up, but I’m really enjoying learning each one very well and understanding everything. It has always paid me back. 
+
+**Thoughts:** Kind of a sluggish day. It wasn't that bad at the end.
+
+**Link to work:** [Tweet with screenshot](https://twitter.com/iEdMV/status/1224932536956149760)
+
+
 
 
 
