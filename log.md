@@ -170,6 +170,13 @@ Days seems to be passing slowly, but I know I will keep on the challenge. Today 
 **Link to work:** [Tweet with screenshot](https://twitter.com/iEdMV/status/1224932536956149760)
 
 
+### Day 22: February 05, 2020 (gcd.py & lcm.py)
+
+**Today's Progress**: Program to calculate gcd efficiently. I did it in advance so I just had to adapt it. Program to calculate the lcm. My gcd program helped me with that. I stress test both to become more familiar with testing. Also I have the code for fibonacci_huge.py almost complete.
+
+**Thoughts:** What a day at work. I was falling asleep every half and hour. The office was terribly hot. That may be the reason. At last my code entertain me a lot.
+
+
 
 
 
