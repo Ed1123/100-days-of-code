@@ -177,6 +177,23 @@ Days seems to be passing slowly, but I know I will keep on the challenge. Today 
 **Thoughts:** What a day at work. I was falling asleep every half and hour. The office was terribly hot. That may be the reason. At last my code entertain me a lot.
 
 
+### Day 23: February 06, 2020 (fibonacci_huge.py)
+
+**Today's Progress**: As I got inscrived in the course I started sending my past assignments (and correcting those first 2 I thought were ready). Also finish the 5th of the 8 assignments of the Week 2 of the course, the fibonacci_huge! :D. 
+
+**Thoughts:** Bguag day... Although, it had a good new at the end. I get financial aid for the course I’m in right now.
+
+**Link to work:** [Tweet with screenshot](https://twitter.com/iEdMV/status/1225647848546418689)
+
+
+### Day 24: February 07, 2020 (3 x Last digit of the sum of Fibonacci numbers)
+
+**Today's Progress**: Finist the homework! And all was correct 8/8. Last digit of the sum of Fibonacci numbers, last digit of the partial sum, last digit of the sum of the squares :D. Also started with the week 3, greedy algorithms.
+
+**Thoughts:** I started the day with more energy than yesterday. Maybe looking at one  of my passions, video games, helps me find an intention for the day.
+
+**Link to work:** [Tweet with screenshot](https://twitter.com/iEdMV/status/1225978853161611264)
+
 
 
 
