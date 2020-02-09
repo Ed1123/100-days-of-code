@@ -195,6 +195,12 @@ Days seems to be passing slowly, but I know I will keep on the challenge. Today 
 **Link to work:** [Tweet with screenshot](https://twitter.com/iEdMV/status/1225978853161611264)
 
 
+### Day 25: February 08, 2020 (Greedy Algorithm)
+
+**Today's Progress**: Continue with Greedy Algorithms. Learn its basic principles. I also read about partitions to understand part of a problem. I didn’t know them till now. Pretty appealing math stuff.
+
+**Thoughts:** A better day. It's the weekend and I managed my free time pretty well. I didn’t want to study much today so I limited my practice to just a little bit more than an hour. Feeling good.
+
 
 
 ### Day : February , 2020 ()
