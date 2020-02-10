@@ -202,14 +202,21 @@ Days seems to be passing slowly, but I know I will keep on the challenge. Today 
 **Thoughts:** A better day. It's the weekend and I managed my free time pretty well. I didn’t want to study much today so I limited my practice to just a little bit more than an hour. Feeling good.
 
 
+### Day 26: February 09, 2020 (Greedy Algorithm)
 
-### Day : February , 2020 ()
+**Today's Progress**: I finished greedy algorithms theory lessons and review the next assignment.
 
-**Today's Progress**: .
+**Thoughts:** Another “neh” day. I didn’t manage to finish all my activities early… That makes me feel bad. Also, today I didn’t like doing anything, but I did much.., whatever...
 
-**Thoughts:** .
 
-**Link to work:** [Link](http://www.example.com)
+
+
+
+
+
+
+
+
 
 
 **Link(s) to work**
