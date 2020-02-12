@@ -209,9 +209,18 @@ Days seems to be passing slowly, but I know I will keep on the challenge. Today 
 **Thoughts:** Another “neh” day. I didn’t manage to finish all my activities early… That makes me feel bad. Also, today I didn’t like doing anything, but I did much.., whatever...
 
 
+### Day 27: February 10, 2020 (Money change problem)
+
+**Today's Progress**: I did the first problem of my assignment and test it (I didn't stress test it though), Money change. Also understand sys module in Python. Finally, I got some work in advance for the next problem.
+ 
+**Thoughts:** A hard day. My laptop didn't turn on when I got home and that make me feel sad. I just wanted to sleep after that and that's what I did.
 
 
+### Day 28: February 11, 2020 (Fractional Knapsack)
 
+**Today's Progress**: I finished my Fractional Knapsack problem. 2/7 ready. I couldn't find more time at work to do more.
+
+**Thoughts:** A better day. Some troubles with time, but manageable. The night was better playing with my cousin.
 
 
 
