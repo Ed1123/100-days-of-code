@@ -223,6 +223,11 @@ Days seems to be passing slowly, but I know I will keep on the challenge. Today 
 **Thoughts:** A better day. Some troubles with time, but manageable. The night was better playing with my cousin.
 
 
+### Day 29: February 12, 2020 (Car refill)
+
+**Today's Progress**: At least advance a bit with the solution of the car refill problem. Also review some Linux installations docs.
+
+**Thoughts:** No words.
 
 
 
