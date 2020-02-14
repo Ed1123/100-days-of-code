@@ -230,6 +230,14 @@ Days seems to be passing slowly, but I know I will keep on the challenge. Today 
 **Thoughts:** No words.
 
 
+### Day 30: February 13, 2020 (Car refill)
+
+**Today's Progress**: Having trouble with the car refill algorithm implementation. Perfectionism played against me.
+
+**Thoughts:** The clouds dissipated during the day and the day got better by evening. Did anyone notice the pattern?
+
+
+
 
 
 
