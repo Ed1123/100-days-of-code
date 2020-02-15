@@ -238,6 +238,12 @@ Days seems to be passing slowly, but I know I will keep on the challenge. Today 
 
 
 
+### Day 31: February 14, 2020 (Car refill - second)
+
+**Today's Progress**: I've made one program that seems to work. I was working on another algorithm to prove the first (also because I want something made just by me).
+
+**Thoughts:** Normal day. Kind of late (1:38am) to code, but it's ok now.
+
 
 
 
