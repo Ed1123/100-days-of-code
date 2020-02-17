@@ -245,6 +245,12 @@ Days seems to be passing slowly, but I know I will keep on the challenge. Today 
 **Thoughts:** Normal day. Kind of late (1:38am) to code, but it's ok now.
 
 
+### Day 32: February 16, 2020 (Car refill done!)
+
+**Today's Progress**: Finished understanding, debugging and testing the car refill problem. It took much more than expected, but it’s ok. I feel that I’ve learned it pretty well. Also started with the next problem. Permutations?
+
+**Thoughts:** I miss one day, but it was planned. It was ok. It’s like I take a single day of on this journey. Feeling tired but relaxed.
+
 
 
 **Link(s) to work**
