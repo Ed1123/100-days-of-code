@@ -252,6 +252,14 @@ Days seems to be passing slowly, but I know I will keep on the challenge. Today 
 **Thoughts:** I miss one day, but it was planned. It was ok. It’s like I take a single day of on this journey. Feeling tired but relaxed.
 
 
+### Day 33: February 17, 2020 (Max for product)
+
+**Today's Progress**: Finished the max product problem. I just need to finish debugging the stress test.
+
+**Thoughts:** A little bit hard day at work. Downing thoughts everywhere xD.
+
+
+
 
 **Link(s) to work**
 1. [Link](http://www.example.com)
