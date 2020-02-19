@@ -259,6 +259,12 @@ Days seems to be passing slowly, but I know I will keep on the challenge. Today 
 **Thoughts:** A little bit hard day at work. Downing thoughts everywhere xD.
 
 
+### Day 34: February 18, 2020 (Debugging dot product)
+
+**Today's Progress**: They certainly are permutations. I’ve already solved the problem, but I want to test it with a naive algorithm finding all possible solutions and just comparing them. It’ll be naive and just for testing purposes.
+
+**Thoughts:** A productive day. I recovered my laptop and some confidence in the process. Feeling ok. Need to move from this stuck place I'm in.
+
 
 
 **Link(s) to work**
