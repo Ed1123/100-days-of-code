@@ -266,6 +266,17 @@ Days seems to be passing slowly, but I know I will keep on the challenge. Today 
 **Thoughts:** A productive day. I recovered my laptop and some confidence in the process. Feeling ok. Need to move from this stuck place I'm in.
 
 
+### Day 35: February 19, 2020 (Finished the dot product!)
+
+**Today's Progress**: Finish the dot product problem. It took me longer than I would have liked. Also started with the collecting signatures problem. So far I have two tasks here. Come up with an algorithm and read about tuples for understanding how the initial code in the program is using them.
+
+**Thoughts:** Feeling a bit more than ok. I just need to accommodate my schedule and do a bit more exercise.
+
+
+
+
+
+
 
 **Link(s) to work**
 1. [Link](http://www.example.com)
