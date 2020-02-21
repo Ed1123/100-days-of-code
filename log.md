@@ -273,6 +273,11 @@ Days seems to be passing slowly, but I know I will keep on the challenge. Today 
 **Thoughts:** Feeling a bit more than ok. I just need to accommodate my schedule and do a bit more exercise.
 
 
+### Day 36: February 20, 2020 (Finished the algorithm and safe move prove)
+
+**Today's Progress**: I did it! Covering segments it’s partially done. I just need to learn about named tuples in python and how to order them.
+
+**Thoughts:** A haaaaaaaaaaaaaard working day. I feel fine though. I feel that I’m been useful.
 
 
 
