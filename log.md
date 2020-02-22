@@ -280,6 +280,12 @@ Days seems to be passing slowly, but I know I will keep on the challenge. Today 
 **Thoughts:** A haaaaaaaaaaaaaard working day. I feel fine though. I feel that I’m been useful.
 
 
+### Day 37: February 21, 2020 (different summands)
+
+**Today's Progress**: Finish testing the collecting signatures problem. Also finish the different summands, but I think my algorithm is a by too slow. Tomorrow I’ll check it. Update: I couldn’t wait till tomorrow. The algorithm is fast. The naive algorithm was the slow part when stress testing.
+
+**Thoughts:** A high day. I can eat the world.
+
 
 
 
