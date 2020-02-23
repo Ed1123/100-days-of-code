@@ -287,6 +287,11 @@ Days seems to be passing slowly, but I know I will keep on the challenge. Today 
 **Thoughts:** A high day. I can eat the world.
 
 
+### Day 38: February 22, 2020 (last exercise)
+
+**Today's Progress**: I finish the last greedy algorithm exercise. It was great. Tomorrow, divide and conquer.
+
+**Thoughts:** F… I have to organize better. It’s 2:07 am.
 
 
 **Link(s) to work**
