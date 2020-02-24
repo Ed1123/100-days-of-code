@@ -294,5 +294,13 @@ Days seems to be passing slowly, but I know I will keep on the challenge. Today 
 **Thoughts:** F… I have to organize better. It’s 2:07 am.
 
 
+### Day 39: February 23, 2020 (Divide and Conquer)
+
+**Today's Progress**: Introduction to Divide and Conquer algorithms. Review linear search and binary search. Also review polynomial multiplication.
+
+**Thoughts:** A better day but starting to feel down again.
+
+
+
 **Link(s) to work**
 1. [Link](http://www.example.com)
