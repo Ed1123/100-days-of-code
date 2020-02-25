@@ -301,6 +301,16 @@ Days seems to be passing slowly, but I know I will keep on the challenge. Today 
 **Thoughts:** A better day but starting to feel down again.
 
 
+### Day 40: February 24, 2020 (Divide and Conquer)
+
+**Today's Progress**: Polynomial multiplication understood. Also learned how Gauss's trick helps reduce the leaves of the recursion tree when using the divide and conquer algorithm.
+
+**Thoughts:** A productive day at work doing some Python code with pandas and excel and csv files. Those kinds of tasks always cheers me up.
+
+
+
+
+
 
 **Link(s) to work**
 1. [Link](http://www.example.com)
