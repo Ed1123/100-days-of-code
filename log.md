@@ -308,6 +308,11 @@ Days seems to be passing slowly, but I know I will keep on the challenge. Today 
 **Thoughts:** A productive day at work doing some Python code with pandas and excel and csv files. Those kinds of tasks always cheers me up.
 
 
+### Day 41: February 25, 2020 (Master theorem)
+
+**Today's Progress**: Studied the master theorem in depth. It helps a lot to understand better how divide and conquer trees and its recursive times work.
+
+**Thoughts:** More python at work! I’ve got some more interesting work for tomorrow. Though, today was a really really tiring day.
 
 
 
