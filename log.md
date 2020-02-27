@@ -315,6 +315,16 @@ Days seems to be passing slowly, but I know I will keep on the challenge. Today 
 **Thoughts:** More python at work! I’ve got some more interesting work for tomorrow. Though, today was a really really tiring day.
 
 
+### Day 42: February 26, 2020 (Sorting)
+
+**Today's Progress**: Learned selection sort, merge sort and counting sort. Not only the algorithms, but also its running time en big-O notation. Also learned that comparison based sorting do at best nlogn, but that if we know details about the sorting array it can be done better using non-comparison based algorithms.
+
+**Thoughts:** Another tiring day at work. Full of python. I love it, but I get tired.
+
+
+
+
+
 
 
 **Link(s) to work**
