@@ -322,7 +322,18 @@ Days seems to be passing slowly, but I know I will keep on the challenge. Today 
 **Thoughts:** Another tiring day at work. Full of python. I love it, but I get tired.
 
 
+### Day 43: February 27, 2020 (Quick sort)
 
+**Today's Progress**: Learned the quick sort algorithm. A long lesson.
+
+**Thoughts:** What a day. I just feel really sleepy because I couldn’t sleep well for my allergy.
+
+
+### Day 44: February 28, 2020 (Quick sort)
+
+**Today's Progress**: Still with quick sort. Analice it’s running time using probabilities. Also learned new implementation to reduce space occupation, using a random pivot to avoid worst cases and partitioning in three parts to operate in nlogn with “few unique” arrays.
+
+**Thoughts:** Tough day at work. Feel a bit tentious for a client that was unhappy with its computer (after 3 months), but everything ended up going well. (not in my relation, but...well…)
 
 
 
