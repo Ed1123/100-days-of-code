@@ -336,6 +336,16 @@ Days seems to be passing slowly, but I know I will keep on the challenge. Today 
 **Thoughts:** Tough day at work. Feel a bit tentious for a client that was unhappy with its computer (after 3 months), but everything ended up going well. (not in my relation, but...well…)
 
 
+### Day 45: February 29, 2020 (Divide and conquer assignments)
+
+**Today's Progress**: Implement the binary search algorithm in python. Also tried to solve the problem of finding a majority element in an array in O(n logn). No success yet.
+
+**Thoughts:** Productive day at home. I did some tasks I was procrastinating.
+
+
+
+
+
 
 
 **Link(s) to work**
