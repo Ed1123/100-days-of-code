@@ -343,6 +343,11 @@ Days seems to be passing slowly, but I know I will keep on the challenge. Today 
 **Thoughts:** Productive day at home. I did some tasks I was procrastinating.
 
 
+### Day 46: March 01, 2020 (Majority element)
+
+**Today's Progress**: Stuck in the problem, but I got a little illumination at the end of the day.
+
+**Thoughts:** Another productive day at home. I also receive a good new. I hope everything goes as planned.
 
 
 
