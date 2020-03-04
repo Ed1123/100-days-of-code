@@ -357,6 +357,12 @@ Days seems to be passing slowly, but I know I will keep on the challenge. Today 
 **Thoughts:** An exciting day for the opportunity that appeared in front of me. I just have to take it easy.
 
 
+### Day 48: March 03, 2020 (PL/SQL)
+
+**Today's Progress**: Read the basics of PL/SQL. Functions, procedures, triggers, cursors and exceptions.
+
+**Thoughts:** Day full of reading new information. I felt exited. I hope things go well.
+
 
 
 
