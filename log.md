@@ -364,6 +364,12 @@ Days seems to be passing slowly, but I know I will keep on the challenge. Today 
 **Thoughts:** Day full of reading new information. I felt exited. I hope things go well.
 
 
+### Day 49: March 04, 2020 (Improved quick sort)
+
+**Today's Progress**: Solve the problem of implementing an improvement for the quick sort algorithm to work efficiently with few-unique-elements arrays.
+
+**Thoughts:** The interview went well! I hope I’ll get the job. If not, my plan B will be triggered.
+
 
 
 
