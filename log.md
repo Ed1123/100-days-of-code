@@ -371,11 +371,22 @@ Days seems to be passing slowly, but I know I will keep on the challenge. Today 
 **Thoughts:** The interview went well! I hope I’ll get the job. If not, my plan B will be triggered.
 
 
-### Day 50: March 04, 2020 (Number of invertions)
+### Day 50: March 05, 2020 (Number of invertions)
 
 **Today's Progress**: This divide and conquer algoths are taking me longer than expected. Implement and debugging a solution for getting the number of inversions of an array.
 
 **Thoughts:** It seems I will. I’m excited.
+
+
+### Day 51: March 06, 2020 (Get number of inversions solved!)
+
+**Today's Progress**: Finally get the algorithm to work properly. The next problem is Organizing a Lottery. I have a naive solution in mind for tomorrow.
+
+**Thoughts:** They haven’t called me yet and that made me a bit anxious today. I manage to maintain a positive attitude, though.
+
+**Link to work:** [Tweet with screenshot](https://twitter.com/iEdMV/status/1236112768509632512)
+
+
 
 
 **Link(s) to work**
