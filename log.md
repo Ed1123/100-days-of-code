@@ -387,6 +387,12 @@ Days seems to be passing slowly, but I know I will keep on the challenge. Today 
 **Link to work:** [Tweet with screenshot](https://twitter.com/iEdMV/status/1236112768509632512)
 
 
+### Day 52: March 07, 2020 (Organizing a lottery)
+
+**Today's Progress**: The naive solution was already done. I don’t have a clue on how to proceed with the divide and conquer one. I also tried again the majority element algorithm.
+
+**Thoughts:** Awesome day. I bought my new monitor and told everyone about the new job.
+
 
 
 **Link(s) to work**
