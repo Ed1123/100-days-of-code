@@ -394,6 +394,12 @@ Days seems to be passing slowly, but I know I will keep on the challenge. Today 
 **Thoughts:** Awesome day. I bought my new monitor and told everyone about the new job.
 
 
+### Day 53: March 08, 2020 (Majority element and Organizing a lottery)
+
+**Today's Progress**: Majority element solved after a limitation on the algorithm. The final code is so neat that I’m impressed on how I was managing to complicate the problem that much. Also tried again to find a solution for the Organizing a lottery problem, but I couldn’t find any yet.
+
+**Thoughts:** Feeling confident. I expect the call for tomorrow.
+
 
 **Link(s) to work**
 1. [Link](http://www.example.com)
