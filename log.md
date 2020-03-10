@@ -401,5 +401,13 @@ Days seems to be passing slowly, but I know I will keep on the challenge. Today 
 **Thoughts:** Feeling confident. I expect the call for tomorrow.
 
 
+### Day 54: March 09, 2020 (Organizing a lottery)
+
+**Today's Progress**: Contemplating possible solutions for the problem. I haven’t found any yet.
+
+**Thoughts:** Still feeling good. Mantining me active gives me always a good mood (I believe). 
+
+
+
 **Link(s) to work**
 1. [Link](http://www.example.com)
