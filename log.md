@@ -408,6 +408,13 @@ Days seems to be passing slowly, but I know I will keep on the challenge. Today 
 **Thoughts:** Still feeling good. Mantining me active gives me always a good mood (I believe). 
 
 
+### Day 55: March 10, 2020 (Closest Points)
+
+**Today's Progress**: Having trouble with this last two problems. I finsihed the naive algorith for the Closest Points problem. Also reviewed the needed concepts to solve it in O(n Log^2(n)).
+
+**Thoughts:** Didn’t feel that right today. It’s enough to say it’s 2:18 am already.
+
+
 
 **Link(s) to work**
 1. [Link](http://www.example.com)
