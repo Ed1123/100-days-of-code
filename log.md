@@ -422,6 +422,14 @@ Days seems to be passing slowly, but I know I will keep on the challenge. Today 
 **Thoughts:** Another slow day.
 
 
+### Day 57: March 12, 2020 (Dynamic programing - Alignment string)
+
+**Today's Progress**: I learned basic dynamic programming concepts and the problem of alignment string and its variations.
+
+**Thoughts:** Boring day at work. Feeling a bit better, but still not at my 100%.
+
+
+
 
 
 
