@@ -415,6 +415,15 @@ Days seems to be passing slowly, but I know I will keep on the challenge. Today 
 **Thoughts:** Didn’t feel that right today. It’s enough to say it’s 2:18 am already.
 
 
+### Day 56: March 11, 2020 (Dynamic programing)
+
+**Today's Progress**: Left divide and conquer for today. I started the next chapter Dynamic programming.
+
+**Thoughts:** Another slow day.
+
+
+
+
 
 **Link(s) to work**
 1. [Link](http://www.example.com)
