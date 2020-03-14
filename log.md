@@ -429,6 +429,14 @@ Days seems to be passing slowly, but I know I will keep on the challenge. Today 
 **Thoughts:** Boring day at work. Feeling a bit better, but still not at my 100%.
 
 
+### Day 58: March 13, 2020 (Dynamic programing - Edit distance)
+
+**Today's Progress**: Reading technical stuff from books to better understand the underlying details.
+
+**Thoughts:** A slow day, but I think it’s about to end.
+
+**Link to work:** [Tweet with screenshot](https://twitter.com/iEdMV/status/1238702985091469312)
+
 
 
 
