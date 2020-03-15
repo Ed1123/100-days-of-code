@@ -438,6 +438,11 @@ Days seems to be passing slowly, but I know I will keep on the challenge. Today 
 **Link to work:** [Tweet with screenshot](https://twitter.com/iEdMV/status/1238702985091469312)
 
 
+### Day 59: March 14, 2020 (Dynamic programing - DNA)
+
+**Today's Progress**: Still reading. It's good for key concepts.
+
+**Thoughts:** A better day, very productive. Still feeling a little sluggish, but better overall.
 
 
 
