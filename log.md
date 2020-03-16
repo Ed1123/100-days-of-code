@@ -445,6 +445,13 @@ Days seems to be passing slowly, but I know I will keep on the challenge. Today 
 **Thoughts:** A better day, very productive. Still feeling a little sluggish, but better overall.
 
 
+### Day 59: March 15, 2020 (Dynamic programing - Hirschber's algorithm)
+
+**Today's Progress**: Trying to understand Hirschber's algorithm, reading most advanced stuff and gave a glance to the assignment problem.
+
+**Thoughts:** A sunday. Still not feeling in the mood to try those algorithms exercises from the divide and conquer seccion I left.
+
+
 
 **Link(s) to work**
 1. [Link](http://www.example.com)
