@@ -445,11 +445,19 @@ Days seems to be passing slowly, but I know I will keep on the challenge. Today 
 **Thoughts:** A better day, very productive. Still feeling a little sluggish, but better overall.
 
 
-### Day 59: March 15, 2020 (Dynamic programing - Hirschber's algorithm)
+### Day 60: March 15, 2020 (Dynamic programing - Hirschber's algorithm)
 
 **Today's Progress**: Trying to understand Hirschber's algorithm, reading most advanced stuff and gave a glance to the assignment problem.
 
 **Thoughts:** A sunday. Still not feeling in the mood to try those algorithms exercises from the divide and conquer seccion I left.
+
+
+### Day 61: March 16, 2020 (Dynamic programing - Money change)
+
+**Today's Progress**: Read an awesome article that encourages me in this difficult time. Also started with the Money change problem with DP. I’ve already implemented a recursive solution just for the stress test.
+
+**Thoughts:** Feeling ok. I didn’t have a lot of energy to move in my coding journey (work and the circumstances take most of it), but an article helped me keep moving on.
+
 
 
 
