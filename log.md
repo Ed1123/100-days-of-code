@@ -11,7 +11,7 @@
 
 ### Day 1: January 15, 2020 (WhatsappWeb send when typing)
 
-**Today's Progress**: I worked in yesterday's code improving it with online sources. I learned more about web, but it is definitely not my strenght. I also commit the code to Github and add a little game I did some time ago to improve it as a part of this challege.
+**Today's Progress**: I worked in yesterday's code improving it with online sources. I learned more about web, but it is definitely not my strenght. I also commit the code to Github and add a little game I did some time ago to it as a part of this challege.
 
 **Thoughts:** Feeling great with a lot of energy to keep working on this. A little bit nervous about the problems it may have in the future, but it's manageble.
 
@@ -457,6 +457,14 @@ Days seems to be passing slowly, but I know I will keep on the challenge. Today 
 **Today's Progress**: Read an awesome article that encourages me in this difficult time. Also started with the Money change problem with DP. I’ve already implemented a recursive solution just for the stress test.
 
 **Thoughts:** Feeling ok. I didn’t have a lot of energy to move in my coding journey (work and the circumstances take most of it), but an article helped me keep moving on.
+
+
+### Day 62: March 17, 2020 (Dynamic programing - Money change, Primitive calculator)
+
+**Today's Progress**: Finish implementing a dp solution for the money change problem and test it. Also I finished the solution for the primitive calculator problem.
+
+**Thoughts:** Feeling better. I move much more than the last few days. Great.
+
 
 
 
