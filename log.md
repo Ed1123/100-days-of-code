@@ -466,6 +466,11 @@ Days seems to be passing slowly, but I know I will keep on the challenge. Today 
 **Thoughts:** Feeling better. I move much more than the last few days. Great.
 
 
+### Day 63: March 18, 2020 (Dynamic programing - Edit distance, Longest common subsequence)
+
+**Today's Progress**: Today I solved the Edit distance problem, from implementing the algorithm to stress testing it. I also give a glance to the next problem, the Longest common subsequence problem. Besides that I read the book and review my notes.
+
+**Thoughts:** Feeling good. I have to know how to maintain this energy level. A productive day.
 
 
 
