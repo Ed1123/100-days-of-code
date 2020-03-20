@@ -473,6 +473,14 @@ Days seems to be passing slowly, but I know I will keep on the challenge. Today 
 **Thoughts:** Feeling good. I have to know how to maintain this energy level. A productive day.
 
 
+### Day 64: March 19, 2020 (Dynamic programing - Longest common subsequence for 2 and 3 sequences)
+
+**Today's Progress**: Today I solved the longest common subsequence problem for 2 and 3 sequences. The first was a modification of the edit distance problem while the later was an adequation of the lcs2. Instead of a 2-dimensional array I had to use a 3-d array. I solved both problems and tested them.
+
+**Thoughts:** A productive day. Nothing to do for work, but since I have the mobility to be at home I was able to do many more things.
+
+
+
 
 **Link(s) to work**
 1. [Link](http://www.example.com)
