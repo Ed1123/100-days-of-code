@@ -480,6 +480,17 @@ Days seems to be passing slowly, but I know I will keep on the challenge. Today 
 **Thoughts:** A productive day. Nothing to do for work, but since I have the mobility to be at home I was able to do many more things.
 
 
+### Day 65: March 20, 2020 (Dynamic programing - Reading)
+
+**Today's Progress**: Reading about a structure technique to solve DP problems. One is to analyze the structure of the optimal solution and the other is optimizing a brute force solution.
+
+**Thoughts:** An anxious day without really coding. I managed to complete at least one hour.
+
+
+
+
+
+
 
 
 **Link(s) to work**
