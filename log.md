@@ -487,6 +487,11 @@ Days seems to be passing slowly, but I know I will keep on the challenge. Today 
 **Thoughts:** An anxious day without really coding. I managed to complete at least one hour.
 
 
+### Day 66: March 21, 2020 (Points and segments problem, again)
+
+**Today's Progress**: Return to the points and segments problem, tried an approach and failed without finishing it. Then, after reading the course forum, I found an incredibly simple solution. Tomorrow I’ll implement it.
+
+**Thoughts:** Another anxious day. I managed to move more than yesterday, though.
 
 
 
