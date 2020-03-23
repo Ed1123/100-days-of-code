@@ -494,6 +494,11 @@ Days seems to be passing slowly, but I know I will keep on the challenge. Today 
 **Thoughts:** Another anxious day. I managed to move more than yesterday, though.
 
 
+### Day 67: March 22, 2020 (Points and segments problem, almost done)
+
+**Today's Progress**: Finally, I implement a solution for the points and segments problem. I spend most of the time trying to sort the array of pairs applying my random quick sort algorithm. I face some problems with ordering the array just using the first element. The solution at the end was easier than expected. I already know how to implement the last part. I’m just letting it as a motivation to start coding tomorrow.
+
+**Thoughts:** A slow day. Fortunately, I did the code I wanted to do. And it was more than 1 hour.
 
 
 
