@@ -501,6 +501,13 @@ Days seems to be passing slowly, but I know I will keep on the challenge. Today 
 **Thoughts:** A slow day. Fortunately, I did the code I wanted to do. And it was more than 1 hour.
 
 
+### Day 68: March 23, 2020 (Week 4 almost done. 4/6)
+
+**Today's Progress**: I finished implementing a solution for the points and segments problem. I also implemented the algorithm for the closest point problem. Then I submitted the 6 solutions to find out that 2 have errors. For now I can’t find them. Tomorrow I’ll keep looking for them.
+
+**Thoughts:** A day with a lot of code. Unfortunately I didn’t have the results I expected. Tomorrow will be another day to keep trying.
+
+
 
 
 **Link(s) to work**
