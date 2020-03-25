@@ -508,6 +508,13 @@ Days seems to be passing slowly, but I know I will keep on the challenge. Today 
 **Thoughts:** A day with a lot of code. Unfortunately I didn’t have the results I expected. Tomorrow will be another day to keep trying.
 
 
+### Day 69: March 24, 2020 (Debugging and started Week 6)
+
+**Today's Progress**: I feel so proud of myself for not giving up in the 2 problems I left from week 4. I completed them and today I finished submitting them, debugging them in the process. Week 4 and Week 5 finish with 100 score. :D
+
+**Thoughts:** A normal day. Some video games and debugging.
+
+
 
 
 **Link(s) to work**
