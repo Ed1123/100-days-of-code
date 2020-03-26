@@ -515,6 +515,14 @@ Days seems to be passing slowly, but I know I will keep on the challenge. Today 
 **Thoughts:** A normal day. Some video games and debugging.
 
 
+### Day 70: March 25, 2020 (Knapsack with and without repetitions using DP)
+
+**Today's Progress**: Review lessons in which the knapsack problem was analyzed. Greedy algorithms don’t work when fractions of items are not allowed because the safe move is indeed not safe.
+
+**Thoughts:** Feeling a little bit down today. The day got better at night, though.
+
+
+
 
 
 **Link(s) to work**
