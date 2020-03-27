@@ -522,6 +522,11 @@ Days seems to be passing slowly, but I know I will keep on the challenge. Today 
 **Thoughts:** Feeling a little bit down today. The day got better at night, though.
 
 
+### Day 71: March 26, 2020 (Knapsack without repetitions problems)
+
+**Today's Progress**: I finished the week 6 lessons. Now implementing the solution for this week's assignments. The first is the knapsack problem without repetitions.
+
+**Thoughts:** Feeling more down than yesterday. Moving the minimum.
 
 
 
