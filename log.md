@@ -529,6 +529,16 @@ Days seems to be passing slowly, but I know I will keep on the challenge. Today 
 **Thoughts:** Feeling more down than yesterday. Moving the minimum.
 
 
+### Day 72: March 27, 2020 (Knapsack without repetitions debugging)
+
+**Today's Progress**: Finished implementing the algorithm, but I’ve found a bug while stress testing. Seems a silly one while redefining a global variable. It’s enough for today though. Tomorrow will be a new day.
+
+**Thoughts:** Today wasn’t a great day. Hating my neighbors.
+
+
+
+
+
 
 **Link(s) to work**
 1. [Link](http://www.example.com)
