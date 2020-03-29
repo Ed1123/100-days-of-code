@@ -536,6 +536,11 @@ Days seems to be passing slowly, but I know I will keep on the challenge. Today 
 **Thoughts:** Today wasn’t a great day. Hating my neighbors.
 
 
+### Day 73: March 28, 2020 (Partitioning)
+
+**Today's Progress**: As I was expecting, the bug was very silly and I debugged it right away. Started the second problem, partitioning. I had some trouble figuring out an algorithm, but after a long time thinking I think I have a solution. Tomorrow I’ll implement it.
+
+**Thoughts:** Another down day. It took a long time to get up after feeling down.
 
 
 
