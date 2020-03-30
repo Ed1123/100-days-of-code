@@ -543,6 +543,14 @@ Days seems to be passing slowly, but I know I will keep on the challenge. Today 
 **Thoughts:** Another down day. It took a long time to get up after feeling down.
 
 
+### Day 74: March 29, 2020 (Partitioning done, Placing parentheses)
+
+**Today's Progress**: I ended up implementing a cleanest solution for the partitioning problem, but the reasoning which I came up with yesterday was the starting point. I also implement a recursive dynamic programming solution for the placing parentheses problem, the next and last one. Tomorrow I’ll make a bottom up one and test it
+
+**Thoughts:** Another better day overall. At least I put away my watched clothes.
+
+
+
 
 
 **Link(s) to work**
