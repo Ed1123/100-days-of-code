@@ -550,6 +550,13 @@ Days seems to be passing slowly, but I know I will keep on the challenge. Today 
 **Thoughts:** Another better day overall. At least I put away my watched clothes.
 
 
+### Day 75: March 30, 2020 (Starting Data Structures Class)
+
+**Today's Progress**: The bottom up solution and the testing took a lot more than expected. I really enjoyed implementing it and learned A LOT, though. With that I finished the Algorithmic Toolbox class. Moving to the next one in the specialization, Data Structures. I hope it is as interesting as this was.
+
+**Thoughts:** A much better day.
+
+
 
 
 
