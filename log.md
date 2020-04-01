@@ -557,6 +557,11 @@ Days seems to be passing slowly, but I know I will keep on the challenge. Today 
 **Thoughts:** A much better day.
 
 
+### Day 76: March 31, 2020 (Arrays, linked lists, stacks and queues)
+
+**Today's Progress**: Pretty interesting stuff I haven’t seen before. Definitions, algorithms and running times for allowed methods on each data structure.
+
+**Thoughts:** I feel a little lazy today. I took the time I allow me to take and move the most that I can.
 
 
 
