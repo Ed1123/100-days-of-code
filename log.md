@@ -564,6 +564,15 @@ Days seems to be passing slowly, but I know I will keep on the challenge. Today 
 **Thoughts:** I feel a little lazy today. I took the time I allow me to take and move the most that I can.
 
 
+### Day 77: April 1, 2020 (Trees!)
+
+**Today's Progress**: Finish reading about trees and the methods for walking trees (DFS and BPS). Also started with the assignment. Also watch a video on being an expert on Python.
+
+**Thoughts:** A bad day.
+
+
+
+
 
 **Link(s) to work**
 1. [Link](http://www.example.com)
