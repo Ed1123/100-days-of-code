@@ -571,6 +571,11 @@ Days seems to be passing slowly, but I know I will keep on the challenge. Today 
 **Thoughts:** A bad day.
 
 
+### Day 78: April 2, 2020 (check_brackets.py)
+
+**Today's Progress**: I implemented a solution for the problem of checking brackets parity on a string. I haven’t performed any tests yet though.
+
+**Thoughts:** A better day, but still a lazy one. At least I move, read and learn a lot of Web Dev.
 
 
 
