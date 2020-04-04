@@ -578,6 +578,16 @@ Days seems to be passing slowly, but I know I will keep on the challenge. Today 
 **Thoughts:** A better day, but still a lazy one. At least I move, read and learn a lot of Web Dev.
 
 
+### Day 79: April 3, 2020 (tree-height.py)
+
+**Today's Progress**: I finished testing the check_brackets.py problem and moved to the tree height one. I spend a lot of time reviewing key concepts. Those help get to a solution. Tomorrow I’ll implement it.
+
+**Thoughts:** Still lazy, but starting to feel better.
+
+
+
+
+
 
 **Link(s) to work**
 1. [Link](http://www.example.com)
