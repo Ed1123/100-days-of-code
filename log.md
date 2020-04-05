@@ -585,6 +585,11 @@ Days seems to be passing slowly, but I know I will keep on the challenge. Today 
 **Thoughts:** Still lazy, but starting to feel better.
 
 
+### Day 80: April 4, 2020 (tree-height.py)
+
+**Today's Progress**: Messing things up. Understanding trees and how to store them is more complex than I initially thought. I learned about declaring classes in python. I haven’t done it before. I think tomorrow I’ll be enlightened.
+
+**Thoughts:** A better day. Feeling better and better.
 
 
 
