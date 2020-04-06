@@ -592,6 +592,12 @@ Days seems to be passing slowly, but I know I will keep on the challenge. Today 
 **Thoughts:** A better day. Feeling better and better.
 
 
+### Day 81: April 5, 2020 (tree_height.py)
+
+**Today's Progress**: I was debugging a class and finished implementing a recursive solution for the tree_height problem. It has some problems with recursion limits on python, although I used the indications to avoid them. I was also working on a non-recursive solution using stacks. Tomorrow it’ll be ready.
+
+**Thoughts:** Sunday. I allow myself to rest, but at the same time I take plenty of time to study. Time to go to bed.
+
 
 
 **Link(s) to work**
