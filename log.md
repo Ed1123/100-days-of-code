@@ -599,6 +599,14 @@ Days seems to be passing slowly, but I know I will keep on the challenge. Today 
 **Thoughts:** Sunday. I allow myself to rest, but at the same time I take plenty of time to study. Time to go to bed.
 
 
+### Day 82: April 6, 2020 (process_packages.py)
+
+**Today's Progress**: I finished the tree height problem implemented without recursion. I tested it and submitted it. It was correct. I also started with the process packages problem. I have an idea for the algorithm, but I’m having trouble understanding the initial code with classes that was provided to me. Some interesting stuff to check tomorrow.
+
+**Thoughts:** It was a tiring day for me, but I managed to be productive in my code. I have to move in other areas also. I’ll find a way.
+
+
+
 
 **Link(s) to work**
 1. [Link](http://www.example.com)
