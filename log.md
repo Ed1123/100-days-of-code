@@ -606,6 +606,13 @@ Days seems to be passing slowly, but I know I will keep on the challenge. Today 
 **Thoughts:** It was a tiring day for me, but I managed to be productive in my code. I have to move in other areas also. I’ll find a way.
 
 
+### Day 83: April 7, 2020 (process_packages.py)
+
+**Today's Progress**: After many hours understanding the logic of the problem I have a working algorithm. It failed some of my tests, though. Tomorrow will be debugging time.
+
+**Thoughts:** A productive coding day even though I didn’t feel like coding.
+
+
 
 
 **Link(s) to work**
