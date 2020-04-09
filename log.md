@@ -613,6 +613,13 @@ Days seems to be passing slowly, but I know I will keep on the challenge. Today 
 **Thoughts:** A productive coding day even though I didn’t feel like coding.
 
 
+### Day 84: April 8, 2020 (process_packages.py and stack_with_max.py)
+
+**Today's Progress**: I finished debugging the process_packages.py, finally. The next problem was an easy one. Using a stack inside a stack class definition to add a max method that returns the max in constant time and not in O(n). Solved, tested and debugged. Also I started with the next problem, max sliding window. 
+
+**Thoughts:** Another productive coding day. I think I’ve found a technique to move when I’m a bit lazy.
+
+
 
 
 **Link(s) to work**
