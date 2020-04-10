@@ -620,6 +620,12 @@ Days seems to be passing slowly, but I know I will keep on the challenge. Today 
 **Thoughts:** Another productive coding day. I think I’ve found a technique to move when I’m a bit lazy.
 
 
+### Day 85: April 9, 2020 (Max sliding window)
+
+**Today's Progress**: The solution I implemented had a problem and I ran out of ideas for today. I’m tired. 
+
+**Thoughts:** A very very tiring day. I feel good for having helped my therapist with a virtual conference. Even though it took most of my energy and I just could move one hour in my code.
+
 
 
 **Link(s) to work**
