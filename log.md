@@ -627,6 +627,14 @@ Days seems to be passing slowly, but I know I will keep on the challenge. Today 
 **Thoughts:** A very very tiring day. I feel good for having helped my therapist with a virtual conference. Even though it took most of my energy and I just could move one hour in my code.
 
 
+### Day 86: April 10, 2020 (Week 1 Done)
+
+**Today's Progress**: The code I made had an error so I had to think of another idea. I ended up implementing a solution from a hint with help from a forum comment.
+
+**Thoughts:** Kind of a down day. I felt a little bit alone.
+
+
+
 
 **Link(s) to work**
 1. [Link](http://www.example.com)
