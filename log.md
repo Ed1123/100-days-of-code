@@ -634,6 +634,15 @@ Days seems to be passing slowly, but I know I will keep on the challenge. Today 
 **Thoughts:** Kind of a down day. I felt a little bit alone.
 
 
+### Day 87: April 11, 2020 (Dynamic arrays)
+
+**Today's Progress**: Learned about dynamic arrays and how its amortized running time is just O(1), even though its worst case takes O(n). I also review how to use the Python Interactive windows in VS Code. It could save me some time.
+
+**Thoughts:** A really lazy day. Fighting against myself.
+
+
+
+
 
 
 **Link(s) to work**
