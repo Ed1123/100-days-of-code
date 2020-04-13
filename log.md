@@ -641,6 +641,13 @@ Days seems to be passing slowly, but I know I will keep on the challenge. Today 
 **Thoughts:** A really lazy day. Fighting against myself.
 
 
+### Day 88: April 12, 2020 (Amortized Analysis test)
+
+**Today's Progress**: I took the test on amortized cost and passed it. After that I learned about *args and **kwargs arguments in Python functions. I also read the book to reinforce my knowledge on amortized cost.
+
+**Thoughts:** Another lazy day. It got better at the end though.
+
+
 
 
 
