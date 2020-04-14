@@ -648,6 +648,12 @@ Days seems to be passing slowly, but I know I will keep on the challenge. Today 
 **Thoughts:** Another lazy day. It got better at the end though.
 
 
+### Day 89: April 13, 2020 (Priority Queues)
+
+**Today's Progress**: I learned about priority queues and its implementation using heaps as complete binary trees. I really like how nifty this data structure is.
+
+**Thoughts:** Day full of work. I didn’t find enough time during the day to finish my coding hour. I’m enjoying it, though.
+
 
 
 
