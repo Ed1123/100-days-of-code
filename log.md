@@ -655,6 +655,12 @@ Days seems to be passing slowly, but I know I will keep on the challenge. Today 
 **Thoughts:** Day full of work. I didn’t find enough time during the day to finish my coding hour. I’m enjoying it, though.
 
 
+### Day 90: April 14, 2020 (Amortized analysis - Reading)
+
+**Today's Progress**: I learned to use the IPython shell as an alternative to the native shell. It offers a nicer interface and easy control of commands. I used it to make a program for a binary counter to help me understand the examples in the book.
+
+**Thoughts:** I did have some work today. A productive day I’d say. Even though I haven’t code that much I learned to use new tools and practice my programming abilities.
+
 
 
 
