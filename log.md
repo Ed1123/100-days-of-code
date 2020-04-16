@@ -662,6 +662,16 @@ Days seems to be passing slowly, but I know I will keep on the challenge. Today 
 **Thoughts:** I did have some work today. A productive day I’d say. Even though I haven’t code that much I learned to use new tools and practice my programming abilities.
 
 
+### Day 91: April 15, 2020 (Amortized analysis - Reading)
+
+**Today's Progress**: Just hard reading.
+
+**Thoughts:** A busy day. I couldn’t move much.
+
+
+
+
+
 
 
 **Link(s) to work**
