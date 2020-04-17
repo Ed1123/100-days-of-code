@@ -669,6 +669,12 @@ Days seems to be passing slowly, but I know I will keep on the challenge. Today 
 **Thoughts:** A busy day. I couldn’t move much.
 
 
+### Day 92: April 16, 2020 (Priority queues - Heap sort)
+
+**Today's Progress**: I learned how a heap sort algorithm can work in O(n.log(n)) time without extra space.
+
+**Thoughts:** Another busy day with cooking. I moved what I could, which wasn’t little.
+
 
 
 
