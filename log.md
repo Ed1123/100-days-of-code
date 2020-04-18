@@ -676,6 +676,12 @@ Days seems to be passing slowly, but I know I will keep on the challenge. Today 
 **Thoughts:** Another busy day with cooking. I moved what I could, which wasn’t little.
 
 
+### Day 93: April 17, 2020 (Disjoint sets)
+
+**Today's Progress**: I learned a new data structure. Disjoint sets and its basic operations MakeSet(x), Find(x) and Union(x, y). Also I learned two implementations, one using arrays, linked lists (O(n) operations) and a tree which have logaritmit time operations.
+
+**Thoughts:** An evolution. Great day. Very productive in personal things.
+
 
 
 
