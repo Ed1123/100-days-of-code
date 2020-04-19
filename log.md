@@ -683,6 +683,13 @@ Days seems to be passing slowly, but I know I will keep on the challenge. Today 
 **Thoughts:** An evolution. Great day. Very productive in personal things.
 
 
+### Day 94: April 18, 2020 (Disjoint sets - Efitien implementation)
+
+**Today's Progress**: Union by rank and path compression. Using these two procedures allows us to have almost constant running time for most inputs.
+
+**Thoughts:** A very productive day. It’s very late though. Time to sleep.
+
+
 
 
 
