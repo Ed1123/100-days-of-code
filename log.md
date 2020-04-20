@@ -690,6 +690,12 @@ Days seems to be passing slowly, but I know I will keep on the challenge. Today 
 **Thoughts:** A very productive day. It’s very late though. Time to sleep.
 
 
+### Day 95: April 19, 2020 (Disjoint sets - Reading)
+
+**Today's Progress**: Getting done with this data structure. After reading I can’t fully understand the proof of the running time. I think I may check it again later.
+
+**Thoughts:** A neutral day. I’m starting to feel bad for working on these hours.
+
 
 
 
