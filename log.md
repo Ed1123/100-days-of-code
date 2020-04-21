@@ -697,6 +697,15 @@ Days seems to be passing slowly, but I know I will keep on the challenge. Today 
 **Thoughts:** A neutral day. I’m starting to feel bad for working on these hours.
 
 
+### Day 96: April 20, 2020 (Data Analysis)
+
+**Today's Progress**: I took a break from my course and watched a FreeCodeCamp video on Data Analysis using Python. Also review AWS concepts I wanted to learn.
+
+**Thoughts:** Trying to improve my day organization.
+
+
+
+
 
 
 **Link(s) to work**
