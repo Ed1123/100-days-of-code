@@ -704,6 +704,11 @@ Days seems to be passing slowly, but I know I will keep on the challenge. Today 
 **Thoughts:** Trying to improve my day organization.
 
 
+### Day 97: April 21, 2020 (build_heap.py)
+
+**Today's Progress**: I finished the “Convert an array into a heap” problem. Tomorrow I will stress test it.
+
+**Thoughts:** A better day. I haven’t worked out, though.
 
 
 
