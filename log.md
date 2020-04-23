@@ -711,6 +711,17 @@ Days seems to be passing slowly, but I know I will keep on the challenge. Today 
 **Thoughts:** A better day. I haven’t worked out, though.
 
 
+### Day 98: April 22, 2020 (job_queue.py)
+
+**Today's Progress**: I finished testing the “Convert an array into a heap” problem. It took a bit longer than expected. I also started trying to solve the “Parallel processing” problem. I’m supposed to use a priority queue which I have no idea how to use.
+
+**Thoughts:** A very productive and organized day. Feeling ok.
+
+
+
+
+
+
 
 
 **Link(s) to work**
