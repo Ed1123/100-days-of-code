@@ -718,6 +718,11 @@ Days seems to be passing slowly, but I know I will keep on the challenge. Today 
 **Thoughts:** A very productive and organized day. Feeling ok.
 
 
+### Day 99: April 23, 2020 (job_queue.py)
+
+**Today's Progress**: Reading and thinking. I may just use a priority queue for getting the min in log(n) time.
+
+**Thoughts:** A bit down in the afternoon, but manageable.
 
 
 
@@ -725,4 +730,4 @@ Days seems to be passing slowly, but I know I will keep on the challenge. Today 
 
 
 **Link(s) to work**
-1. [Link](http://www.example.com)
+1. [Algorithmic Toolbox Certificate](https://coursera.org/share/5ca21175c7734e44d90506baac602db3)
