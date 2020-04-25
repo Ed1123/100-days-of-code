@@ -725,8 +725,11 @@ Days seems to be passing slowly, but I know I will keep on the challenge. Today 
 **Thoughts:** A bit down in the afternoon, but manageable.
 
 
+### Day 100: April 24, 2020 (job_queue.py)
 
+**Today's Progress**: I implemented the solution, but it has a bug. Fortunately, I know where it is. It is also the last day of this long journey. It was amazing and I’ll keep on it. :D Here I go round two.
 
+**Thoughts:** A sleepy day, but full of things done. Feeling ok.
 
 
 **Link(s) to work**
