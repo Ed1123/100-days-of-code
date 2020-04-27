@@ -11,3 +11,11 @@ The log of my #100DaysOfCode - Round 2 challenge. Started on [Saturday April 25t
 **Thoughts:** I’m getting organized again. That’s great. Feeling powerful.
 
 **Link to work:** [Python Testing 101 with pytest - YouTube](https://www.youtube.com/watch?v=etosV2IWBF0)
+
+
+### Day 2: April 26, 2020 (merging_tables.py)
+
+**Today's Progress**: The merging tables problem looked really intimidating at first. It is just an implementation of disjoint sets. I have some code finish, but not complete yet.
+
+**Thoughts:** Kind of a hard day. It was a Sunday and I let myself rest, relax and not work that hard. Feeling ok.
+
