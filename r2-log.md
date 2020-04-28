@@ -19,3 +19,9 @@ The log of my #100DaysOfCode - Round 2 challenge. Started on [Saturday April 25t
 
 **Thoughts:** Kind of a hard day. It was a Sunday and I let myself rest, relax and not work that hard. Feeling ok.
 
+
+### Day 3: April 27, 2020 (merging_tables.py)
+
+**Today's Progress**: I finished the merging tables problem. For testing it I used pytest. I also started with the next week’s content, hashing! I also start playing with pandas and JSON APIs. Tomorrow I’ll give it another peek.
+
+**Thoughts:** Feeling ok. Normal routinary day.
