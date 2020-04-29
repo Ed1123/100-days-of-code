@@ -25,3 +25,10 @@ The log of my #100DaysOfCode - Round 2 challenge. Started on [Saturday April 25t
 **Today's Progress**: I finished the merging tables problem. For testing it I used pytest. I also started with the next week’s content, hashing! I also start playing with pandas and JSON APIs. Tomorrow I’ll give it another peek.
 
 **Thoughts:** Feeling ok. Normal routinary day.
+
+
+### Day 4: April 28, 2020 (Pandas and AWS)
+
+**Today's Progress**: I took a break from the course to learn a bit more of pandas, json apis and AWS. Cloud computing is an interesting and broad field. I may take a course on that.
+
+**Thoughts:** Less than ok day. It’s late.
