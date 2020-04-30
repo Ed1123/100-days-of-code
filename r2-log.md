@@ -32,3 +32,10 @@ The log of my #100DaysOfCode - Round 2 challenge. Started on [Saturday April 25t
 **Today's Progress**: I took a break from the course to learn a bit more of pandas, json apis and AWS. Cloud computing is an interesting and broad field. I may take a course on that.
 
 **Thoughts:** Less than ok day. It’s late.
+
+
+### Day 5: April 29, 2020 (Hash)
+
+**Today's Progress**: Sets, maps and hash tables. I got a bit lost today. I hope that by reading I understand better this topic cause I consider it very important.
+
+**Thoughts:** An ok day. I move, little, but it is something.
