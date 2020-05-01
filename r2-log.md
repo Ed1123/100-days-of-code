@@ -39,3 +39,10 @@ The log of my #100DaysOfCode - Round 2 challenge. Started on [Saturday April 25t
 **Today's Progress**: Sets, maps and hash tables. I got a bit lost today. I hope that by reading I understand better this topic cause I consider it very important.
 
 **Thoughts:** An ok day. I move, little, but it is something.
+
+
+### Day 6: April 30, 2020 (SQL and reading hash)
+
+**Today's Progress**: I watched a live coding video on modeling and implementing SQL databases that refreshed and polished up my knowledge on them. It also helped reinforce my basic understanding of AWS and Docker containers. I also took some time to read the books to better understand hashing tables. Now I think I have a better picture of them.
+
+**Thoughts:** A very productive day cleaning. I did what I had to and a bit more. Feeling good. :)
