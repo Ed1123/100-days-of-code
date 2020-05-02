@@ -51,6 +51,6 @@ The log of my #100DaysOfCode - Round 2 challenge. Started on [Saturday April 25t
 ### Day 7: May 1, 2020 (Reading hash)
 
 **Today's Progress**: Hashin tables’ proofs are maths I don’t understand that well. This example exercise resumes some of my frustration.
-![Exercise from companion book](https://twitter.com/iEdMV/status/1256486266268463104/photo/1)
+![Exercise from companion book](https://pbs.twimg.com/media/EW_vjaJWsAAfKuh?format=png&name=small)
 
 **Thoughts:** I almost slept all day. Hope tomorrow will be a better day.
