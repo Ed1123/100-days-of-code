@@ -54,3 +54,10 @@ The log of my #100DaysOfCode - Round 2 challenge. Started on [Saturday April 25t
 ![Exercise from companion book](https://pbs.twimg.com/media/EW_vjaJWsAAfKuh?format=png&name=small)
 
 **Thoughts:** I almost slept all day. Hope tomorrow will be a better day.
+
+
+### Day 8: May 2, 2020 (Universal family)
+
+**Today's Progress**: I learned how hash tables use hash functions from universal families to compute its operations in constant time average. For defining a universal family for hashing integers I learned to use prime numbers.
+
+**Thoughts:** A down day. Negative thoughts everywhere.
