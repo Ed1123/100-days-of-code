@@ -61,3 +61,24 @@ The log of my #100DaysOfCode - Round 2 challenge. Started on [Saturday April 25t
 **Today's Progress**: I learned how hash tables use hash functions from universal families to compute its operations in constant time average. For defining a universal family for hashing integers I learned to use prime numbers.
 
 **Thoughts:** A down day. Negative thoughts everywhere.
+
+
+### Day 9: May 3, 2020 (Starting with Julia and math proofs)
+
+**Today's Progress**: I get to know Julia. It looks really promising. I also looked at mathematical expectation and modular arithmetic to better understand the proofs demonstrating for the average running time of universal families.
+
+**Thoughts:** Another down day.
+
+
+### Day 10: May 4, 2020 (Download Julia and hashing strings)
+
+**Today's Progress**: Download Julia to start learning it with its tutorials notebooks. Before all of that I came across a lot of debugging. Understandable. I couldn’t solve all the issues today. I also learned to hash strings. Basically convert them to ints (using ASCII or Unicode) and use polynomial hashing.
+
+**Thoughts:** Another down day.
+
+
+### Day 11: May 5, 2020 (Finished debugging and start learning Julia)
+
+**Today's Progress**: I finished debugging my Julia installation and started running the tutorial notebooks. So far I’m really liking the notation of the language. I hope it evolves as Python did. It really looks promising.
+
+**Thoughts:** Another even downish day.
