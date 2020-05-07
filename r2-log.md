@@ -82,3 +82,11 @@ The log of my #100DaysOfCode - Round 2 challenge. Started on [Saturday April 25t
 **Today's Progress**: I finished debugging my Julia installation and started running the tutorial notebooks. So far I’m really liking the notation of the language. I hope it evolves as Python did. It really looks promising.
 
 **Thoughts:** Another even downish day.
+
+
+### Day 12: May 6, 2020 (Julia data structures and hashing reading)
+
+**Today's Progress**: Learning to use the different data structures provided by Julia. In the course I started reading the book with the hashing concepts to reinforce my knowledge.
+
+**Thoughts:** Another down day, but I make it better by doing yoga and giving me space to work and relax what I want to.
+
