@@ -90,3 +90,9 @@ The log of my #100DaysOfCode - Round 2 challenge. Started on [Saturday April 25t
 
 **Thoughts:** Another down day, but I make it better by doing yoga and giving me space to work and relax what I want to.
 
+
+### Day 13: May 7, 2020 (Universal Hashing)
+
+**Today's Progress**: Reading universal hashing. Kind of stuck in the proofs. A professor would help.
+
+**Thoughts:** Another down day, but a little bit better. Just a little bit.
