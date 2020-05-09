@@ -96,3 +96,9 @@ The log of my #100DaysOfCode - Round 2 challenge. Started on [Saturday April 25t
 **Today's Progress**: Reading universal hashing. Kind of stuck in the proofs. A professor would help.
 
 **Thoughts:** Another down day, but a little bit better. Just a little bit.
+
+
+### Day 14: May 8, 2020 (Rabin-Karp’s algorithm and plotting in Julia)
+
+**Today's Progress**: I passed the hash functions test and started with the pattern searching algorithm of Rabin-Karp. The idea is to use hashing and chaining to avoid searching and checking each character multiple times.
+About plotting with Julia. I have another bug. Tomorrow I’ll check it.
