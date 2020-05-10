@@ -102,3 +102,11 @@ The log of my #100DaysOfCode - Round 2 challenge. Started on [Saturday April 25t
 
 **Today's Progress**: I passed the hash functions test and started with the pattern searching algorithm of Rabin-Karp. The idea is to use hashing and chaining to avoid searching and checking each character multiple times.
 About plotting with Julia. I have another bug. Tomorrow I’ll check it.
+
+
+### Day 15: May 9, 2020 (Rabin-Karp’s algorithm)
+
+**Today's Progress**: The proof of Rabin-Karp’s algorithm running time is certainly complicated. Fortunately by reading I’m understanding it more.
+About plotting with Julia… I couldn’t catch the bug yet, but I didn’t give that much time.
+
+**Thoughts:** Feeling better. I would say I was ok today.
