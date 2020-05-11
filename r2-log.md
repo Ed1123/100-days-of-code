@@ -110,3 +110,13 @@ About plotting with Julia. I have another bug. Tomorrow I’ll check it.
 About plotting with Julia… I couldn’t catch the bug yet, but I didn’t give that much time.
 
 **Thoughts:** Feeling better. I would say I was ok today.
+
+
+### Day 16: May 10, 2020 (Numbers theory)
+
+**Today's Progress**: Reading some basic numbers theory to better understand the underline proofs of Rabin-Karp. Equivalence of two numbers modulo a third number.
+
+![Handnotes picture](https://pbs.twimg.com/media/EXuBECfWkAEW-Nx?format=jpg&name=900x900)
+
+**Thoughts:** A slow day, but interesting in my learning hour.
+
