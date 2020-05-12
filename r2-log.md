@@ -120,3 +120,9 @@ About plotting with Julia… I couldn’t catch the bug yet, but I didn’t give
 
 **Thoughts:** A slow day, but interesting in my learning hour.
 
+
+### Day 17: May 11, 2020 (The Rabin-Karp algorithm)
+
+**Today's Progress**: Just reading for a deeper understanding and a different view of the algorithm.
+
+**Thoughts:** A super productive day. Feeling really good.
