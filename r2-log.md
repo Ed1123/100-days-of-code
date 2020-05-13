@@ -126,3 +126,10 @@ About plotting with Julia… I couldn’t catch the bug yet, but I didn’t give
 **Today's Progress**: Just reading for a deeper understanding and a different view of the algorithm.
 
 **Thoughts:** A super productive day. Feeling really good.
+
+
+### Day 18: May 12, 2020 (Distributed hash tables and consistent hashing)
+
+**Today's Progress**: Learning about distributed hash tables and consistent hashing. Useful for distributing loads and allowing scalability for big data.
+
+**Thoughts:** A super down day.
