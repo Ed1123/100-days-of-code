@@ -133,3 +133,10 @@ About plotting with Julia… I couldn’t catch the bug yet, but I didn’t give
 **Today's Progress**: Learning about distributed hash tables and consistent hashing. Useful for distributing loads and allowing scalability for big data.
 
 **Thoughts:** A super down day.
+
+
+### Day 19: May 13, 2020 (Coding phone_book.py)
+
+**Today's Progress**: Started to code the phone_book.py (1 of 6 programming challenges of my programming assignment). I have to only use direct addressing. I have the code almost done. I also have the pytest tests ready for tomorrow.
+
+**Thoughts:** A better day. I managed to do more.
