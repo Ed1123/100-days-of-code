@@ -148,3 +148,6 @@ About plotting with Julia… I couldn’t catch the bug yet, but I didn’t give
 Also recheck my git knowledge by trying to work locally. I don’t remember some details that I’ll work with tomorrow.
 
 **Thoughts:** A better day. It was very productive. Feeling good. :)
+
+
+# Testing git
