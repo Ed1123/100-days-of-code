@@ -140,3 +140,11 @@ About plotting with Julia… I couldn’t catch the bug yet, but I didn’t give
 **Today's Progress**: Started to code the phone_book.py (1 of 6 programming challenges of my programming assignment). I have to only use direct addressing. I have the code almost done. I also have the pytest tests ready for tomorrow.
 
 **Thoughts:** A better day. I managed to do more.
+
+
+### Day 20: May 14, 2020 (Coding hash_chains.py)
+
+**Today's Progress**: Finished coding and submitting the phone_book.py problem. Now started working on the next, the hash_chains (2 of 6 programming challenges of my programming assignment). I’m asked to use a hash table with chaining for this. Implementing it is not that difficult but understanding the starting code given to me took a bit of time.
+Also recheck my git knowledge by trying to work locally. I don’t remember some details that I’ll work with tomorrow.
+
+**Thoughts:** A better day. It was very productive. Feeling good. :)
