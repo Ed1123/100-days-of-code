@@ -148,3 +148,11 @@ About plotting with Julia… I couldn’t catch the bug yet, but I didn’t give
 Also recheck my git knowledge by trying to work locally. I don’t remember some details that I’ll work with tomorrow.
 
 **Thoughts:** A better day. It was very productive. Feeling good. :)
+
+
+### Day 21: May 15, 2020 (Coding hash_chains.py)
+
+**Today's Progress**: The code for hash_chains works but I need to test it before submitting it.
+Today I also finished my local copy of my Github repository. I needed to review some terms I'd forgotten.
+
+**Thoughts:** Not that productive as yesterday, but still feeling good and with energy. :)
