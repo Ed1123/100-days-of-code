@@ -156,3 +156,10 @@ Also recheck my git knowledge by trying to work locally. I don’t remember some
 Today I also finished my local copy of my Github repository. I needed to review some terms I'd forgotten.
 
 **Thoughts:** Not that productive as yesterday, but still feeling good and with energy. :)
+
+
+### Day 22: May 16, 2020 (Testing hash_chains.py)
+
+**Today's Progress**: It was a bussy day. I did some advancements, though. I created the tests for the problem. Now I know how to capture the output in pytest to use it as part of the test. I'm missing the larger test with a file provided.
+
+**Thoughts:** Manage to do a lot today. I'm proud of myself. Feeling good again.
