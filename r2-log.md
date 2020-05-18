@@ -163,3 +163,10 @@ Today I also finished my local copy of my Github repository. I needed to review 
 **Today's Progress**: It was a bussy day. I did some advancements, though. I created the tests for the problem. Now I know how to capture the output in pytest to use it as part of the test. I'm missing the larger test with a file provided.
 
 **Thoughts:** Manage to do a lot today. I'm proud of myself. Feeling good again.
+
+
+### Day 23: May 17, 2020 (Reading for hash_substring)
+
+**Today's Progress**: I finished testing the hash_chains problem and submited it. Also started with the hash_substring problem. I have to implement the Rabin-Karp's algorithm. For that I needed to review the book chapter about it cause I left behind some important details.
+
+**Thoughts:** Even thoug I haven't done much today I'm ok beacause it is what I chosed to do. I had a good day.
