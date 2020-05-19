@@ -175,5 +175,6 @@ Today I also finished my local copy of my Github repository. I needed to review 
 ### Day 24: May 18, 2020 (Reading for hash_substring)
 
 **Today's Progress**: The section I didn’t understand very well was the one of the recurrence when calculating the polynomial hash of the segments of the text of leng of the patern being searched. Other concept I have more clear now is that the choose of a random hashing function from the hashing family is done once at the beggining of the algorithm. That way all the hashes correspond to each other (same is done in hashing tables I think).
+I also read about markup languages. In particular I was interested in markdown and LaTex. I've learned a lot about them. I might start using more markdown (or LaTex) soon.
 
 **Thoughts:** It wasn't such a nice day as yesterday was, but still good.
