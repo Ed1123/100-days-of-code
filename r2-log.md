@@ -178,3 +178,11 @@ Today I also finished my local copy of my Github repository. I needed to review 
 I also read about markup languages. In particular I was interested in markdown and LaTex. I've learned a lot about them. I might start using more markdown (or LaTex) soon.
 
 **Thoughts:** It wasn't such a nice day as yesterday was, but still good.
+
+
+### Day 25: May 19, 2020 (Coding hash_substring)
+
+**Today's Progress**: I completed the code for the problem and write the tests I'll perform. So far, the code didn’t pass any test.
+I was also readding about Wox and Listary (and UELI) as softwares for Windows. I was interested in Wox as a open source project I may start contributing to, but Listary has many more features and it's a steep ahead. I don't know what to do. At least I now know that I can find some open source projects on Github to contribite if I can.
+
+**Thoughts:** Not a great day. I'd say an ok day.
