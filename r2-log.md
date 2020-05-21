@@ -186,3 +186,12 @@ I also read about markup languages. In particular I was interested in markdown a
 I was also readding about Wox and Listary (and UELI) as softwares for Windows. I was interested in Wox as a open source project I may start contributing to, but Listary has many more features and it's a steep ahead. I don't know what to do. At least I now know that I can find some open source projects on Github to contribite if I can.
 
 **Thoughts:** Not a great day. I'd say an ok day.
+
+
+### Day 26: May 20, 2020 (Submitting hash_substring, Git and Hashing test)
+
+**Today's Progress**: The problem in the code was a +1 and a -1 in wrong places. The rest was correct.
+Today I also read a bit more about Github certificates (a bit too complex for me for now) and how my local copies of repos are organized. I don't think a folder name "x" inside a folder equally named is the most correct way of doing it.
+Finally I took a little test on hashing. Pretty interesting questions.
+
+**Thoughts:** Not a bad day. Facing personal problems and finding creative solutions give you a nice feeling of superation.
