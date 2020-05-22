@@ -191,7 +191,17 @@ I was also readding about Wox and Listary (and UELI) as softwares for Windows. I
 ### Day 26: May 20, 2020 (Submitting hash_substring, Git and Hashing test)
 
 **Today's Progress**: The problem in the code was a +1 and a -1 in wrong places. The rest was correct.
-Today I also read a bit more about Github certificates (a bit too complex for me for now) and how my local copies of repos are organized. I don't think a folder name "x" inside a folder equally named is the most correct way of doing it.
+Today I also read a bit more about GitHub certificates (a bit too complex for me for now) and how my local copies of repos are organized. I don't think a folder name "x" inside a folder equally named is the most correct way of doing it.
 Finally I took a little test on hashing. Pretty interesting questions.
 
 **Thoughts:** Not a bad day. Facing personal problems and finding creative solutions give you a nice feeling of superation.
+
+
+
+### Day 27: May 21, 2020 (GitHub, Wiki & substring_equality)
+
+**Today's Progress**: Basically jumping around many things. Started the *mini* course Communicating using Markdown on [lab.github.com](https://lab.github.com). I also finished my reading on how Wiki is a markup language and how it got created.
+
+I also read to complete the hashing substring problem. I have a very clear idea of how to make it. I just need to implement it.
+
+**Thoughts:** Getting through the day as good as I can.
