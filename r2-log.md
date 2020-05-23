@@ -196,8 +196,6 @@ Finally I took a little test on hashing. Pretty interesting questions.
 
 **Thoughts:** Not a bad day. Facing personal problems and finding creative solutions give you a nice feeling of superation.
 
-
-
 ### Day 27: May 21, 2020 (GitHub, Wiki & substring_equality)
 
 **Today's Progress**: Basically jumping around many things. Started the *mini* course Communicating using Markdown on [lab.github.com](https://lab.github.com). I also finished my reading on how Wiki is a markup language and how it got created.
@@ -205,3 +203,9 @@ Finally I took a little test on hashing. Pretty interesting questions.
 I also read to complete the hashing substring problem. I have a very clear idea of how to make it. I just need to implement it.
 
 **Thoughts:** Getting through the day as good as I can.
+
+### Day 28: May 22, 2020 (substring_equality)
+
+**Today's Progress**: I dedicated all my coding time to code and test the substring_equality problem. It seems to work in the only test sample I was provided with, but I need to further test it with an stress test.
+
+**Thoughts:** Starting to feel better thanks to an external help.
