@@ -204,8 +204,19 @@ I also read to complete the hashing substring problem. I have a very clear idea 
 
 **Thoughts:** Getting through the day as good as I can.
 
+
 ### Day 28: May 22, 2020 (substring_equality)
 
 **Today's Progress**: I dedicated all my coding time to code and test the substring_equality problem. It seems to work in the only test sample I was provided with, but I need to further test it with an stress test.
 
 **Thoughts:** Starting to feel better thanks to an external help.
+
+
+### Day 29: May 23, 2020 (Debugging substring_equality)
+
+**Today's Progress**: The substring_equality problem worked, but it was running too slow. Apparently my function for computing exponentiations with modulo efficiently wasn't efficient enough. Actually, python exponentiation built-in function, pow(), works much faster than my manually defined function when working with large number. The manually define function reduces the number to its modulo each step, but it seemed to be not enough for the test. According to [Sven Marnach](https://stackoverflow.com/users/279627/sven-marnach) in this answer in [stackoverflow](https://stackoverflow.com/a/5246975/10864988), pow() is much faster because it uses binary exponentiation besides reducing to the modulo on each step.
+After that I read the next problem. Find the longest common substring, but this time using hashing functions instead of dynamic programing. Looks a bit intimidating.
+
+**Thoughts:** Starting to make me feel better. It's difficult, though.
+
+
