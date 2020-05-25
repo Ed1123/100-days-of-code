@@ -219,4 +219,18 @@ After that I read the next problem. Find the longest common substring, but this 
 
 **Thoughts:** Starting to make me feel better. It's difficult, though.
 
+### Day 30: May 24, 2020 (Markdown and GitHub)
 
+**Today's Progress**: 
+
+- Reading about the capabilities of markdown and LaTeX:
+  - Thesis in LaTeX or markdown: https://tex.stackexchange.com/a/419464
+  - https://github.com/rstudio/bookdown
+  - https://github.com/ismayc/thesisdown
+- GitHub Lab:
+  - Markdown lists
+  - GitHub Pages
+  - Headers
+  - Branches
+
+**Thoughts:** Horrible day that fortunately is over.
