@@ -233,10 +233,12 @@ After that I read the next problem. Find the longest common substring, but this 
   - Headers
   - Branches
 
-**Thoughts:** Horrible day that fortunately is over.
+**Thoughts:** Bad day that fortunately is over.
 
-### Day 31: May 25, 2020 (Markdown and GitHub)
+### Day 31: May 25, 2020 (Communicating using Markdown)
 
-**Today's Progress**: 
+**Today's Progress**: Finish the markdown course on GitHub. I needed a pause from the hard work in the Data Structures and Algorithms course and this was the perfect simple alternative for a couple of days. I learned to use markdown and GitHub better. I know even know that there is a thing called GitHub Pages.
 
-**Thoughts:** 
+**Thoughts:** Recovering.
+
+**Link to work**: [My GitHub portfolio](https://ed1123.github.io/markdown-portfolio)
