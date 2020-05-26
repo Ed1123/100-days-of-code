@@ -234,3 +234,9 @@ After that I read the next problem. Find the longest common substring, but this 
   - Branches
 
 **Thoughts:** Horrible day that fortunately is over.
+
+### Day 31: May 25, 2020 (Markdown and GitHub)
+
+**Today's Progress**: 
+
+**Thoughts:** 
