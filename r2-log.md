@@ -242,3 +242,9 @@ After that I read the next problem. Find the longest common substring, but this 
 **Thoughts:** Recovering.
 
 **Link to work**: [My GitHub portfolio](https://ed1123.github.io/markdown-portfolio)
+
+### Day 32: May 26, 2020 (Videoconferencing & common_substring problem)
+
+**Today's Progress**: Getting informed in my videoconference software options for a personal projects with my mom who is a teacher. I also resume my course with the common_substring problem. As I said before, I looks overwhelming and it is a little bit yet, but I'm facing it. Now I'm reading for help in the discussions forums and find a link to a Quora article that seems have some pretty good insights for my understanding of the solution. It's enough for today, though. I feel I'm still recovering and I don't feel like doing it all today. At least I resume it.
+
+**Thoughts:** I'm feeling with no that much energy. I feel like I'm still recovering. I'm moving forward, though. :slightly_smiling_face:
