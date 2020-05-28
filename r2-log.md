@@ -248,3 +248,9 @@ After that I read the next problem. Find the longest common substring, but this 
 **Today's Progress**: Getting informed in my videoconference software options for a personal projects with my mom who is a teacher. I also resume my course with the common_substring problem. As I said before, I looks overwhelming and it is a little bit yet, but I'm facing it. Now I'm reading for help in the discussions forums and find a link to a Quora article that seems have some pretty good insights for my understanding of the solution. It's enough for today, though. I feel I'm still recovering and I don't feel like doing it all today. At least I resume it.
 
 **Thoughts:** I'm feeling with no that much energy. I feel like I'm still recovering. I'm moving forward, though. :slightly_smiling_face:
+
+### Day 33: May 27, 2020 (Coding common_substring)
+
+**Today's Progress**: The Quora article was clear enough to realize how to apply binary search in the problem. With that help, I have 80% of the code finished. I need to implement a simple hash table. I think I'm gonna use a class for that. Tomorrow I'll see.
+
+**Thoughts:** Not that good of a start but I manage to move the most that I could. Feeling ok, but I feel I'm still recovering slowly.
