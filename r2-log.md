@@ -254,3 +254,9 @@ After that I read the next problem. Find the longest common substring, but this 
 **Today's Progress**: The Quora article was clear enough to realize how to apply binary search in the problem. With that help, I have 80% of the code finished. I need to implement a simple hash table. I think I'm gonna use a class for that. Tomorrow I'll see.
 
 **Thoughts:** Not that good of a start but I manage to move the most that I could. Feeling ok, but I feel I'm still recovering slowly.
+
+### Day 34: May 28, 2020 (Coding common_substring)
+
+**Today's Progress**: Code finished but I don't think it's working. I need to modify the format of the result to match what is being ask. At least I have already implemented the hash table class.
+
+**Thoughts:** Great start and following hours. I didn't find time for working out today, but it was ok because I valuable time with my love one. Starting to feel better.
