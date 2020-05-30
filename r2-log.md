@@ -260,3 +260,11 @@ After that I read the next problem. Find the longest common substring, but this 
 **Today's Progress**: Code finished but I don't think it's working. I need to modify the format of the result to match what is being ask. At least I have already implemented the hash table class.
 
 **Thoughts:** Great start and following hours. I didn't find time for working out today, but it was ok because I valuable time with my love one. Starting to feel better.
+
+### Day 35: May 29, 2020 (Debug and submit common_substring)
+
+**Today's Progress**: Debugging day. What a mess. I made my code work to perfection defining almost everything manually, including a hashing table. Unfortunately, my implementation of a hash table seems too slow compare to the Python built-in one. My code passes the time limit only when I change my hash table for a python dictionary. At least I have the fulfillment of making that huge code work using my own coded hash table. :)
+
+I also read about Kivy to develop cross platform apps with just Python.
+
+**Thoughts:** Improving. I hope this wellbeing doesn't go anywhere soon. It's 7:49pm and I already have coded for more than 2 hours. It is enough for today.
