@@ -268,3 +268,9 @@ After that I read the next problem. Find the longest common substring, but this 
 I also read about Kivy to develop cross platform apps with just Python.
 
 **Thoughts:** Improving. I hope this wellbeing doesn't go anywhere soon. It's 7:49pm and I already have coded for more than 2 hours. It is enough for today.
+
+### Day 36: May 30, 2020 (Coding matching_with_mismatches)
+
+**Today's Progress**: Analyzing and coding the last problem of this segment. I have a good idea of how to implement a solution, but there are some details I haven't figured out just yet. Just need a little bit more time to finished it.
+
+**Thoughts:** An ok day. It wasn't that good, neither that good. I felt low energy.
