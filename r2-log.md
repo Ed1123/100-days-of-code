@@ -274,3 +274,9 @@ I also read about Kivy to develop cross platform apps with just Python.
 **Today's Progress**: Analyzing and coding the last problem of this segment. I have a good idea of how to implement a solution, but there are some details I haven't figured out just yet. Just need a little bit more time to finished it.
 
 **Thoughts:** An ok day. It wasn't that good, neither that good. I felt low energy.
+
+### Day 37: June 1, 2020 (Docker)
+
+**Today's Progress**: I finally give a try to Docker containers by trying to run local server of Jit.si to make videocalls. It works! I can't believe I make it work. This's a small incremental step, but it's very important for me. I understand more of virtualization and Docker uses.
+
+**Thoughts:** A better day. Feeling good. :)
