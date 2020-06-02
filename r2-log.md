@@ -280,3 +280,10 @@ I also read about Kivy to develop cross platform apps with just Python.
 **Today's Progress**: I finally give a try to Docker containers by trying to run local server of Jit.si to make videocalls. It works! I can't believe I make it work. This's a small incremental step, but it's very important for me. I understand more of virtualization and Docker uses.
 
 **Thoughts:** A better day. Feeling good. :)
+
+### Day 38: June 2, 2020 (Reading WSL2 and coding matching_with_mismatches)
+
+**Today's Progress**: Reading about the scope of the Windows Subsystem for Linux.
+In my coding program I make a naïve algorithm for the problem. I also coded the tests. That'll make easy to test the main program when it's done.
+
+**Thoughts:** Feeling good. Playing and being productive. :smile:
