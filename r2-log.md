@@ -287,3 +287,9 @@ I also read about Kivy to develop cross platform apps with just Python.
 In my coding program I make a naïve algorithm for the problem. I also coded the tests. That'll make easy to test the main program when it's done.
 
 **Thoughts:** Feeling good. Playing and being productive. :smile:
+
+### Day 39: June 3, 2020 (coding matching_with_mismatches)
+
+**Today's Progress**: The code is not finished yet. It's being kind of hard to code. May be it's just than I'm tired.
+
+**Thoughts:** Tiring and a bit overwhelmed day. Feeling a little bit stressed out, but ok overall.
