@@ -299,3 +299,12 @@ In my coding program I make a naïve algorithm for the problem. I also coded the
 **Today's Progress**: I'm making little progress. I solve the issue of implementing the binary search, but I have another one with the order or the functions and scope of variables.
 
 **Thoughts:** An "eh" day. Feeling ok.
+
+### Day 41: June 4, 2020 (Reading WebRTC and finished matching_with_mismatches)
+
+**Today's Progress**: Reading about WebRTC and how currently it is the most secure option when it comes to video and voice calls on internet.
+[webrtc-security.github.io](https://webrtc-security.github.io/)
+Also finally I finished coding the matching_with_mismatches problem. It passed the test on my computer, but, unfortunately, it didn't on the submission. Tomorrow I have time to debug it.
+
+**Thoughts:** Another "eh" day. Feeling better than yesterday, though. I'm sleeping early today. :smile:
+
