@@ -308,3 +308,8 @@ Also finally I finished coding the matching_with_mismatches problem. It passed t
 
 **Thoughts:** Another "eh" day. Feeling better than yesterday, though. I'm sleeping early today. :smile:
 
+### Day 42: June 5, 2020 (Debug matching_with_mismatches)
+
+**Today's Progress**: Tried to debug my algorithm but I couldn't. It passes all the tests on my computer, even stress tests, but it didn't a specific test during submission. I may try it later, but for now I have to move on in the course.
+
+**Thoughts:** Same than yesterday, but a little better. Feeling a little bit sad for not being able to fix my code, but ok overall since I did it all on my own and it worked well on my machine at least.
