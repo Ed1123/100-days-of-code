@@ -313,3 +313,11 @@ Also finally I finished coding the matching_with_mismatches problem. It passed t
 **Today's Progress**: Tried to debug my algorithm but I couldn't. It passes all the tests on my computer, even stress tests, but it didn't a specific test during submission. I may try it later, but for now I have to move on in the course.
 
 **Thoughts:** Same than yesterday, but a little better. Feeling a little bit sad for not being able to fix my code, but ok overall since I did it all on my own and it worked well on my machine at least.
+
+### Day 43: June 6, 2020 (Terminal & Binary search trees)
+
+**Today's Progress**: I've being learning about shells, terminals, consoles, terminal emulators and so on. [This](https://www.hanselman.com/blog/WhatsTheDifferenceBetweenAConsoleATerminalAndAShell.aspx) nice article help me get many things clear. I get some practice with JSON files and how a schema in VS Code can help with autocompletion and some other features.
+
+In my course I started with binary search trees. The implementation seems simple. I only have to learn how to apply rotations to keep the tree balance and maintain the running time logarithmic.
+
+**Thoughts:** An ok day. I haven't worked out, but I did some pretty stuff while playing with Windows Terminal. :)
