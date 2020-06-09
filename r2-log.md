@@ -321,3 +321,21 @@ Also finally I finished coding the matching_with_mismatches problem. It passed t
 In my course I started with binary search trees. The implementation seems simple. I only have to learn how to apply rotations to keep the tree balance and maintain the running time logarithmic.
 
 **Thoughts:** An ok day. I haven't worked out, but I did some pretty stuff while playing with Windows Terminal. :)
+
+### Day 44: June 7, 2020 (Reading Binary search trees)
+
+**Today's Progress**: Just reading how binary search trees need to be balance to ensure logarithmic running time on its operations.
+
+**Thoughts:** I didn't wake up early, but I moved enough the rest of the day to make the day valuable.
+
+### Day 45: June 8, 2020 (Treaps & AVL trees)
+
+**Today's Progress**: I learned that in order to maintain a BST balanced we can use a random heap value attached to the node as on Treaps (tree + heap) or use AVL trees (`|N.left.height - N.right.height| <= 1`). For both rotations are used to move nodes when modifying the tree either by inserting a new node or deleting another. Both ensure also logarithmic running time on its procedures.
+
+**Thoughts:** An ok day. I moved and did many things, but I was a little bit stressed by the time, the fact that I didn't wake up early and that I'm not going to sleep yet (3:33 am (I just saw the time :scream: )).
+
+### Day 44: June 6, 2020 (Terminal & Binary search trees)
+
+**Today's Progress**: 
+
+**Thoughts:** 
