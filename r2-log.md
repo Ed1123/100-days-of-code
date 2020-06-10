@@ -334,7 +334,14 @@ In my course I started with binary search trees. The implementation seems simple
 
 **Thoughts:** An ok day. I moved and did many things, but I was a little bit stressed by the time, the fact that I didn't wake up early and that I'm not going to sleep yet (3:33 am (I just saw the time :scream: )).
 
-### Day 44: June 6, 2020 (Terminal & Binary search trees)
+### Day 46: June 9, 2020 (Microsoft Build 2020)
+
+**Today's Progress**: I take a day from data structures and to focus on caching up with the Microsoft Build sessions I missed. I feel inspired to do some ML with Azure I may start it tomorrow, I have time :). It looks more attractive than AWS for me for some reason. Maybe because it seems to be more accessible.
+I also finished the configuration (and the know it all process) of my Windows Terminal. It looks nice and I like it.
+
+**Thoughts:** I wake up late, but I made a reasonable amount of stuff of my day. Feeling relief and ok. I worry why I'm not having those super up days :thinking:.
+
+### Day : June 6, 2020 ()
 
 **Today's Progress**: 
 
