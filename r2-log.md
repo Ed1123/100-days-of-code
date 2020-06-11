@@ -341,7 +341,16 @@ I also finished the configuration (and the know it all process) of my Windows Te
 
 **Thoughts:** I wake up late, but I made a reasonable amount of stuff of my day. Feeling relief and ok. I worry why I'm not having those super up days :thinking:.
 
-### Day : June 6, 2020 ()
+### Day 47: June 10, 2020 (Finishing AVL trees)
+
+**Today's Progress**: I took the last lessons on AVL trees. I learned that split and merge operations are also possible in this structure. I think the more useful property would be to be able to split the tree in two parts correspondingly bigger and smaller than a given number in logarithmic time.
+I'm also looking to finally get a Raspberry Pi 4 (with a kit because I'm lazy enough to not get the parts to make the projects I want) or a kit for my Arduino board I have lying around. I should never give up on this little projects I'd like to do even if it's just for fun. Doing them will give me a whole lot of satisfaction, like my toys did when I was a kid. This'd be like toys for my grown up inner child :smiley:.
+
+**Thoughts:** I woke up earlier than yesterday! :D I felt terribly tired during the day, though. I think it is just for the routine I'm maintaining. On the emotional side, I'm feeling well. I feel a bit anxious for the coding projects I have in mind. I think they might be because of the stress I put on time and that I want to know it all. I can't know it all in little time, but I'm moving on my pace and learning every single day something new. I hope that would take me that somewhere I'd like to be someday.
+
+
+
+### Day : June , 2020 ()
 
 **Today's Progress**: 
 
