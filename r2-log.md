@@ -348,6 +348,13 @@ I'm also looking to finally get a Raspberry Pi 4 (with a kit because I'm lazy en
 
 **Thoughts:** I woke up earlier than yesterday! :D I felt terribly tired during the day, though. I think it is just for the routine I'm maintaining. On the emotional side, I'm feeling well. I feel a bit anxious for the coding projects I have in mind. I think they might be because of the stress I put on time and that I want to know it all. I can't know it all in little time, but I'm moving on my pace and learning every single day something new. I hope that would take me that somewhere I'd like to be someday.
 
+### Day 48: June 11, 2020 (Applications and more conferences)
+
+**Today's Progress**: I'm reading an understanding the extra functions we can make a balanced binary search tree perform by just adding a size attribute to each node. For instance, finding the ith smallest element and a the rank of any other node in logarithmic time. Awesome.
+Also watched more conferences of the Microsoft Build. This guy, Scott Hanselman, did such a great job with his sessions. Amazing stuff. Pretty entertain, inspiring and full of relevant content.
+
+**Thoughts:** It's a bit late, but I'm feeling good. Yoga have became such an important part of my everyday well-being. Namaste. :)
+
 
 
 ### Day : June , 2020 ()
