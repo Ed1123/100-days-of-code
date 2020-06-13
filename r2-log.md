@@ -355,6 +355,12 @@ Also watched more conferences of the Microsoft Build. This guy, Scott Hanselman,
 
 **Thoughts:** It's a bit late, but I'm feeling good. Yoga have became such an important part of my everyday well-being. Namaste. :)
 
+### Day 49: June 12, 2020 (Splay trees)
+
+**Today's Progress**: Learning about another binary search tree called splay trees. The important thing to notice its operations take O(nlogn) time for n operations, so logarithmic time in average, but more frequently access nodes will cost less to look up.
+
+**Thoughts:** Feeling ok. Not that of a productive day, but it was ok. I read a lot, look for things to buy and look for jobs on Microsoft Careers website. 
+
 
 
 ### Day : June , 2020 ()
