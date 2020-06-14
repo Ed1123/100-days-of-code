@@ -361,6 +361,12 @@ Also watched more conferences of the Microsoft Build. This guy, Scott Hanselman,
 
 **Thoughts:** Feeling ok. Not that of a productive day, but it was ok. I read a lot, look for things to buy and look for jobs on Microsoft Careers website. 
 
+### Day 50: June 13, 2020 (Splay trees and last homework)
+
+**Today's Progress**: I finished with the splay trees section on the course. It was the last. I also got 100% in the last test. Finally, I started with the homework. So far I was asked to program an in-order, pre-order and post-order traversal of binary trees. I shouldn't be that complicated, but I don't remember the implementation very well right now. I now tomorrow I'll do it without a problem.
+
+**Thoughts:** Not a bad a day. I waken up pretty early, but sleep most of the day. I manage to do my routine work out and that give energy and good mood for the day. Feeling good. :smile:
+
 
 
 ### Day : June , 2020 ()
