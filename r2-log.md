@@ -367,6 +367,18 @@ Also watched more conferences of the Microsoft Build. This guy, Scott Hanselman,
 
 **Thoughts:** Not a bad a day. I waken up pretty early, but sleep most of the day. I manage to do my routine work out and that give energy and good mood for the day. Feeling good. :smile:
 
+### Day 51: June 14, 2020 (Tree traversal done)
+
+**Today's Progress**: I needed a bit of help but it was ok. The program works as expected. I also learned to pipe the files using bash in Ubuntu WSL2 and PowerShell on Windows to test the sample file I was given with.
+
+**Thoughts:** Feeling good. I'm getting my Pi soon! :happy:
+
+### Day 52: June 15, 2020 (is_bst.py)
+
+**Today's Progress**: Solving the second problem. I was asked to, given a binary tree, tell if it is a binary search tree or not. I think I have a good structure of the code now. I just got stuck in the deciding how to implement the tree class itself.
+
+**Thoughts:** Not a great day. I felt too tired and sick, but I'm getting better. Feeling a bit down but ok overall.
+
 
 
 ### Day : June , 2020 ()
