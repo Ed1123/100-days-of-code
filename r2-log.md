@@ -379,6 +379,15 @@ Also watched more conferences of the Microsoft Build. This guy, Scott Hanselman,
 
 **Thoughts:** Not a great day. I felt too tired and sick, but I'm getting better. Feeling a bit down but ok overall.
 
+### Day 53: June 16, 2020 (debugging is_bst.py)
+
+**Today's Progress**: I focused on finishing my is_bst code. I did gave up on implementing new classes for the tree and nodes because the trees where already given in a structure and converting them to nodes objects would've created memory and time overhead and would've been a lose of time. A better solution could have been implementing a node object and populate the tree as the program reads the input instead of using the tree array that was the default in the starter file.
+The code works, but I need further testing before submitting it.
+
+**Thoughts:** What a day. I didn't want to get out of bed. My day started pretty late, but I got move and finished a long-awaited matter. Feeling ok at the end of the day. Life is being hard these days.
+
+
+
 
 
 ### Day : June , 2020 ()
