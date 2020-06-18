@@ -386,7 +386,11 @@ The code works, but I need further testing before submitting it.
 
 **Thoughts:** What a day. I didn't want to get out of bed. My day started pretty late, but I got move and finished a long-awaited matter. Feeling ok at the end of the day. Life is being hard these days.
 
+### Day 54: June 17, 2020 (is_bst.py)
 
+**Today's Progress**: My code works with my little examples, but not when submitting it. I suspect it is related with stack overflow for the recursions, even though I'm taking care of it. I need a way to generate valid binary search trees to test then against my code and see what happens.
+
+**Thoughts:** Feeling a bit down for not being able to move more quickly through my course. I'm gonna let it there and just try to sleep. I hope tomorrow will be a better day.
 
 
 
