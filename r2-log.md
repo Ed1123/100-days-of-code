@@ -392,6 +392,15 @@ The code works, but I need further testing before submitting it.
 
 **Thoughts:** Feeling a bit down for not being able to move more quickly through my course. I'm gonna let it there and just try to sleep. I hope tomorrow will be a better day.
 
+### Day 55: June 18, 2020 (is_bst.py finally done)
+
+**Today's Progress**: I made my code work. The error wasn't in my code though. The starter file set a too small threading for my code to work properly.
+Moving to the next problem which is the same only that now there may be duplicate keys.
+
+**Thoughts:** Life is being hard these days. I'm not feeling super good long ago. I wonder what's wrong. Feeling ok-.
+
+
+
 
 
 ### Day : June , 2020 ()
