@@ -399,7 +399,11 @@ Moving to the next problem which is the same only that now there may be duplicat
 
 **Thoughts:** Life is being hard these days. I'm not feeling super good long ago. I wonder what's wrong. Feeling ok-.
 
+### Day 56: June 9, 2020 (set_range_sum.py)
 
+**Today's Progress**: My code worked for the next problem with just a minor modification (adding an equal sign) so I passed it and moved to the next one. In this problem an splay tree is given to modified it to make it capable of perform range sums quickly. I review splay tree lectures and read and understand the code before attempting any modification. I needed to clarify how rotations are performed.
+
+**Thoughts:** Not that good yet, but I'm managing to at least move the minimum that I must. It is late already, but my coding hour is done along with other pending tasks.
 
 
 
