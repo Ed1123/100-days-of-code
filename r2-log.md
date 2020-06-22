@@ -411,6 +411,16 @@ Moving to the next problem which is the same only that now there may be duplicat
 
 **Thoughts:** Feeling a lot better. I haven't done much today. Playing Zelda, reading articles, trying to fix the problem with my mouse and reviewing a master in CS ($15k!). But I feel good. I hope I can fix my scheduled soon.
 
+### Day 58: June 21, 2020 (Coding tests)
+
+**Today's Progress**: I finished implementing the code of the problem, but I was unable to test it yet. I was trying to implement a test reading from stdin and capturing stdout, but for now it didn't work. Tomorrow I'll make it work.
+
+**Thoughts:** Feeling good again :). I managed to wake up early and it is not that late yet to be finishing my code. Also it was a very productive day. 
+
+
+
+
+
 
 
 ### Day : June , 2020 ()
