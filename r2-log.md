@@ -417,7 +417,11 @@ Moving to the next problem which is the same only that now there may be duplicat
 
 **Thoughts:** Feeling good again :). I managed to wake up early and it is not that late yet to be finishing my code. Also it was a very productive day. 
 
+### Day 59: June 22, 2020 (Debugging)
 
+**Today's Progress**: I finish making the tests and debugging my code. It work with the simple tests I have, but it failed the 1st submission. I haven't tested it enough so tomorrow I know what to do. 
+
+**Thoughts:** A very productive day and positive day. Even though I hate waking up early I did it and I did many pending tasks I had. One in particular is very, very important for my future. I hope all goes as planned.
 
 
 
