@@ -423,6 +423,14 @@ Moving to the next problem which is the same only that now there may be duplicat
 
 **Thoughts:** A very productive day and positive day. Even though I hate waking up early I did it and I did many pending tasks I had. One in particular is very, very important for my future. I hope all goes as planned.
 
+### Day 60: June 23, 2020 (The Rope)
+
+**Today's Progress**: Finished debugging and submitting my code. It works perfectly. I now started to work in the next and last problem, implementing the data structure known as Rope. So far I'm just understanding the problem and coding a naïve solution that will serve for stress testing the main code later on.
+
+**Thoughts:** I was fine, even good during the day, but at night an argue change it all. Well, well, well...
+
+
+
 
 
 
