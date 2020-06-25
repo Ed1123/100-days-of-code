@@ -429,7 +429,11 @@ Moving to the next problem which is the same only that now there may be duplicat
 
 **Thoughts:** I was fine, even good during the day, but at night an argue change it all. Well, well, well...
 
+### Day 61: June 24, 2020 (Finishing rope naïve)
 
+**Today's Progress**: I finish coding a naïve implementation of the algorithm it works perfectly, but is too slow to be considered a solution. I certainly learn a lot of the mechanics of the problem by coding it. Now, I need to implement the same idea using a better data structure. A splay tree is suggested. Tomorrow we'll see.
+
+**Thoughts:** Another super duper day. Hopefully the bad things just pass. Feeling more than good.
 
 
 
