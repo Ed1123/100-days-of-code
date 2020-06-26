@@ -435,6 +435,12 @@ Moving to the next problem which is the same only that now there may be duplicat
 
 **Thoughts:** Another super duper day. Hopefully the bad things just pass. Feeling more than good.
 
+### Day 62: June 25, 2020 (Rethinking the rope)
+
+**Today's Progress**: Somehow the key of the splay tree has to be always the position of the given node in the string. After each each modification I will have to update it I think. 
+
+**Thoughts:** I made just a small incremental progress today, but it is a lot better than nothing. Feeling refreshed and good. :smile:
+
 
 
 
@@ -444,3 +450,4 @@ Moving to the next problem which is the same only that now there may be duplicat
 **Today's Progress**: 
 
 **Thoughts:** 
+
