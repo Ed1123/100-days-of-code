@@ -441,6 +441,14 @@ Moving to the next problem which is the same only that now there may be duplicat
 
 **Thoughts:** I made just a small incremental progress today, but it is a lot better than nothing. Feeling refreshed and good. :smile:
 
+### Day 63: June 26, 2020 (Still thinking)
+
+**Today's Progress**: I came to the conclusion that storing the index and character information on each node of the tree isn't gonna be efficient since for each modification of the tree structure I'll have to update each node's index. After rethinking a whole lot I realize that I can use order statistics to get any node by its position on the string in logarithmic time. I'll have to modify the find function to take advantage of this and not use the key which is only a character of the string. I'll take care of that tomorrow.
+
+**Thoughts:** Feeling good. It was a super lazy day (helping in home), but it is ok. Feeling ok.
+
+
+
 
 
 
