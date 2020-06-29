@@ -447,6 +447,19 @@ Moving to the next problem which is the same only that now there may be duplicat
 
 **Thoughts:** Feeling good. It was a super lazy day (helping in home), but it is ok. Feeling ok.
 
+### Day 64: June 27, 2020 (Coding)
+
+**Today's Progress**: I created two functions for my code. find_by_order and split_by_order both take the work that in a normal splay tree a find and a split function would do, but localizing nodes by order and not by key. Both also work in logarithmic time. I also finished creating the tree from the string that was given to me. Finally, I created a TODO speed up the coding tomorrow. 
+
+**Thoughts:** Feeling good. I did my workout, played, finished my coding hour and did some tasks.
+
+### Day 65: June , 2020 (Coding/thinking)
+
+**Today's Progress**: I finished coding the in order traversal. I wanted to do it without recursion since I've already know how to implement it using it. I couldn't by myself, but with a little help I made it work.
+I learned a new way to use Pytest. While thinking on how to test the in_order_traversal function of my code I realize I can automated with Pytest and make it in a way that it looks clean with the main test. I simple created another test file to allocate the tests for the function while maintaining my main test file clean. I know it's something simple but it the first time I use testing like this and it looks good to have multiple tests on VS Code.
+
+**Thoughts:** Not a great starting date, nor that productive, but I made it this way because I wanted a relaxation day. A simple Sunday. Feeling ok.
+
 
 
 
