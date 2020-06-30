@@ -453,12 +453,18 @@ Moving to the next problem which is the same only that now there may be duplicat
 
 **Thoughts:** Feeling good. I did my workout, played, finished my coding hour and did some tasks.
 
-### Day 65: June , 2020 (Coding/thinking)
+### Day 65: June 28, 2020 (Coding/thinking)
 
 **Today's Progress**: I finished coding the in order traversal. I wanted to do it without recursion since I've already know how to implement it using it. I couldn't by myself, but with a little help I made it work.
 I learned a new way to use Pytest. While thinking on how to test the in_order_traversal function of my code I realize I can automated with Pytest and make it in a way that it looks clean with the main test. I simple created another test file to allocate the tests for the function while maintaining my main test file clean. I know it's something simple but it the first time I use testing like this and it looks good to have multiple tests on VS Code.
 
 **Thoughts:** Not a great starting date, nor that productive, but I made it this way because I wanted a relaxation day. A simple Sunday. Feeling ok.
+
+### Day 66: June 29, 2020 (Debugging and testing)
+
+**Today's Progress**: Very challenging problem. After multiple days of reading, thinking, coding, testing and debugging I finally finished the problem. That was the last problem of this course, buuuuuuuuut there is still a problem I left behind and I'll solve it now.
+
+**Thoughts:** I'm feeling a bit down, but not that much as some days before. Because of that it wasn't the superproductive day I always like to have, but it was still good. Feeling ok.
 
 
 
