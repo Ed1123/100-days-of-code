@@ -466,7 +466,11 @@ I learned a new way to use Pytest. While thinking on how to test the in_order_tr
 
 **Thoughts:** I'm feeling a bit down, but not that much as some days before. Because of that it wasn't the superproductive day I always like to have, but it was still good. Feeling ok.
 
+### Day 67: June 30, 2020 (Debugging)
 
+**Today's Progress**: Trying to find where my code breaks during the test when submitted. No success yet. Tomorrow I'll check for coalitions on the 3 polynomial hashing functions I'm using.
+
+**Thoughts:** Feeling ok. It was a hard, very hard day to start, but I find a way to make it better. I use the circumstances on my favor.
 
 
 
