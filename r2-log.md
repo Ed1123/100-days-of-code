@@ -468,9 +468,15 @@ I learned a new way to use Pytest. While thinking on how to test the in_order_tr
 
 ### Day 67: June 30, 2020 (Debugging)
 
-**Today's Progress**: Trying to find where my code breaks during the test when submitted. No success yet. Tomorrow I'll check for coalitions on the 3 polynomial hashing functions I'm using.
+**Today's Progress**: Trying to find where my code breaks during the test when submitted. No success yet. Tomorrow I'll check for collisions on the 3 polynomial hashing functions I'm using.
 
 **Thoughts:** Feeling ok. It was a hard, very hard day to start, but I find a way to make it better. I use the circumstances on my favor.
+
+### Day 68: July 1, 2020 (Debugging)
+
+**Today's Progress**: Fail in trying to find collisions. I research and found a paper on polynomial hashing and it seems I'm setting all the variables correctly. Next step. Convert my code to other language or to code it from scratch again on Python.
+
+**Thoughts:** A good day. I haven't do my yoga, but it was an ok day. Feeling ok.
 
 
 
