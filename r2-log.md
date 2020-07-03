@@ -478,6 +478,20 @@ I learned a new way to use Pytest. While thinking on how to test the in_order_tr
 
 **Thoughts:** A good day. I haven't do my yoga, but it was an ok day. Feeling ok.
 
+### Day 70: June 2, 2020 (Still thinking and trying to debug)
+
+**Today's Progress**: Let's see. I had some debugging ideas and tried them all, but any of those work, but I think I'm getting closer to the source of the error.
+
+**Thoughts:** A hard day. Full of work and things to do. Feeling a bit overwhelmed, but ok overall.
+
+
+
+
+
+
+
+
+
 
 
 
