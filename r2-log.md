@@ -490,7 +490,14 @@ I learned a new way to use Pytest. While thinking on how to test the in_order_tr
 
 **Thoughts:** A very, very hectic day. Cooking, stuff at work, a package arrive friends, and coding. It was a very busy and good day. Feeling good.
 
+### Day 71: June 4, 2020 (Starting a new course)
 
+**Today's Progress**: Two main things:
+
+1. I started the next course. It is about graph. So far just introductive stuff. I learned that graph can be directed or undirected, they have density to better understand its complexity and learn an idea of implementation using a matrix or linked lists.
+2. MY PI ARRIVED! Actually it arrived yesterday, but it was such a hectic day that I couldn't do anything with it. Evenmore that I didn't have its microhdmi adapter. Today I started playing with it and broke an SD card, install RetroPie, found problems connecting through wifi, found problems connecting through Samba and so on. I manage to make it at the end of the day. So much fun! :smiley:
+
+**Thoughts:** Another hectic and busy day. I couldn't just let this day go without any of my coding hour done, though. It is 2:15 am, but I did it. No missing day. I feel proud of myself. Feeling very good. :smile:
 
 
 
