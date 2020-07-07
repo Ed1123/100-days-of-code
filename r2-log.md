@@ -499,6 +499,18 @@ I learned a new way to use Pytest. While thinking on how to test the in_order_tr
 
 **Thoughts:** Another hectic and busy day. I couldn't just let this day go without any of my coding hour done, though. It is 2:15 am, but I did it. No missing day. I feel proud of myself. Feeling very good. :smile:
 
+### Day 72: June 5, 2020 (Raspberry Pi  :happy: )
+
+**Today's Progress**: I allowed myself to just play with my recently adquire RPi. It is a LOT of fun. It is certaintly putting my problem solving skills into test. I'm loving it!
+
+**Thoughts:** An awesome day! Productive. I just would've liked to find time to my yoga. There'll be time later. :slightly_smiling_face:
+
+### Day 73: June 6, 2020 (Exploring Graphs)
+
+**Today's Progress**: Learning how to get to every vertex reachable from a given vertex and also how to use this proccedure to visit all the vertex on a particular graphs. That's a pretty good summary.
+
+**Thoughts:** Feeling very good. A productive day, building my relationship, getting done peding tasks, RPi reading, playing and doing some workout. Tomorrow yoga. :slightly_smiling_face:
+
 
 
 
