@@ -511,7 +511,17 @@ I learned a new way to use Pytest. While thinking on how to test the in_order_tr
 
 **Thoughts:** Feeling very good. A productive day, building my relationship, getting done peding tasks, RPi reading, playing and doing some workout. Tomorrow yoga. :slightly_smiling_face:
 
+### Day 74: June 7, 2020 (Coding reachability.py)
 
+**Today's Progress**: I learned about graphs conected components, explorer function and previsit and postvisit functions. Pretty nifty data structure are graphs.
+
+**Thoughts:** I had a very bad problem today, but I managed it and it seems it'll turn out well. Feeling really well and balanced. :slightly_smiling_face:
+
+### Day 75: June 8, 2020 (Coding connected_components.py)
+
+**Today's Progress**: I finished coding both of my homeworks. The first one have a bug, though. It seems easy to fix so I'm letting it for tomorrow. I also play with my Pi. I want a pretty way to play youtube on it. It seems there is not other option the a kodi plugin. We'll see.
+
+**Thoughts:** Feeling really well. A good organized day. I'm feeling well balanced. :slightly_smiling_face
 
 
 
