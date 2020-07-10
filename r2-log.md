@@ -521,9 +521,17 @@ I learned a new way to use Pytest. While thinking on how to test the in_order_tr
 
 **Today's Progress**: I finished coding both of my homeworks. The first one have a bug, though. It seems easy to fix so I'm letting it for tomorrow. I also play with my Pi. I want a pretty way to play youtube on it. It seems there is not other option the a kodi plugin. We'll see.
 
-**Thoughts:** Feeling really well. A good organized day. I'm feeling well balanced. :slightly_smiling_face
+**Thoughts:** Feeling really well. A good organized day. I'm feeling well balanced. :slightly_smiling_face:
 
+### Day 76: June 9, 2020 (Directed graphs)
 
+**Today's Progress**: I learned about directed graphs, how depth-first search also works here for topological sorting, how Strongly connected components are defined, what are Directed Acyclic Graphs aaaand that's it.
+I also read on how I can use Youtube on my Retropie RPi. I don't like the Kodi option so I was looking for alternatives. So far it seems I have only two options:
+
+1. Either use raspicast to "cast" content to the Pi while it is running Emulationstation on Retropie or
+2. Flash Plasma Bigscreen OS and install there Retropie as if it where a simple Ubuntu instalation. I really like the looks of Plasma Bigscreen so I may try this later. I'm gonna look how I can flash it alongside my already working Retropie instaltion.
+
+**Thoughts:** A though day. I just wanted to sleep the whole day. I manage to move the minimum. Eating, working, attending my apointment and coding. I share some nice moments with my brother also. Feeling a bit down.
 
 
 
