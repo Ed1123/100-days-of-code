@@ -533,6 +533,18 @@ I also read on how I can use Youtube on my Retropie RPi. I don't like the Kodi o
 
 **Thoughts:** A though day. I just wanted to sleep the whole day. I manage to move the minimum. Eating, working, attending my apointment and coding. I share some nice moments with my brother also. Feeling a bit down.
 
+### Day 77: June 10, 2020 (Pi Playing)
+
+**Today's Progress**: Just playing with my Pi because I couldn't focus on my readings. I've been thinking on how to implement Retropie and Plasma Bigscreen. Noobs at first seemed at option, but it isn't really a bootloader. Then I found Berryboot, but I'll have to convert a Retropie image to work with it or download a non-official one which I don't like that much. I think I'm gonna stick on trying to build Plasma Bigscreen on top of Retropie. Installing Retropie on Plasma Bigscreen OS doesn't seem that viable since it ain't a Rasbian base OS and there may be some optimizations I may miss.
+
+**Thoughts:** Not a great day at all. Feeling down.
+
+
+
+
+
+
+
 
 
 
