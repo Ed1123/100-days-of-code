@@ -539,7 +539,14 @@ I also read on how I can use Youtube on my Retropie RPi. I don't like the Kodi o
 
 **Thoughts:** Not a great day at all. Feeling down.
 
+### Day 78: June 11, 2020 (VNC and Raspicast)
 
+**Today's Progress**: I decided to take a little break from my course to focus on playing with mi Pi.
+Before trying to build Plasma Bigscreen I wanted to have real time image from the Pi since I have only one monitor and I don't change the HDMI any time I want to test the Pi. Unfurtunatly, according to some reading this is not possible through RealVNC because Emulationstation doesn't use X11 for rendering. It may be possible using dispmanxvnc or uv4l-raspidisp but it seemed too much work for today. I'm gonna try that later.
+Configuring Raspicast, on the other hand, was pretty easy. I just had the problem that my audio output wasn't working right. I just had to read a bit about how to configure it on the Pi to realize that the easiest way was to change the output on the Retropie configuration.
+At the end Raspicast worked perfectly. It isn't the perfect solution I was looking for since I always need a phone to cast videos, but it is much much better than using the Kodi plugging. I like my work. :)
+
+**Thoughts:** Not feeling with a lot of energy, but it wasn't a bad day. I finally had that difficult conversaion and now things are better. Feeling better.
 
 
 
