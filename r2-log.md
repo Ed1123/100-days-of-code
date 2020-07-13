@@ -548,7 +548,11 @@ At the end Raspicast worked perfectly. It isn't the perfect solution I was looki
 
 **Thoughts:** Not feeling with a lot of energy, but it wasn't a bad day. I finally had that difficult conversaion and now things are better. Feeling better.
 
+### Day 79: June 12, 2020 (Reading SCC on Directed Graphs)
 
+**Today's Progress**: I learned a way to compute strongly connected components in directed graphs with linear complexity on the number of edges and vertex. I learned about the Bowtie structure of the web graph by Andrei Broder.
+
+**Thoughts:** A little hard day. I felt lazy, but I did all my things. Not in the time I'd have preffered (it's 2:39 am), but I did them.
 
 
 
