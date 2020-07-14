@@ -554,6 +554,16 @@ At the end Raspicast worked perfectly. It isn't the perfect solution I was looki
 
 **Thoughts:** A little hard day. I felt lazy, but I did all my things. Not in the time I'd have preffered (it's 2:39 am), but I did them.
 
+### Day 80: June 13, 2020 (Coding acyclicity.py)
+
+**Today's Progress**: I tryied to solve this first problem in my assigment. I'm thinking in an alternative to using a hash table to look at repeated elements when exploring the graph because I think there may be a better approach.
+
+**Thoughts:** I couldn't do much more today because I had serious problems focusing. I hope tomorrow I feel better. Feel down.
+
+
+
+
+
 
 
 
