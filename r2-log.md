@@ -552,13 +552,19 @@ At the end Raspicast worked perfectly. It isn't the perfect solution I was looki
 
 **Today's Progress**: I learned a way to compute strongly connected components in directed graphs with linear complexity on the number of edges and vertex. I learned about the Bowtie structure of the web graph by Andrei Broder.
 
-**Thoughts:** A little hard day. I felt lazy, but I did all my things. Not in the time I'd have preffered (it's 2:39 am), but I did them.
+**Thoughts:** A little hard day. I felt lazy, but I did all my things. Not in the time I'd have preferred (it's 2:39 am), but I did them.
 
 ### Day 80: June 13, 2020 (Coding acyclicity.py)
 
-**Today's Progress**: I tryied to solve this first problem in my assigment. I'm thinking in an alternative to using a hash table to look at repeated elements when exploring the graph because I think there may be a better approach.
+**Today's Progress**: I tried to solve this first problem in my assignment. I'm thinking in an alternative to using a hash table to look at repeated elements when exploring the graph because I think there may be a better approach.
 
 **Thoughts:** I couldn't do much more today because I had serious problems focusing. I hope tomorrow I feel better. Feel down.
+
+### Day 81: June 14, 2020 (Testing acyclicity.py)
+
+**Today's Progress**: After thinking a lot, dictionaries neither sets (in Python) wasn't the answer. I have now a working code that I need to test further with extreme cases. Today, I also learned that dicts aren't the only hashtable data type in Python I have also sets.
+
+**Thoughts:** Feeling ok. Today was a day where I put all my effort in trying to order my life. I think I made a good job.
 
 
 
