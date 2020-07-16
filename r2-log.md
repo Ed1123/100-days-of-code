@@ -566,6 +566,12 @@ At the end Raspicast worked perfectly. It isn't the perfect solution I was looki
 
 **Thoughts:** Feeling ok. Today was a day where I put all my effort in trying to order my life. I think I made a good job.
 
+### Day 82: June 15, 2020 (Coding toposort.py)
+
+**Today's Progress**: More than coding I was thinking how to approach the problem. I was performing the last tests of my last problem. For this one I think I only need to code DFS and order the nodes by theirs post-order. It seems simple, but we'll see tomorrow.
+
+**Thoughts:** I had a good sleep after some days of insomnia. It helped me with my mood. Feeling good.
+
 
 
 
