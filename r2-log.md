@@ -572,6 +572,15 @@ At the end Raspicast worked perfectly. It isn't the perfect solution I was looki
 
 **Thoughts:** I had a good sleep after some days of insomnia. It helped me with my mood. Feeling good.
 
+### Day 82: June 16, 2020 (Recoding matching_with_mismatches.py)
+
+**Today's Progress**: I resume the debugging of a program from last course. I got and idea that turned out being recoding everything. I just want that 100% in my certificate. ^^u
+To remember when checking tomorrow: The program runs and attach to results ONLY when its find_mismatch function returns "No mismatch".
+
+**Thoughts:** A good day. Very hectic, but ok. Feeling ok.
+
+
+
 
 
 
