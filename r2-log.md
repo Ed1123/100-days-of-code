@@ -572,18 +572,30 @@ At the end Raspicast worked perfectly. It isn't the perfect solution I was looki
 
 **Thoughts:** I had a good sleep after some days of insomnia. It helped me with my mood. Feeling good.
 
-### Day 82: June 16, 2020 (Recoding matching_with_mismatches.py)
+### Day 83: June 16, 2020 (Recoding matching_with_mismatches.py)
 
 **Today's Progress**: I resume the debugging of a program from last course. I got and idea that turned out being recoding everything. I just want that 100% in my certificate. ^^u
-To remember when checking tomorrow: The program runs and attach to results ONLY when its find_mismatch function returns "No mismatch".
+Reminder when checking tomorrow: The program runs and attach to results ONLY when its find_mismatch function returns "No mismatch".
 
 **Thoughts:** A good day. Very hectic, but ok. Feeling ok.
 
+### Day 84: June 17, 2020 (Recoding matching_with_mismatches.py)
 
+**Today's Progress**: Debugging the bug I've found yesterday. No success unfortunately.
 
+**Thoughts:** Feeling ok.
 
+### Day _85_: June 18, 2020 (Skipped)
 
+**Today's Progress**: Some minor reading that I can't consider as part of my coding challenge. I'll try harder next time.
 
+**Thoughts:** I had a good day. Full of experiences I haven't pass through in a long time. Unfortunately, I wasn't able to find time to do my coding hour. I suppose I will need to try harder next time.
+
+### Day 85: June 19, 2020 (Recoding matching_with_mismatches.py)
+
+**Today's Progress**: After some recoding and debugging I was about to give up on my code but I didn't. Now I'm just recoding it and doing it in a cleaner way as I like. Maybe it solves the problem, maybe it doesn't. At least the code will be as I like my code to be. Clean, well documented and tidy.
+
+**Thoughts:** Another god day. I have a little worry about myself and the notes I take everyday, but I think I'll be ok after talking with _. Feeling ok. 
 
 
 
