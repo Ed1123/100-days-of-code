@@ -597,6 +597,12 @@ Reminder when checking tomorrow: The program runs and attach to results ONLY whe
 
 **Thoughts:** Another god day. I have a little worry about myself and the notes I take everyday, but I think I'll be ok after talking with _. Feeling ok. 
 
+### Day 86: June 20, 2020 (Last try)
+
+**Today's Progress**: I've sent my last try in the problem. I make a class for solving the problem. I like the approach I use this time. I learned more about classes definitions. I also reported the bug to the community. I hope someone sees it and fix it, but for now I have to move on.
+
+**Thoughts:** Feeling ok. A hectic day where I just wanted to rest. I survive the day and its pretty early. I'm doing yoga! :D
+
 
 
 
