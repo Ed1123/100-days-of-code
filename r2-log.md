@@ -603,7 +603,11 @@ Reminder when checking tomorrow: The program runs and attach to results ONLY whe
 
 **Thoughts:** Feeling ok. A hectic day where I just wanted to rest. I survive the day and its pretty early. I'm doing yoga! :D
 
+### Day 87: June 21, 2020 (toposort.py)
 
+**Today's Progress**: I finished coding topological sort for a DAG. I come up with a faster an simpler implementation after reviewing the class videos.
+
+**Thoughts:** A very, very tough day. My first day without the notes. I hope I improve. Feeling really bad.
 
 
 
