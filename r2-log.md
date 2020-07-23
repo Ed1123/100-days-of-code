@@ -609,6 +609,16 @@ Reminder when checking tomorrow: The program runs and attach to results ONLY whe
 
 **Thoughts:** A very, very tough day. My first day without the notes. I hope I improve. Feeling really bad.
 
+### Day 88: June 22, 2020 (strongly_connected.py)
+
+**Today's Progress**: I was coding the a program that computes the number of strongly connected components on a directed graph. At first code a program that would only work with undirected graphs. The new version will basically compute DFS for the reversed graph storing vertex in a stack using the postvisit function. Then using this stack I will compute the number of SCCs. Tomorrow I'll see how it works.
+
+**Thoughts:** Another tough day. Life is being so freeking hard. Feeling not good.
+
+
+
+
+
 
 
 
