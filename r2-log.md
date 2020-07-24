@@ -615,7 +615,12 @@ Reminder when checking tomorrow: The program runs and attach to results ONLY whe
 
 **Thoughts:** Another tough day. Life is being so freeking hard. Feeling not good.
 
+### Day : June 23, 2020 (Breadth-First Search)
 
+**Today's Progress**: The idea I had yesterday for the assignment was correct. I just had some problems implementing it. At the end it works, but I don't like how it looks. I will improve it if needed.
+Today I also learned about Breadth-First Search that allow us to look at a graph by layers and compute distances (the minimum number of edges from one node to another) from any node to all others. Reading the book before watching the lessons helped me process the information easily.
+
+**Thoughts:** Not feeling as bad as yesterday. I even manage to do my yoga. I enjoyed it. Feeling ok.
 
 
 
