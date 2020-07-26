@@ -628,6 +628,12 @@ Today I also learned about Breadth-First Search that allow us to look at a graph
 
 **Thoughts:** A SUPER hectic day. My coding hour is done! I'm exhausted. Feeling ok.
 
+### Day 91: June 25, 2020 (Bipartite graphs and )
+
+**Today's Progress**: Today I finished coding bfs and learned what a bipartite graphs is. I also just modify a bfs to check whether a graphs is bipartite or not. I also started learning about fastest route and how weights work on edges.
+
+**Thoughts:** A good day. Even though I'm feeling sick, it was a good. A lot of patience. Feeling good again finally. :)
+
 
 
 
