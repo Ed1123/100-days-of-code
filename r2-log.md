@@ -634,7 +634,18 @@ Today I also learned about Breadth-First Search that allow us to look at a graph
 
 **Thoughts:** A good day. Even though I'm feeling sick, it was a good. A lot of patience. Feeling good again finally. :)
 
+### Day 92: June 26, 2020 (Debugging bipartite)
 
+**Today's Progress**: I was checking my bipartite code because it didn't work when the graph wasn't connected. I also advance in graphs with weighted edges.
+
+**Thoughts:** I felt very sick today. I was a very good and productive day, though. Feeling good (but sick).
+
+### Day 93: June , 2020 (CS50x / Dijkstra's algorithm)
+
+**Today's Progress**: I started with CS50x from Harvard. I see it some time ago, but I didn't payed much attention to it because I though it was just some nice recorded classes from Harvard without much material. How wrong I was! I can even get a certificate for taking and passing the course through submitting the problems and projects. I wish I had taken it when I first encounter it, but there's no problem. I'm gonna take it now alongside the DSA specialization. It is gonna be great to have some variation in the courses I'm taking. Just as in school.
+In the DSA specialization I went through some reading that introduce Dijkstra's algorithm. I got a bit lost, but I'm starting to catch up with the naïve implementation of the course using edge "relaxation".
+
+**Thoughts:** A hectic day, but it was completely ok. I'm started to feel capable of working fulltime again. This feeling is gonna be necessary if I get a better job. Feeling good.
 
 
 
