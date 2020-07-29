@@ -640,16 +640,22 @@ Today I also learned about Breadth-First Search that allow us to look at a graph
 
 **Thoughts:** I felt very sick today. I was a very good and productive day, though. Feeling good (but sick).
 
-### Day 93: June , 2020 (CS50x / Dijkstra's algorithm)
+### Day 93: June 27, 2020 (CS50x / Dijkstra's algorithm)
 
 **Today's Progress**: I started with CS50x from Harvard. I see it some time ago, but I didn't payed much attention to it because I though it was just some nice recorded classes from Harvard without much material. How wrong I was! I can even get a certificate for taking and passing the course through submitting the problems and projects. I wish I had taken it when I first encounter it, but there's no problem. I'm gonna take it now alongside the DSA specialization. It is gonna be great to have some variation in the courses I'm taking. Just as in school.
 In the DSA specialization I went through some reading that introduce Dijkstra's algorithm. I got a bit lost, but I'm starting to catch up with the naïve implementation of the course using edge "relaxation".
 
 **Thoughts:** A hectic day, but it was completely ok. I'm started to feel capable of working fulltime again. This feeling is gonna be necessary if I get a better job. Feeling good.
 
+### Day 94 : June 28, 2020 (Understanding Dijkstra's algorithm)
+
+**Today's Progress**: I'm finally understanding better this algorithm. Today I also took a test on MySQL and passed it. The rest of the time I focused on preparing myself for an interview. I'm considering it in my coding hour because it can lead to a job in the industry! (and because I feel exhausted).
+
+**Thoughts:** Not a good day. It went out of control at a time at afternoon. At least I move to be prepared for tomorrow and study a bit. Not feeling that good.
 
 
-### Day : June , 2020 ()
+
+### Day : June , 2020 (Understanding Dijkstra's algorithm)
 
 **Today's Progress**: 
 
