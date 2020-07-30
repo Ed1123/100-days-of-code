@@ -653,6 +653,22 @@ In the DSA specialization I went through some reading that introduce Dijkstra's 
 
 **Thoughts:** Not a good day. It went out of control at a time at afternoon. At least I move to be prepared for tomorrow and study a bit. Not feeling that good.
 
+### Day 95: June 29, 2020 (Bellman-Ford's algorithm)
+
+**Today's Progress**: Long story short:
+
+- Dijkstra's algorithm doesn't work with negative edges.
+
+- The naïve algorithm seems to work and an "adaptation" is name Bellman-Ford's algorithm.
+
+- There may be negative cycles which need to be treated differently.
+
+  I think I'm gonna need more reading to fully understand this topic.
+
+**Thoughts:** Feeling ok. I want to relax and sleep.
+
+
+
 
 
 ### Day : June , 2020 (Understanding Dijkstra's algorithm)
