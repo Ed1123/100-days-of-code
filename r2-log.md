@@ -667,6 +667,12 @@ In the DSA specialization I went through some reading that introduce Dijkstra's 
 
 **Thoughts:** Feeling ok. I want to relax and sleep.
 
+### Day 96: June , 2020 (Understanding Infinite Arbitrage)
+
+**Today's Progress**: A very tough lesson. I don't fully understand it yet, but what I can say is that nodes reachable from a negative cycle can have minus infinitive path length and this is called Infinite Arbitrage. This can be found in a graph using Bellman-Ford's algorithm for V repetitions.
+
+**Thoughts:** A hectic day. I'm tired. Feeling anxious.
+
 
 
 
