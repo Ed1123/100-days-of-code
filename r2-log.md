@@ -667,17 +667,25 @@ In the DSA specialization I went through some reading that introduce Dijkstra's 
 
 **Thoughts:** Feeling ok. I want to relax and sleep.
 
-### Day 96: June , 2020 (Understanding Infinite Arbitrage)
+### Day 96: June 30, 2020 (Understanding Infinite Arbitrage)
 
 **Today's Progress**: A very tough lesson. I don't fully understand it yet, but what I can say is that nodes reachable from a negative cycle can have minus infinitive path length and this is called Infinite Arbitrage. This can be found in a graph using Bellman-Ford's algorithm for V repetitions.
 
 **Thoughts:** A hectic day. I'm tired. Feeling anxious.
 
+### Day 97: June 31, 2020 (Coding dijkstra.py)
+
+**Today's Progress**: Finished the lessons. There are still some details I still don't get completely, but I think I may understand better when coding. Now I'm trying to understand how to keep track of processes nodes when changing the priority in the priority queue.
+
+**Thoughts:** Having a lot trouble focusing. Feeling bad.
 
 
 
 
-### Day : June , 2020 (Understanding Dijkstra's algorithm)
+
+
+
+### Day : June , 2020 ()
 
 **Today's Progress**: 
 
