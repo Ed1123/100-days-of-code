@@ -679,15 +679,22 @@ In the DSA specialization I went through some reading that introduce Dijkstra's 
 
 **Thoughts:** Having a lot trouble focusing. Feeling bad.
 
+### Day 98: August 1st, 2020 (Still coding)
 
+**Today's Progress**: Having a lot of trouble focusing. Make some progress on the code, explore why Pylance imports on VSCode wasn't working as I expected and review lesson from the course to better understand how to finished the code
 
+**Thoughts:** It's like I skipped the day from 9:00 pm to the next day. I felt bad, really bad.
 
+### Day 99: August 2nd, 2020 (Dijkstra's algorithm done!)
 
+**Today's Progress**: Finished coding dijkstra.py. For some reason at the first submitting attempt it didn't pass all the tests, but at the second it did. Apparently, I should've been something related with indentation or a typo I corrected without noticing.
+At night I code and finished in record time the second problem, finding a negative cycle. At the begging it didn't pass because I didn't considerer SCC, then expected time limit issues, then more time limits and finally, after a very refine and clean code, it passed all the test. :)
 
+**Thoughts:** A day full of things. Meeting my cousins after a long time help me a lot to rebalanced. Even though, there were some hectic things during the day it was a great day. Feeling very good.
 
-### Day : June , 2020 ()
+### Day 100: August 3st, 2020 ()
 
-**Today's Progress**: 
+**Today's Progress**: Today, besides coding a program that finds shortest path in a graph even with negative cycles, I typed the days 98, 99 and 100 progress because I couldn't before.
+The algorithm looks great, but I haven't done any test yet so it probably doesn't work. Tomorrow, we'll see. 
 
-**Thoughts:** 
-
+**Thoughts:** Another hectic day, working from my cousins home. Nice experience. I would've preferred a less frantic day, though. We know it now to be prepared for a next time. Feeling good :slightly_smiling_face: (and tired, and amused, and exited).

@@ -5,6 +5,7 @@
 * [Rules](rules.md)
 * [Round 1 Log - click here to see my first round of the challenge](r1-log.md)
 * [Round 2 Log - click here to see my current progress](r2-log.md)
+* [Round 3 Log - click here to see my current progress](r3-log.md)
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
 
