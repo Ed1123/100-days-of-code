@@ -24,7 +24,23 @@ I also found a big bug in my shortest_path.py code. Tomorrow I will debug it. :)
 
  **Thoughts:** A difficult day. Feeling a bit better.
 
+### Day 2: August 7, 2020 (Reading)
 
+**Today's Progress**: Reading the book for a deep understanding of the MST lesson. I also started to solve the problem of finding the MST of a set of points given just its x and y coordinates. I'm weighting Kruskal's or Prim's algorithms running time in this special case.
+
+**Thoughts:** Feeling ok. Nothing too bad, nothing too god.
+
+### Day 3: August 8, 2020 (Coding connecting_points.py)
+
+**Today's Progress**: Kind of stuck in small details. I'll work harder.
+
+**Thoughts:** Feeling ok. A little bit overwhelmed.
+
+### Day 4: August 9, 2020 (connecting_points.py :heavy_check_mark: )
+
+**Today's Progress**: After a hectic day I finished coding my problem with a clearest mind. Surprisingly, it passes the grader tests in the first try.
+
+**Thoughts:** Feeling good :smile:.
 
 
 
