@@ -42,6 +42,14 @@ I also found a big bug in my shortest_path.py code. Tomorrow I will debug it. :)
 
 **Thoughts:** Feeling good :smile:.
 
+### Day 5: August 10, 2020 (Thinking clustering.py)
+
+**Today's Progress**: Analyzing how to approach the problem of clustering. It seems that using Kruskal's algorithm is the easiest way to do it.
+
+**Thoughts:** I have plenty of things to do. This weekend may get entertain. Feeling fine.  
+
+
+
 
 
 ### Day : August , 2020 ()
