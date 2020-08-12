@@ -48,6 +48,12 @@ I also found a big bug in my shortest_path.py code. Tomorrow I will debug it. :)
 
 **Thoughts:** I have plenty of things to do. This weekend may get entertain. Feeling fine.  
 
+### Day 6: August 11, 2020 (Finish coding and start debugging)
+
+**Today's Progress**: After implementing my idea from yesterday I come across expected bugs. I don't know where this last bug is yet, but I have a pretty good idea for finding it tomorrow.
+
+**Thoughts:** 1st day at this job and I still can't believe I'm in. Things are looking pretty good. Tomorrow it'll be my first meeting in English with my team. Feeling exited and nervous. D:
+
 
 
 
