@@ -54,7 +54,12 @@ I also found a big bug in my shortest_path.py code. Tomorrow I will debug it. :)
 
 **Thoughts:** 1st day at this job and I still can't believe I'm in. Things are looking pretty good. Tomorrow it'll be my first meeting in English with my team. Feeling exited and nervous. D:
 
+### Day 7: August 12, 2020 (clustering.py :heavy_check_mark:)
 
+**Today's Progress**: I found the bug (and some others alongside that one), I fix them and I submit the code to get a great score. :)
+Starting next last and optional week in the course. I need to organized to finish it before I get the financial aid for the next course and also finished the homework for the CS50x class. Feeling the pressure. D:
+
+**Thoughts:** A tiring day. I have to keep going. There are only two days of to the weekend. Feeling tired.
 
 
 
