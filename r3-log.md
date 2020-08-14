@@ -61,6 +61,12 @@ Starting next last and optional week in the course. I need to organized to finis
 
 **Thoughts:** A tiring day. I have to keep going. There are only two days of to the weekend. Feeling tired.
 
+### Day 8: August 13, 2020 (CS50x - Problem set 0 - Scratch)
+
+**Today's Progress**: Starting with my scratch project. I have to manage my expectations before it goes out of control and wanted to code a new super videogame. So far doing well.
+
+**Thoughts:** Mix feelings. Job is doing good, couple not that much, neither family. Feeling fine. I'm going to bed early.
+
 
 
 ### Day : August , 2020 ()
