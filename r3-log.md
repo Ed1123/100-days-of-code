@@ -67,6 +67,12 @@ Starting next last and optional week in the course. I need to organized to finis
 
 **Thoughts:** Mix feelings. Job is doing good, couple not that much, neither family. Feeling fine. I'm going to bed early.
 
+### Day 9: August 14, 2020 (CS50x - Problem set 0 - Scratch :heavy_check_mark: )
+
+**Today's Progress**: Finished the little little game. It looks good and it has room for improvement, but I think that due to my time limitations I will just let it there as it is for now. I may take the time to improve it later on.
+
+**Thoughts:** Kind of heavy day. A good day overall, though. Feeling fine.
+
 
 
 ### Day : August , 2020 ()
