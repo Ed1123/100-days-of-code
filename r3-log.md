@@ -73,6 +73,14 @@ Starting next last and optional week in the course. I need to organized to finis
 
 **Thoughts:** Kind of heavy day. A good day overall, though. Feeling fine.
 
+### Day 10: August 15, 2020 (CS50x - Problem set 1 - 2/3 :heavy_check_mark:)
+
+**Today's Progress**: I finished the first 2/3 exercises of the problem set 1. 2 introductory problems that I think give a very good base knowledge of the C programing language.
+
+**Thoughts:** Feeling good. Not the super active and productive day, but it is my weekend so I'm just enjoying it (while, of course, coding at least one hour).
+
+
+
 
 
 ### Day : August , 2020 ()
