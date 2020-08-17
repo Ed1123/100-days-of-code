@@ -79,7 +79,11 @@ Starting next last and optional week in the course. I need to organized to finis
 
 **Thoughts:** Feeling good. Not the super active and productive day, but it is my weekend so I'm just enjoying it (while, of course, coding at least one hour).
 
+### Day 11: August 16, 2020 (CS50x - Problem set 1 - 3/3 :heavy_check_mark:)
 
+**Today's Progress**: Code the last problem for the week 1 in C. I though it was gonna take much less time, but I wasn't at my top performance so it was expected.
+
+**Thoughts:** Not my best day. I pass the day, though. Feeling a little bad.
 
 
 
