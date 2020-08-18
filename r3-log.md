@@ -85,6 +85,18 @@ Starting next last and optional week in the course. I need to organized to finis
 
 **Thoughts:** Not my best day. I pass the day, though. Feeling a little bad.
 
+### Day 12: August 17, 2020 (Bidirectional Dijkstra and A* algorithms)
+
+**Today's Progress**: I'm finding this topic particularly hard. Dijkstra's algorithm already wasn't the easiest thing I've learned and this two are built on top of that. I'm a bit worry for not being able to understand well this algorithms.
+
+**Thoughts:** A hard day. Work is going well, family same, couple not much and me... I've had had better days. Feeling bad.
+
+
+
+
+
+
+
 
 
 ### Day : August , 2020 ()
