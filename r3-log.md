@@ -91,6 +91,18 @@ Starting next last and optional week in the course. I need to organized to finis
 
 **Thoughts:** A hard day. Work is going well, family same, couple not much and me... I've had had better days. Feeling bad.
 
+### Day 13: August 18, 2020 (Contraction Hierarchies)
+
+**Today's Progress**: This advanced shortest paths subject is being pretty complicated. I'm having a hard time understanding these algorithms and theirs implementations. May be when coding them I got illuminated.
+
+**Thoughts:** Having a hard time. I think it is because of the stress cause by the fears of not being up to the new job I have gotten. I don't feel prepare and I'm scare. Feeling down.
+
+### Day 14: August 19, 2020 (Contraction Hierarchies)
+
+**Today's Progress**: I don't understand.
+
+**Thoughts:** Nice day at work, not that great at home. Feeling even more down.
+
 
 
 
