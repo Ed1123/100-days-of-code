@@ -103,6 +103,12 @@ Starting next last and optional week in the course. I need to organized to finis
 
 **Thoughts:** Nice day at work, not that great at home. Feeling even more down.
 
+### Day 15: August 20, 2020 (Finally understanding)
+
+**Today's Progress**: Computerphile YouTube channel was my hero! Thanks Dr. Mike Pound! I'm finally understanding how Dijkstra's and A* algorithms. I think now I just need to review the videos (or just the slides) of the course to learn the implementation and may be even the proves of the algorithms, but one step at a time before I get crazy.
+
+**Thoughts:** A nice day overall (even though, my dog wasn't behaving well :sweat:). Feeling better thanks to my advance in my job, the nice resolution of a problem with a client, new bikes I get to see and meeting with a friend after a long time. Of course also because I'm moving on in the DSA course.
+
 
 
 
