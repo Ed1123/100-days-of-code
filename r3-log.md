@@ -109,6 +109,14 @@ Starting next last and optional week in the course. I need to organized to finis
 
 **Thoughts:** A nice day overall (even though, my dog wasn't behaving well :sweat:). Feeling better thanks to my advance in my job, the nice resolution of a problem with a client, new bikes I get to see and meeting with a friend after a long time. Of course also because I'm moving on in the DSA course.
 
+### Day 16: August 21, 2020 (MIT OpenCourseWare)
+
+**Today's Progress**: I watch (and take giant notes) a MIT class from professor Srini Devadas on Speeding up Dijkstra where he explains bidirectional Dijkstra, the notion of potential functions for modified weights and how the landmarks come as a application of the latest. Awesome explanation that really helped me understand what I couldn't in my main UCSD DSA course.
+
+**Thoughts:** Life is going up and down and it is a constant fight to keep it balance. It is very hard sometimes, but I'm still here. I thing is how life is supposed to be. Feeling fine.
+
+
+
 
 
 
