@@ -115,7 +115,11 @@ Starting next last and optional week in the course. I need to organized to finis
 
 **Thoughts:** Life is going up and down and it is a constant fight to keep it balance. It is very hard sometimes, but I'm still here. I thing is how life is supposed to be. Feeling fine.
 
+### Day 17: August 22, 2020 (Playing with more MIT classes)
 
+**Today's Progress**: Watching more classes and trying to start solving the coding problem of bidirectional Dijkstra.
+
+**Thoughts:** A very tiring and productive day. Feeling good.
 
 
 
