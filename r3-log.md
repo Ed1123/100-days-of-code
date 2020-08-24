@@ -121,7 +121,11 @@ Starting next last and optional week in the course. I need to organized to finis
 
 **Thoughts:** A very tiring and productive day. Feeling good.
 
+### Day 18: August 23, 2020 (Coding bidirectional Dijkstra)
 
+**Today's Progress**: It is being challenging. Most because of I'm trying to make sense of the starting code I was provided with. Usually, if I have the algorithm clear I just ignored the hints and code it my way. This time, however, I think it would be easy if I just attach to the guidelines. Moreover because I had problems understanding it. I'm moving at an slow pace.
+
+**Thoughts:** Feeling ok. Not a great, neither a bad day. The greatest, Bayern won the champions; the worst, I couldn't fix the laptop yet, neither finish all my plans. They certainty weren't few. Something went wrong that I ended up with this many pending tasks for my weekend. It may've been the unexpected breaking of my mom's laptop. I still have some time between work and my coding hour, I think.
 
 
 
