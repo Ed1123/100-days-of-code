@@ -127,7 +127,11 @@ Starting next last and optional week in the course. I need to organized to finis
 
 **Thoughts:** Feeling ok. Not a great, neither a bad day. The greatest, Bayern won the champions; the worst, I couldn't fix the laptop yet, neither finish all my plans. They certainty weren't few. Something went wrong that I ended up with this many pending tasks for my weekend. It may've been the unexpected breaking of my mom's laptop. I still have some time between work and my coding hour, I think.
 
+### Day : August , 2020 (Actually coding bidirectional Dijkstra)
 
+**Today's Progress**: I'm considering ignoring the hints now that I think I understand better how the algorithm works. It may take longer to understand how to use those hints than actually coding the solution.
+
+**Thoughts:** Feeling well. It was a balanced day. Nothing too high, neither too low. Tired at evening I fell asleep and wake up to finished some tasks and my coding hour.
 
 
 
