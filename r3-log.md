@@ -139,6 +139,12 @@ Starting next last and optional week in the course. I need to organized to finis
 
 **Thoughts:** A good day overall. A bad morning lead me to have a difficult day at work, but nothing too crazy. Tomorrow I'll have several hours to finish all the pending tasks.
 
+### Day 21: August 26, 2020 (Finishing up bidirectional Dijkstra)
+
+**Today's Progress**: I finished the code and it worked at the first try, but it had something that make it too slow for one test so I tried to improve it. While doing so I broke it and now I'm debugging it ^^u.
+
+**Thoughts:** A good day. Tiring, full of activities and nothing bad happening. Feeling ok.
+
 
 
 ### Day : August , 2020 ()
