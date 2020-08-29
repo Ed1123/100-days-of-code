@@ -145,6 +145,24 @@ Starting next last and optional week in the course. I need to organized to finis
 
 **Thoughts:** A good day. Tiring, full of activities and nothing bad happening. Feeling ok.
 
+### Day 22: August 27, 2020 (Bidirectional Dijkstra :heavy_check_mark: )
+
+**Today's Progress**: After debugging and reading for solutions on the forums of the course I've finished optimizing my code and it passed the test. I also started with the next course, Algorithms on Strings. I think I'll leave these extra part on graph for another time. My priority now is finishing this course.
+
+**Thoughts:** A terrible day at work. I hope it doesn't have that bad consequences.
+
+### Day 23: August 28, 2020 (Playing around with bash)
+
+**Today's Progress**: Playing with bash on the WSL following The Missing Semester of Your CS Education. The fact they're using Linux laptops and are teaching bash in 2020 brought back my thoughts of switching to Linux on my laptop. I've tried it and force me to use it for some tasks, but never installed on my main computer. Why not living in between both worlds?
+
+**Thoughts:** A better day at work. I did some progress on that task that seem unreachable, but I feel that it is not enough. Well see on monday.
+
+
+
+
+
+### 
+
 
 
 ### Day : August , 2020 ()
