@@ -155,13 +155,17 @@ Starting next last and optional week in the course. I need to organized to finis
 
 **Today's Progress**: Playing with bash on the WSL following The Missing Semester of Your CS Education. The fact they're using Linux laptops and are teaching bash in 2020 brought back my thoughts of switching to Linux on my laptop. I've tried it and force me to use it for some tasks, but never installed on my main computer. Why not living in between both worlds?
 
-**Thoughts:** A better day at work. I did some progress on that task that seem unreachable, but I feel that it is not enough. Well see on monday.
+**Thoughts:** A better day at work. I did some progress on that task that seem unreachable, but I feel that it is not enough. Well see on Monday.
+
+### Day 24: August 29, 2020 (Tries)
+
+**Today's Progress**: I learned about tries in pattern matching on strings. Complex and interesting stuff.
+
+**Thoughts:** Feeling fine. Not an excellent day, but I'm still alive so it's ok.
 
 
 
 
-
-### 
 
 
 
