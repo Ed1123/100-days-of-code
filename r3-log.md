@@ -163,6 +163,14 @@ Starting next last and optional week in the course. I need to organized to finis
 
 **Thoughts:** Feeling fine. Not an excellent day, but I'm still alive so it's ok.
 
+### Day 25: August 30, 2020 (vim)
+
+**Today's Progress**: Couldn't focus on the main readings on tries, neither the coding assignments. That's why I just ended up watching the lecture 3 of the missing semester on vim. It's kind of relaxing.
+
+**Thoughts:** A difficult day. Not that bad as other, though. Feeling a little bad.
+
+
+
 
 
 
