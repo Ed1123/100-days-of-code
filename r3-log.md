@@ -169,7 +169,11 @@ Starting next last and optional week in the course. I need to organized to finis
 
 **Thoughts:** A difficult day. Not that bad as other, though. Feeling a little bad.
 
+### Day 26: August 31, 2020 (Coding trie)
 
+**Today's Progress**: I was complicating my life too much when planning the code. Now I have an simple implementation idea. I know I'll work.
+
+**Thoughts:** Feeling confident and good (again). Life is hard, but now I love it. Ha! Feeling good.
 
 
 
