@@ -175,7 +175,11 @@ Starting next last and optional week in the course. I need to organized to finis
 
 **Thoughts:** Feeling confident and good (again). Life is hard, but now I love it. Ha! Feeling good.
 
+### Day 27: September 1st, 2020 (Making the code work)
 
+**Today's Progress**: I though I'd be easier. Trying to make my code work. It at least run without errors, but  outputting the wrong answer. Debugging it won't be that difficult.
+
+**Thoughts:** I'm also trying to make run for everything in my life. Work, study, home (my room in this case), personal care (working out and nutrition), games, friends, couple and family. It is difficult to keep everything in balance, but I'm going on. Feeling ok.
 
 
 
