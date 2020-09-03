@@ -181,7 +181,11 @@ Starting next last and optional week in the course. I need to organized to finis
 
 **Thoughts:** I'm also trying to make run for everything in my life. Work, study, home (my room in this case), personal care (working out and nutrition), games, friends, couple and family. It is difficult to keep everything in balance, but I'm going on. Feeling ok.
 
+### Day 28: September 2, 2020 (trie_matching.py)
 
+**Today's Progress**: I made good progress today. I finished debugging yesterday's problem and finished the second one. It was kind of easy.
+
+**Thoughts:** The day felt really short. I couldn't do my exercises. Too much time gaming? I'm finishing kind of early though. It is midnight compare to the 1:00 am when I usually turn off my laptop. Feeling ok.
 
 
 
