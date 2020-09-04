@@ -187,9 +187,21 @@ Starting next last and optional week in the course. I need to organized to finis
 
 **Thoughts:** The day felt really short. I couldn't do my exercises. Too much time gaming? I'm finishing kind of early though. It is midnight compare to the 1:00 am when I usually turn off my laptop. Feeling ok.
 
+### Day 29: September 3, 2020 (trie_matching_improved and suffix_tree.)
+
+**Today's Progress**: I finished the next problem with some simple modifications because I already made the firsts pretty general. Now, this next problem, building an space efficient suffix tree is taking me some time. I think may using logarithmic time to find the position where to break the string may be one way. I'm not sure, but I want to go bed early so tomorrow we'll see.
+
+**Thoughts:** Feeling ok. Not my greatest day at job, but I think it'll get better. Hopefully tomorrow is the last day of the week.
 
 
-### Day : August , 2020 ()
+
+
+
+
+
+
+
+### Day : September, 2020 ()
 
 **Today's Progress**:
 
