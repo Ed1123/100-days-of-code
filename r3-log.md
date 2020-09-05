@@ -193,6 +193,14 @@ Starting next last and optional week in the course. I need to organized to finis
 
 **Thoughts:** Feeling ok. Not my greatest day at job, but I think it'll get better. Hopefully tomorrow is the last day of the week.
 
+### Day 30: September 4, 2020 (Suffix tree)
+
+**Today's Progress**: Thinking and researching before tackling the problem. It seems kind of hard to implement. I didn't come up with the algorithm by myself at that make me feel not so great.
+
+**Thoughts:** A good day at work and at home. I couldn't do my workout, but it's ok. Feeling ok.
+
+
+
 
 
 
