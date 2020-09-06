@@ -199,6 +199,12 @@ Starting next last and optional week in the course. I need to organized to finis
 
 **Thoughts:** A good day at work and at home. I couldn't do my workout, but it's ok. Feeling ok.
 
+### Day 31: September 5, 2020 (Playing with my Pi)
+
+**Today's Progress**: Recovering access to my pi over SSH, mastering screenshots over it to get the current status. Then, I also paly with my Windows Terminal config to easily access my Pi, customizing the looks of it and some key bindings.
+
+**Thoughts:** Anxiety took a big place during my day. I wasn't that good, but at the end it wasn't that bad. Highs and downs as always. Fine overall. Feeling fine.
+
 
 
 
