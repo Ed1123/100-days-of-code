@@ -205,6 +205,27 @@ Starting next last and optional week in the course. I need to organized to finis
 
 **Thoughts:** Anxiety took a big place during my day. I wasn't that good, but at the end it wasn't that bad. Highs and downs as always. Fine overall. Feeling fine.
 
+### Day 32: September 6, 2020 (A light - New try on matching_with_mismatches.py)
+
+**Today's Progress**: I was wandering in information related to the last problem, building a suffix tree, but I wasn't getting anywhere (I think that's the point of wandering lol). After a mail with a suggestion on how to approach the left behind matching_with_mismatches.py problem I get interested on trying something. Even though the mail doesn't give me much clue in where my problem might be, it gave a sign of improvement. I improve my code with a little addition, submit it and it didn't pass with the same error. I research a little to find possible test cases I wasn't taking into consideration when I came with the idea of limiting the letters of the alphabet I was using for stress testing. I think that came from the suffix tree idea of efficiency when having a limited alphabet.
+I tried with 3 letters and large sequences of text and pattern, but it seemed to passed all, but without finding much matches, so I decided to try with just 2 letters, the minimum than doesn't generate consecutive matches. I let the test run for some time when suddenly an error!
+The interpreter caught an error, but I didn't have the test case for that error, so with some work (and after learning to handle exceptions in Python) I find a test case to reproduce the error.
+I'm so exited for this. I'm just starting to debug it so it is too soon to make conclusions, but having a test case to reproduce an error in my seemingly perfect code is a HUGE step. Tomorrow I'll debug it and get that 100% I want in all courses.
+
+**Thoughts:** Not my greatest day, but I'm trying to keep myself in a good mood. Feeling fine.
+
+### Day 33: September 7, 2020 (Debugging)
+
+**Today's Progress**: I spend the whole time reviewing notes and formulas about polynomial hashing. I've found that my error is in the binary search logic. I'm trying to solve it. The solution seems to be close, but it's already late to pursue it.
+
+**Thoughts:** Feeling good. Not a bad day. I worked out pretty well.
+
+### Day 34: September, 2020 (FINALLY!)
+
+**Today's Progress**: I solve the problem with the binary search logic and my algorithm passed the test it was constantly failing in. It didn't pass all the tests due to time limitations, but after some time spend improving it, IT FINALLY PASS THE GRADER!
+
+**Thoughts:** Besides the great emotion of finally getting my 100% in this course, I had a good day. At work and with myself. My relationship is not in its greatest moments, but I know how to fix it. I hope I get organized. Feeling good.
+
 
 
 
