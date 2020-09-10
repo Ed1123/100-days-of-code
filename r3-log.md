@@ -220,13 +220,20 @@ I'm so exited for this. I'm just starting to debug it so it is too soon to make 
 
 **Thoughts:** Feeling good. Not a bad day. I worked out pretty well.
 
-### Day 34: September, 2020 (FINALLY!)
+### Day 34: September 8, 2020 (FINALLY!)
 
 **Today's Progress**: I solve the problem with the binary search logic and my algorithm passed the test it was constantly failing in. It didn't pass all the tests due to time limitations, but after some time spend improving it, IT FINALLY PASS THE GRADER!
 
 **Thoughts:** Besides the great emotion of finally getting my 100% in this course, I had a good day. At work and with myself. My relationship is not in its greatest moments, but I know how to fix it. I hope I get organized. Feeling good.
 
+### Day 35: September 9, 2020 (A tiring day)
 
+**Today's Progress**:
+
+- C, bash, make
+- Raspberry Pi / VSCode remote coding
+
+**Thoughts:** A tiring day where I couldn't do much for waiting. Feeling a little bad.
 
 
 
