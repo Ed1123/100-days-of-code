@@ -235,7 +235,23 @@ I'm so exited for this. I'm just starting to debug it so it is too soon to make 
 
 **Thoughts:** A tiring day where I couldn't do much for waiting. Feeling a little bad.
 
+### Day 36: September 10, 2020 (Thinking and coding suffix_tree.py)
 
+**Today's Progress**: It is a difficult problem, but I'm starting to code it. I'm gonna try traverse the trie constructed from the suffixes to compress it. We'll see how it works.
+
+**Thoughts:** Feeling fine. Not the greatest day either.
+
+### Day 37: September 11, 2020 (Functional programming)
+
+**Today's Progress**: Getting introduce to functional programming. I... don't know.
+
+**Thoughts:** Tired. Feeling a bit overwhelmed. 
+
+### Day 38: September 11, 2020 (Making progress on the suffix_tree.py)
+
+**Today's Progress**: I coded a very naïve working algorithm. If I can't make it pass the tests through improvements on its running time I still have this algorithm for stress testing. (also coding it help me gain confidence to approach this difficult problem)
+
+**Thoughts:** Feeling better.
 
 
 
