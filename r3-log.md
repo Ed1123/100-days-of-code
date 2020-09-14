@@ -253,6 +253,12 @@ I'm so exited for this. I'm just starting to debug it so it is too soon to make 
 
 **Thoughts:** Feeling better.
 
+### Day 39: September 12, 2020 (Reading)
+
+**Today's Progress**: I get stuck on trying to compress each label of my current algorithm. I don't wanna make my algorithm too slow or too space heavy and I simply don't find an way of implementing my ideas. So, I started looking on the internet for help and ended up in a [stackoverflow](https://stackoverflow.com/questions/9452701/ukkonens-suffix-tree-algorithm-in-plain-english) answer that explains the "advance" Ukkonen's linear implementation. I'm gonna read it and we'll see how is goes.
+
+**Thoughts:** I'm keeping this Sunday light to rest enough for this next week. Feeling ok.
+
 
 
 
