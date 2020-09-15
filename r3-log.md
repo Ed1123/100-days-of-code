@@ -259,6 +259,16 @@ I'm so exited for this. I'm just starting to debug it so it is too soon to make 
 
 **Thoughts:** I'm keeping this Sunday light to rest enough for this next week. Feeling ok.
 
+### Day 40: September 13, 2020 (Progress?)
+
+**Today's Progress**: Ukkonen's algorithm is really complex and I think out of the scope of the course (not for nothing it is suggested not to use it). Going back to a more "basic" implementation.
+I think the problem in my original naïve algorithm can be solved by just creating a copy dictionary to store the edge indexes information. The problem with not knowing how to find the indexes of the label to compress them may be solve that way. Although, I'm still bother by the slowness of that approach.
+Next I'm considering creating the suffix tree from scratch by creating a new node when branching as suggested. That may be easier than trying to fix the path compression approach. Working on a pseudocode that'll help me with the algorithm.
+
+**Thoughts:** It was an ok day at job, ok at home and ok with studies. Feeling good.
+
+
+
 
 
 
