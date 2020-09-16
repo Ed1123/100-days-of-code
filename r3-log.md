@@ -267,6 +267,16 @@ Next I'm considering creating the suffix tree from scratch by creating a new nod
 
 **Thoughts:** It was an ok day at job, ok at home and ok with studies. Feeling good.
 
+### Day 41: September 14, 2020 (Pseudocoding)
+
+**Today's Progress**: I went back to write a pseudocode for my ideas from yesterday. I think I have a good solution that I've already started implementing.
+
+**Thoughts:** Feeling ok. Just a little worried for my partner's development.
+
+
+
+
+
 
 
 
