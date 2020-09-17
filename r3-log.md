@@ -273,7 +273,11 @@ Next I'm considering creating the suffix tree from scratch by creating a new nod
 
 **Thoughts:** Feeling ok. Just a little worried for my partner's development.
 
+### Day 42: September 15, 2020 (Making considerable progress)
 
+**Today's Progress**: I think I'm gonna need just another hour to finish the code.
+
+**Thoughts:** I was a lazy day, but I manage to go through it. Feeling ok.
 
 
 
