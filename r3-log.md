@@ -279,6 +279,16 @@ Next I'm considering creating the suffix tree from scratch by creating a new nod
 
 **Thoughts:** I was a lazy day, but I manage to go through it. Feeling ok.
 
+### Day 43: September 16, 2020 (A good code to debug)
+
+**Today's Progress**: My code works well until it doesn't. I need a better way to find what edge to break when inserting a new suffix into the trie. 
+
+**Thoughts:** A hard day. I'm trying to keep moving. Feeling a little bad.
+
+
+
+
+
 
 
 
