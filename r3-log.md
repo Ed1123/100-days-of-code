@@ -285,7 +285,11 @@ Next I'm considering creating the suffix tree from scratch by creating a new nod
 
 **Thoughts:** A hard day. I'm trying to keep moving. Feeling a little bad.
 
+### Day 44: September 17, 2020 (Almost there)
 
+**Today's Progress**: Now the code works in all simple test cases. Currently I'm debugging an error with a large input. Not sure what is wrong, but I'll see it tomorrow.
+
+**Thoughts:** Feeling good. A productive day. I need to solve finish other 2 tasks to feel free and not pressure by them.
 
 
 
