@@ -291,7 +291,11 @@ Next I'm considering creating the suffix tree from scratch by creating a new nod
 
 **Thoughts:** Feeling good. A productive day. I need to solve finish other 2 tasks to feel free and not pressure by them.
 
+### Day 45: September 18, 2020 (A tiring day)
 
+**Today's Progress**: I cleaned my code. Now it is easier to debug. I'm tired to finished it today. At least it now makes more sense.
+
+**Thoughts:** A good day overall. I just need to convince that client what my work is worth. Feeling fine.
 
 
 
