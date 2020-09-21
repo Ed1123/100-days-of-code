@@ -297,7 +297,11 @@ Next I'm considering creating the suffix tree from scratch by creating a new nod
 
 **Thoughts:** A good day overall. I just need to convince that client what my work is worth. Feeling fine.
 
+### Day 46: September 19, 2020 (CS50!)
 
+**Today's Progress**: Going back to the 2nd CS50x class. It is kind of a break from my main code to relax and come back with fresh to debug my code of a suffix tree.
+
+**Thoughts:** Feeling very good. A really good day. Things went as plan and I even had time to bike a little around home. I really enjoy a beautiful sunsets.
 
 
 
