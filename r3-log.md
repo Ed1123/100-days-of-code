@@ -247,19 +247,19 @@ I'm so exited for this. I'm just starting to debug it so it is too soon to make 
 
 **Thoughts:** Tired. Feeling a bit overwhelmed. 
 
-### Day 38: September 11, 2020 (Making progress on the suffix_tree.py)
+### Day 38: September 12, 2020 (Making progress on the suffix_tree.py)
 
 **Today's Progress**: I coded a very naïve working algorithm. If I can't make it pass the tests through improvements on its running time I still have this algorithm for stress testing. (also coding it help me gain confidence to approach this difficult problem)
 
 **Thoughts:** Feeling better.
 
-### Day 39: September 12, 2020 (Reading)
+### Day 39: September 13, 2020 (Reading)
 
 **Today's Progress**: I get stuck on trying to compress each label of my current algorithm. I don't wanna make my algorithm too slow or too space heavy and I simply don't find an way of implementing my ideas. So, I started looking on the internet for help and ended up in a [stackoverflow](https://stackoverflow.com/questions/9452701/ukkonens-suffix-tree-algorithm-in-plain-english) answer that explains the "advance" Ukkonen's linear implementation. I'm gonna read it and we'll see how is goes.
 
 **Thoughts:** I'm keeping this Sunday light to rest enough for this next week. Feeling ok.
 
-### Day 40: September 13, 2020 (Progress?)
+### Day 40: September 14, 2020 (Progress?)
 
 **Today's Progress**: Ukkonen's algorithm is really complex and I think out of the scope of the course (not for nothing it is suggested not to use it). Going back to a more "basic" implementation.
 I think the problem in my original naïve algorithm can be solved by just creating a copy dictionary to store the edge indexes information. The problem with not knowing how to find the indexes of the label to compress them may be solve that way. Although, I'm still bother by the slowness of that approach.
@@ -267,41 +267,60 @@ Next I'm considering creating the suffix tree from scratch by creating a new nod
 
 **Thoughts:** It was an ok day at job, ok at home and ok with studies. Feeling good.
 
-### Day 41: September 14, 2020 (Pseudocoding)
+### Day 41: September 15, 2020 (Pseudocoding)
 
 **Today's Progress**: I went back to write a pseudocode for my ideas from yesterday. I think I have a good solution that I've already started implementing.
 
 **Thoughts:** Feeling ok. Just a little worried for my partner's development.
 
-### Day 42: September 15, 2020 (Making considerable progress)
+### Day 42: September 16, 2020 (Making considerable progress)
 
 **Today's Progress**: I think I'm gonna need just another hour to finish the code.
 
 **Thoughts:** I was a lazy day, but I manage to go through it. Feeling ok.
 
-### Day 43: September 16, 2020 (A good code to debug)
+### Day 43: September 17, 2020 (A good code to debug)
 
 **Today's Progress**: My code works well until it doesn't. I need a better way to find what edge to break when inserting a new suffix into the trie. 
 
 **Thoughts:** A hard day. I'm trying to keep moving. Feeling a little bad.
 
-### Day 44: September 17, 2020 (Almost there)
+### Day 44: September 18, 2020 (Almost there)
 
 **Today's Progress**: Now the code works in all simple test cases. Currently I'm debugging an error with a large input. Not sure what is wrong, but I'll see it tomorrow.
 
 **Thoughts:** Feeling good. A productive day. I need to solve finish other 2 tasks to feel free and not pressure by them.
 
-### Day 45: September 18, 2020 (A tiring day)
+### Day 45: September 19, 2020 (A tiring day)
 
 **Today's Progress**: I cleaned my code. Now it is easier to debug. I'm tired to finished it today. At least it now makes more sense.
 
 **Thoughts:** A good day overall. I just need to convince that client what my work is worth. Feeling fine.
 
-### Day 46: September 19, 2020 (CS50!)
+### Day 46: September 20, 2020 (CS50!)
 
 **Today's Progress**: Going back to the 2nd CS50x class. It is kind of a break from my main code to relax and come back with fresh to debug my code of a suffix tree.
 
 **Thoughts:** Feeling very good. A really good day. Things went as plan and I even had time to bike a little around home. I really enjoy a beautiful sunsets.
+
+### Day 47: September 21, 2020 (CS50 / Debug)
+
+**Today's Progress**: Finishing some details of the yesterday's class and debugging my suffix tree.
+
+**Thoughts:** A sluggish day. Feeling ok.
+
+### Day 48: September 22, 2020 (Success!)
+
+**Today's Progress**: It's been almost 3 weeks since I first encountered the suffix tree problem. Jumping in and out the problem. I finally did it. It is a decent understandable and tidy O(n^2) implementation. I'm happy with the results.
+The next problem looks challenging also. I'll try to finish it tomorrow in just one day. Wish me luck.
+
+**Thoughts:** It's being hard to keep the equilibrium in my life. Feeling down.
+
+### Day 49: September 23, 2020 (Visualizing graphs (networks) in Python)
+
+**Today's Progress**: After thinking about how to approach the problem I wanted to visually analyze my suffix tree in search for solutions and I ended up diving deep into graphs, aka networks, software, packages, etc. Also into a little bit of graph theory. I like sidetracking sometimes (when my inner me allows it).
+
+**Thoughts:** I know, I was supposed to solve the problem today. It wasn't a good day and I barely manage to do the basic stuff. I hope tomorrow will be a better day. Feeling down.
 
 
 
