@@ -322,7 +322,11 @@ The next problem looks challenging also. I'll try to finish it tomorrow in just 
 
 **Thoughts:** I know, I was supposed to solve the problem today. It wasn't a good day and I barely manage to do the basic stuff. I hope tomorrow will be a better day. Feeling down.
 
+### Day 50: September 24, 2020 (Thinking)
 
+**Today's Progress**: Not much. Trying to understand how to find the shortest non-shared substring in a Text1#Text2$ suffix tree.
+
+**Thoughts:** A better day. I'm tired, though. Feeling better.
 
 
 
