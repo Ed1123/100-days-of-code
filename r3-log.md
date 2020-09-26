@@ -328,6 +328,12 @@ The next problem looks challenging also. I'll try to finish it tomorrow in just 
 
 **Thoughts:** A better day. I'm tired, though. Feeling better.
 
+### Day 51: September 25, 2020 (Rethinking and CS50x homework)
+
+**Today's Progress**: Thinking the problem from yesterday. It certainly is a difficult problem. Also worked on the homework for this week of the CS50x course making a program that calculates the Coleman-Liau index (a little simplified).
+
+**Thoughts:** Feeling ok. I managed to get through the day. 
+
 
 
 
