@@ -334,7 +334,11 @@ The next problem looks challenging also. I'll try to finish it tomorrow in just 
 
 **Thoughts:** Feeling ok. I managed to get through the day. 
 
+### Day 52: September 26, 2020 (readability.c :white_check_mark:)
 
+**Today's Progress**: Today I haven't had much time or space to focus so I just finish the readability problem in C. It is a good practice of C. I kind of like the {} syntax, but I miss many of my Python coding style.
+
+**Thoughts:** Feeling good. Life is being kind this days. I'm gonna try to keep this mood.
 
 
 
