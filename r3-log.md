@@ -340,6 +340,16 @@ The next problem looks challenging also. I'll try to finish it tomorrow in just 
 
 **Thoughts:** Feeling good. Life is being kind this days. I'm gonna try to keep this mood.
 
+### Day 53: September 27, 2020 (subtitution.c)
+
+**Today's Progress**: Working on the second problem on CS50x homework. I'm comming accross with C problems. It is always interesting to debug.
+
+**Thoughts:** Feeling good. A good day, even though I haven't worked out. 
+
+
+
+
+
 
 
 
