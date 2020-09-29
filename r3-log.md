@@ -340,13 +340,17 @@ The next problem looks challenging also. I'll try to finish it tomorrow in just 
 
 **Thoughts:** Feeling good. Life is being kind this days. I'm gonna try to keep this mood.
 
-### Day 53: September 27, 2020 (subtitution.c)
+### Day 53: September 27, 2020 (substitution.c)
 
-**Today's Progress**: Working on the second problem on CS50x homework. I'm comming accross with C problems. It is always interesting to debug.
+**Today's Progress**: Working on the second problem on CS50x homework. I'm coming across with C problems. It is always interesting to debug.
 
 **Thoughts:** Feeling good. A good day, even though I haven't worked out. 
 
+### Day 54: September 28, 2020 (substitution.c :white_check_mark:)
 
+**Today's Progress**: Facing a lot of problems with C and learning a lot of things modern computer languages give us for granted. Segmentation fault, how to negate an statement, initializing an array of variable length with false values, converting an string to uppercase char by char, mapping each char in a fixed length array and printing an array. It is being great to learn C. It's given me a whole new view on how computers really work. There's no magic.
+
+**Thoughts:** I felt tired most of the day, but got revitalize at night. Life being a night owl. Feeling good, though. :)
 
 
 
