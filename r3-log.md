@@ -352,6 +352,20 @@ The next problem looks challenging also. I'll try to finish it tomorrow in just 
 
 **Thoughts:** I felt tired most of the day, but got revitalize at night. Life being a night owl. Feeling good, though. :)
 
+### Day 55: September 29, 2020 (shortest non-shared substring)
+
+**Today's Progress**: I think I'm getting how to implement the algorithm thanks to the suggestions on the discuss forum, but I don't quite understand why is it like that. May be while implementing it I will.
+
+**Thoughts:** Not the greatest day. Feeling fine.
+
+### Day 56: September 30, 2020 (shortest non-shared substring)
+
+**Today's Progress**: I can't... at least for today...
+
+**Thoughts:** Not a great day.
+
+
+
 
 
 
