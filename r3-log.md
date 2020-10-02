@@ -364,7 +364,11 @@ The next problem looks challenging also. I'll try to finish it tomorrow in just 
 
 **Thoughts:** Not a great day.
 
+### Day 57: October 1st, 2020 (shortest non-shared substring)
 
+**Today's Progress**: Reading and trying to find something to read online, a hint to help me understand the problem and thinking on a way to code the problem.  No much progress, though. I hope someone answers my [stackoverlow question](https://stackoverflow.com/q/64166835/10864988?stw=2).
+
+**Thoughts:** Starting to feel overwhelmed by this problem. I'd like to move in the [Hacktoberfest](hacktoberfest.digitalocean.com) direction, but I feel like I have to finish this problem first. I may just postpone it for another month or so... damn. Feeling overwhelmed.
 
 
 
