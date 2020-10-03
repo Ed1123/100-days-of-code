@@ -370,7 +370,11 @@ The next problem looks challenging also. I'll try to finish it tomorrow in just 
 
 **Thoughts:** Starting to feel overwhelmed by this problem. I'd like to move in the [Hacktoberfest](hacktoberfest.digitalocean.com) direction, but I feel like I have to finish this problem first. I may just postpone it for another month or so... damn. Feeling overwhelmed.
 
+### Day 58: October 2nd, 2020 (shortest non-shared substring)
 
+**Today's Progress**: I hope this simple implementation fits into the given memory and time limits. I also watch a conference by Raymond Hettinger at PyBay2019, [The Mental Game of Python](https://www.youtube.com/watch?v=Uwuv05aZ6ug).
+
+**Thoughts:** Feeling down. I just went through the day.
 
 
 
