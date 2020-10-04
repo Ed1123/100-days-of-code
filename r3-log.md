@@ -376,11 +376,19 @@ The next problem looks challenging also. I'll try to finish it tomorrow in just 
 
 **Thoughts:** Feeling down. I just went through the day.
 
+### Day 59: October 3rd, 2020 (shortest non-shared substring "naïve")
+
+**Today's Progress**: Kind of making progress. I finished coding a working naïve implementation that someone suggested in the discussion forum. It has a bug and it seems not that complex. I'll try to debug it and submit it again. I hope it passes!
+
+**Thoughts:** A super tiring day. Full of work. The good part is that it allowed my darling to make some extra money. Feeling ok.
 
 
 
 
-### Day : September, 2020 ()
+
+
+
+### Day : October , 2020 ()
 
 **Today's Progress**:
 
