@@ -382,6 +382,18 @@ The next problem looks challenging also. I'll try to finish it tomorrow in just 
 
 **Thoughts:** A super tiring day. Full of work. The good part is that it allowed my darling to make some extra money. Feeling ok.
 
+### Day 60: October 4, 2020 (D:)
+
+**Today's Progress**: Still need to figure out how to store the parent node in this weird dictionary trie. It worked, but not for all the cases. Tired of this for now.
+
+**Thoughts:** Feeling down.
+
+### Day 61: October 5, 2020 (Memory inefficient)
+
+**Today's Progress**: After debugging it seems my code works. But, as expected, it is tremendously memory inefficient. I don't know what to try next. Tomorrow I'll think.
+
+**Thoughts:** Another day. It wasn't the bests, but it wasn't the worse either. Feeling eh.
+
 
 
 
