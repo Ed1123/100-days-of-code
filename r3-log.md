@@ -394,6 +394,18 @@ The next problem looks challenging also. I'll try to finish it tomorrow in just 
 
 **Thoughts:** Another day. It wasn't the bests, but it wasn't the worse either. Feeling eh.
 
+### Day 62: October 6, 2020 (Break to code)
+
+**Today's Progress**: I'm setting aside the course on DSA to focus on the Hacktoberfest. I'm putting too much pressure in myself to finish this problem and it's not working. Delaying the course is gonna be better that just getting frustrated and not going anywhere.
+
+**Thoughts:** I wish life would be a little bit easier. Feeling down, but going up.
+
+Day 63: October 7, 2020 (Hacktoberfest)
+
+**Today's Progress**: Reading through the docs and link on the Hacktoberfest website. I think these are gonna be my first PRs on Github. So exited.
+
+**Thoughts:** Bad times pass. I still hope life would be a bit easier, but it is what I've got, so nothing to complain I think. Feeling better.
+
 
 
 
