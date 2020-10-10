@@ -406,7 +406,20 @@ Day 63: October 7, 2020 (Hacktoberfest)
 
 **Thoughts:** Bad times pass. I still hope life would be a bit easier, but it is what I've got, so nothing to complain I think. Feeling better.
 
+### Day 64: October 8, 2020 (GitHub)
 
+**Today's Progress**: Reading and reading. Navigating through tutorials, GitHub repositories, discovering great open source projects and filtering down my options to contribute.
+
+**Thoughts:** It wasn't the best day ever either, but nothing that bad. Feeling a little down.
+
+### Day 65: October 9, 2020 (CONTRIBUTING.md and Cloning)
+
+**Today's Progress**: I think a good resume for today would be:
+
+- https://github.com/TheAlgorithms/Python/blob/master/CONTRIBUTING.md
+- How to clone a disk to a smaller size disk in Linux
+
+**Thoughts:** I'm having too many bad days in rows. I think the current health state at home is one of the causes. Feeling a bit down.
 
 
 
