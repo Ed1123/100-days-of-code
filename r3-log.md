@@ -421,6 +421,14 @@ Day 63: October 7, 2020 (Hacktoberfest)
 
 **Thoughts:** I'm having too many bad days in rows. I think the current health state at home is one of the causes. Feeling a bit down.
 
+### Day 66: October 10, 2020 (Actually contributing)
+
+**Today's Progress**: Learning how to properly contribute to a public repo. I don't fully understand the process (as why I have to fork before cloning), but as always, I will learn more as I move forward.
+
+**Thoughts:** Still feeling down. I'm moving, though. That's good.
+
+
+
 
 
 
