@@ -433,6 +433,12 @@ Day 63: October 7, 2020 (Hacktoberfest)
 
 **Thoughts:** Another difficult day. I make it worth it, though. Still feeling down.
 
+### Day 68: October 12, 2020 (Fixing documentation and style)
+
+**Today's Progress**: Fixing some documentation. I'm planning to do my PR tomorrow.
+
+**Thoughts:** A good, very sleepy day (with very little sleep from yesterday). Feeling better.
+
 
 
 
