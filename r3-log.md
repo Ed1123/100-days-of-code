@@ -439,7 +439,11 @@ Day 63: October 7, 2020 (Hacktoberfest)
 
 **Thoughts:** A good, very sleepy day (with very little sleep from yesterday). Feeling better.
 
+### Day 69: October 13, 2020 (First PR!)
 
+**Today's Progress**: I still don't get all the details of upstream and fetching. I may have to read more about it tomorrow. For now I'm good with my first PR. I hope I didn't screw it up.
+
+**Thoughts:** A bad start of the day, but the good progress I made on a job task was rewarding. Feeling better.
 
 
 
