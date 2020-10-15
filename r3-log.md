@@ -445,6 +445,16 @@ Day 63: October 7, 2020 (Hacktoberfest)
 
 **Thoughts:** A bad start of the day, but the good progress I made on a job task was rewarding. Feeling better.
 
+**Link to work:** [Fix documentation on [arithmetic_analysis] folder (#2510)](https://github.com/TheAlgorithms/Python/pull/3274)
+
+### Day 70: October 14, 2020 (Shell, Project Euler and Laziness)
+
+**Today's Progress**: Reading about shells, trying to solve the [problem 84 of Project Euler](https://projecteuler.net/problem=84) and watch a video about lazyness.
+
+**Thoughts:** A hard day. Almost 3:00 am. Feeling a little down.
+
+
+
 
 
 
