@@ -449,11 +449,16 @@ Day 63: October 7, 2020 (Hacktoberfest)
 
 ### Day 70: October 14, 2020 (Shell, Project Euler and Laziness)
 
-**Today's Progress**: Reading about shells, trying to solve the [problem 84 of Project Euler](https://projecteuler.net/problem=84) and watch a video about lazyness.
+**Today's Progress**: Reading about shells, trying to solve the [problem 84 of Project Euler](https://projecteuler.net/problem=84) and watch a video about laziness.
 
 **Thoughts:** A hard day. Almost 3:00 am. Feeling a little down.
 
+### Day 71: October 15, 2020 (Intuit Hacktoberfest Event)
 
+**Today's Progress**: I didn't do much. I attend a Hacktoberfest event by Intuit where I meet really nice people. I hope I can keep contact with them. :)
+I'm also looking for an issue I can solve on its repos.
+
+**Thoughts:** Life is hard, but there no value on wasting time thinking those details. There're much better ways to take advantage of our ephemeral existence in this world.
 
 
 
