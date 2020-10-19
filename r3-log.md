@@ -460,7 +460,11 @@ I'm also looking for an issue I can solve on its repos.
 
 **Thoughts:** Life is hard, but there no value on wasting time thinking those details. There're much better ways to take advantage of our ephemeral existence in this world.
 
+### Day 72-73: October 16-17, 2020 (Monopoly probabilities)
 
+**Today's Progress**: Working on problem 84 of Project Euler. I'm just missing some details on getting 3 consecutive doubles and coding all the cards for the Chance cards.
+
+**Thoughts:** Feeling better with my darling. Seeing light at the end of the tunnel.
 
 
 
