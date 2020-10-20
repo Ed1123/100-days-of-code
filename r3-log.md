@@ -466,6 +466,14 @@ I'm also looking for an issue I can solve on its repos.
 
 **Thoughts:** Feeling better with my darling. Seeing light at the end of the tunnel.
 
+### Day 74: October 18, 2020 (Monopoly probabilities)
+
+**Today's Progress**: For some reason I'm not getting the correct probability for some squares. I need some more debugging.
+
+**Thoughts:** Feeling ok. I'm getting better.
+
+
+
 
 
 
