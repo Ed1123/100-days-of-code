@@ -472,7 +472,11 @@ I'm also looking for an issue I can solve on its repos.
 
 **Thoughts:** Feeling ok. I'm getting better.
 
+### Day 75: October 19, 2020 (Monopoly probabilities PR)
 
+**Today's Progress**: Finished the problem, added documentation and test and issued a PR for it.
+
+**Thoughts:** I'm getting tired of having low days. Feeling neh.
 
 
 
