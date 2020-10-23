@@ -466,19 +466,35 @@ I'm also looking for an issue I can solve on its repos.
 
 **Thoughts:** Feeling better with my darling. Seeing light at the end of the tunnel.
 
-### Day 74: October 18, 2020 (Monopoly probabilities)
+### Day 74: October 20, 2020 (Missing details)
+
+**Today's Progress**: Missing few details of the Monopoly problem.
+
+**Thoughts:** I don't remember.
+
+### Day 75: October 18, 2020 (Monopoly probabilities)
 
 **Today's Progress**: For some reason I'm not getting the correct probability for some squares. I need some more debugging.
 
 **Thoughts:** Feeling ok. I'm getting better.
 
-### Day 75: October 19, 2020 (Monopoly probabilities PR)
+### Day 76: October 19, 2020 (Monopoly probabilities PR)
 
 **Today's Progress**: Finished the problem, added documentation and test and issued a PR for it.
 
 **Thoughts:** I'm getting tired of having low days. Feeling neh.
 
+### Day 77: October 21, 2020 (Git review, Monopoly correction)
 
+**Today's Progress**: I review many git logic to better understand how PRs work. I also commit some corrections to my Monopoly PR.
+
+**Thoughts:** Feeling lazy. The day ended already, though.
+
+### Day 78: October 22, 2020 (CS50x Class on Algorithms)
+
+**Today's Progress**: Not much more than the class.
+
+**Thoughts:** A better day. Feeling a little bit better.
 
 
 
