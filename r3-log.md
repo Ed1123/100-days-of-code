@@ -496,6 +496,14 @@ I'm also looking for an issue I can solve on its repos.
 
 **Thoughts:** A better day. Feeling a little bit better.
 
+### Day 79: October 23, 2020 (CS50x Class on Algorithms)
+
+**Today's Progress**: Finished the class explaining things.
+
+**Thoughts:** Feeling better. I had a better day also. The alarms in my mind didn't go wild.
+
+
+
 
 
 ### Day : October , 2020 ()
