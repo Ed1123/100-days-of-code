@@ -502,6 +502,13 @@ I'm also looking for an issue I can solve on its repos.
 
 **Thoughts:** Feeling better. I had a better day also. The alarms in my mind didn't go wild.
 
+### Day 80: October 24, 2020 (Lambda Calculus)
+
+**Today's Progress**: I was introduce to Haskell and the concept of Lambda calculus. I was trying to create a function for calculating factorial using recursion.
+I also did some C debugging.
+
+**Thoughts:** Life is hard. Feeling down.
+
 
 
 
