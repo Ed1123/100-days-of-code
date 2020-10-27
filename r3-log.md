@@ -509,6 +509,20 @@ I also did some C debugging.
 
 **Thoughts:** Life is hard. Feeling down.
 
+### Day 81: October 25, 2020 (mark_dup.py)
+
+**Today's Progress**: I wrote a little script for finding duplicate some duplicate photos I created by error a time ago. It uses hashes for comparing them. It even has a progress bar with a ETA (tqdm).
+
+**Thoughts:** Feeling a little bit better. Days are being really hard.
+
+### Day 82: October 26, 2020 (Pi-hole)
+
+**Today's Progress**: Playing with my Pi trying to setup Pi-hole. The custom DNS on my router doesn't work, neither my AP DCHP server which doesn't have a way to enter a custom gateway. Furthermore, Pi-hole is not really blocking much of the ads I normally encounter everyday... I'll stay like this for now. Tomorrow I may try to polish my work or I may be installing Linux on my laptop. The Bluetooth turning of randomly is driving crazy.
+
+**Thoughts:** I felt really tired the whole day. Couldn't do much at work. Feeling a little bit down still.
+
+
+
 
 
 
