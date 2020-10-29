@@ -521,6 +521,18 @@ I also did some C debugging.
 
 **Thoughts:** I felt really tired the whole day. Couldn't do much at work. Feeling a little bit down still.
 
+### Day 83: October 27, 2020 (Variety)
+
+**Today's Progress**: Not much progress today. Playing with my Pi, with Linux on my main computer, and reviewing some Git commands.
+
+**Thoughts:** Not the best days. Feeling down, but willing to get better.
+
+### Day 84: October 28, 2020 (plurality.c)
+
+**Today's Progress**: I did the first of the 2 problems in the CS50x course. I'm starting to feel more comfortable with C, even though it really lacks many functionality I'm accustomed with Python.
+
+**Thoughts:** Feeling a little bit better. Now I think about it, I clean my room. That it's definitely something good.
+
 
 
 
