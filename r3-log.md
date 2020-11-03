@@ -533,13 +533,43 @@ I also did some C debugging.
 
 **Thoughts:** Feeling a little bit better. Now I think about it, I clean my room. That it's definitely something good.
 
+### Day 85: October 29, 2020 (Thinking)
+
+**Today's Progress**: Reading Elementary OS and the next problem of CS50x. It looks really difficult. I hope tomorrow I can understand more of it.
+
+**Thoughts:** Not a good day at the end. I couldn't focus that much when reading the problem. I don't know why... Feeling bad.
+
+### Day 86: October 30, 2020 (tideman.c)
+
+**Today's Progress**: A difficult problem. As it is now common, understanding the distribution code and why and how I should use it takes me a lot of time. I'll try to finish it tomorrow.
+
+**Thoughts:** Having a difficult time in life. May be it is just that I'm exited. Too much things in my mind that it takes me a lot of effort to focus on any task. Feeling anxious and out of focus.
+
+### Day 87: October 31, 2020 (Teaching plurality.c)
+
+**Today's Progress**: Teaching is the better way to comprehend a subject. This time wasn't the exception. Each time getting much more comfortable with C and appreciating more Python.
+
+**Thoughts:** Feeling good. A really good day. I was missing feeling this well. I learned a lot.
+
+### Day 88: November 1, 2020 (tideman.c)
+
+**Today's Progress**: With much more better mood and focus I finished coding tideman.c. My code doesn't work yet, but at least it is finished and I just need some more debugging.
+
+**Thoughts:** I'm relaxed, a little bit tired, but with a better mood. I was able to focus and solve the problem. I felt really well. Feeling good. :)
+
+### Day 89: November 2, 2020 (Debugging tideman.c)
+
+**Today's Progress**: Well, things are going... ok. I already debug most of the errors. Actually I'm only failing one and I think I may know where it is.
+
+**Thoughts:** Feeling ok. A hard day at home. Typical day when I can't walk into my kitchen.
 
 
 
 
 
 
-### Day : October , 2020 ()
+
+### Day : November , 2020 ()
 
 **Today's Progress**:
 
