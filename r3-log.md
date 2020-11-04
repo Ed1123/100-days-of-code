@@ -563,7 +563,12 @@ I also did some C debugging.
 
 **Thoughts:** Feeling ok. A hard day at home. Typical day when I can't walk into my kitchen.
 
+### Day 90: November 3, 2020 (tideman.c :heavy_check_mark: )
 
+**Today's Progress**: My suspicious were correct. The error was in my cycle avoidance algorithm. Implementing it I learned that nested functions are simply not a thing in C.
+I also resume the DSA course. I may just let the problem I can't solve for now (some years maybe) and move forward to finishing the course. Today I learned about Burrows-Wheeler Transform.
+
+**Thoughts:** A very productive day in my studies. I'm being able to manage my thoughts and worries changing activities. Feeling good.
 
 
 
