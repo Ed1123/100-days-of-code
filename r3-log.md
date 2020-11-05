@@ -570,6 +570,12 @@ I also resume the DSA course. I may just let the problem I can't solve for now (
 
 **Thoughts:** A very productive day in my studies. I'm being able to manage my thoughts and worries changing activities. Feeling good.
 
+### Day 91: November 4, 2020 (BWT for pattern matching)
+
+**Today's Progress**: Pretty advance stuff. I was introduce to suffix arrays also.
+
+**Thoughts:** A balanced day. Anxiety took control for a moment, but 
+
 
 
 
