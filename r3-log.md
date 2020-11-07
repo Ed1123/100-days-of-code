@@ -574,7 +574,25 @@ I also resume the DSA course. I may just let the problem I can't solve for now (
 
 **Today's Progress**: Pretty advance stuff. I was introduce to suffix arrays also.
 
-**Thoughts:** A balanced day. Anxiety took control for a moment, but 
+**Thoughts:** A balanced day. Anxiety took control for a moment, but I managed it, poorly, but it wasn't that bad. Feeling ok.
+
+### Day 92: November 5, 2020 (BWT code)
+
+**Today's Progress**: I coded a program that generates the BWT and I'm doing another that inverse it.
+
+**Thoughts:** A tired and lazy day (with many things to do at work). Not that bad. Feeling ok.
+
+### Day 93: November 6, 2020 (Inverse BWT :heavy_check_mark:)
+
+**Today's Progress**: Finish coding a naïve way of getting the original string from its BWT. Also research about installing Plasma Bigscreen on my Pi.
+
+**Thoughts:** A good day overall. I didn't wake up early as I should, but I did compensate the work time. Even though, these are being difficult days because of my mom's illness, I'm trying to stay calm. Feeling ok.
+
+
+
+
+
+
 
 
 
