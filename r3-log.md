@@ -588,7 +588,11 @@ I also resume the DSA course. I may just let the problem I can't solve for now (
 
 **Thoughts:** A good day overall. I didn't wake up early as I should, but I did compensate the work time. Even though, these are being difficult days because of my mom's illness, I'm trying to stay calm. Feeling ok.
 
+### Day 94: November 11, 2020 (After a break - BWMatching)
 
+**Today's Progress**: Working on a linear time implementation of counting the number of matches of a pattern on a text using BWT.
+
+**Thoughts:** I took a break from the challenge. I had a personal emergency and needed to rest for a few days. I'm back for these last days of the challenge, though. Feeling good. (Thanks, darling.)
 
 
 
