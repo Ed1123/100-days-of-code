@@ -594,7 +594,17 @@ I also resume the DSA course. I may just let the problem I can't solve for now (
 
 **Thoughts:** I took a break from the challenge. I had a personal emergency and needed to rest for a few days. I'm back for these last days of the challenge, though. Feeling good. (Thanks, darling.)
 
+### Day 95: November 12, 2020 (BWMatching :heavy_check_mark: )
 
+**Today's Progress**: I finished the code for the BWMatching code, but I haven't test it enough. I'm also correcting my bwt_inverse code since it didn't pass the tests. I've already found a counter example so I just need some debugging time and the code will be ready.
+
+**Thoughts:** A hard day at home. I'm trying to carry on. Feeling worry and uncertain, but trying to regain control of the situation.
+
+### Day 96: November 13, 2020 (Debugging and Naïve suffix array)
+
+**Today's Progress**: I finished debugging my last two problems. I also finished coding a naïve algorithm for getting the suffix array of a text.
+
+**Thoughts:** A tiring day. Still worried, but I'm not losing the hope yet. Feeling tired and a a bit overwhelmed.
 
 
 
