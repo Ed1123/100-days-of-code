@@ -606,6 +606,24 @@ I also resume the DSA course. I may just let the problem I can't solve for now (
 
 **Thoughts:** A tiring day. Still worried, but I'm not losing the hope yet. Feeling tired and a a bit overwhelmed.
 
+### Day 97: November 17, 2020 (Knuth-Morris-Pratt Algorithm)
+
+**Today's Progress**: Trying to understand the basics of KMP algorithm. I'm kind of understanding the prefix table with a [YT video](https://www.youtube.com/watch?v=BXCEFAzhxGY).
+
+**Thoughts:** Hard times in my family. Feeling ok.
+
+### Day 98: November 18, 2020 (Knuth-Morris-Pratt Algorithm Code)
+
+**Today's Progress**: Finished the lesson. I don't fully get how the course proposed to compute the prefix table, but I kind of understand what is the main idea base on a YT video. Certainly, without the given pseudocode I wouldn't be able to code it. It is what it is.
+
+**Thoughts:** Not the greatest day either, but I'm feeling ok. I hope for better times.
+
+### Day 99: November 19, 2020 (Suffix Arrays)
+
+**Today's Progress**: Trying to understand the algorithm for building suffix arrays in O(n*log(n)) time. I really had a hard time following the instructor in the class. Fortunately, a [nice guy on YouTube](https://www.youtube.com/watch?v=_TUeAdu-U_k) help me understand the main idea better. I think I first need to understand how the algorithm works with an example before going into too many implementation and proving details.
+
+**Thoughts:** A hard day with the course, but I'm surviving. Feeling a little bit down.
+
 
 
 
