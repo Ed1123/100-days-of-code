@@ -624,18 +624,12 @@ I also resume the DSA course. I may just let the problem I can't solve for now (
 
 **Thoughts:** A hard day with the course, but I'm surviving. Feeling a little bit down.
 
+### Day 100: November 23, 2020 (Tough times)
 
+**Today's Progress**: Reviewing the suffix array algorithm and preparing to code it. I also learned about building the suffix tree from the suffix array in n*log(n) time, which may help me solve a problem from the previous assignment. I don't understand it very well, but fortunately the course provide a pseudocode. I think I'm just blinding coding it.
 
-
-
-
-
-### Day : November , 2020 ()
-
-**Today's Progress**:
-
-**Thoughts:** 
-
-**Link to work:**
-
+**Thoughts:** My streak was perfect until these last weeks. That makes me sad. I couldn't stand how life was going and in my trying to maintain the equilibrium I sacrifice this important part of my journey. This isn't the great end I was expecting, but it is.
+I may be doing another round in the future, but not for now. Work and family health is taking most of my brain capacity. I'm gonna continue studying the course and doing it as much as I can, I hope at least 1 hour daily, just as the challenge and I've been doing (trying to do) for the last 300+ days, but with no pressures.
+Wish me luck in life.
+Hi, future Edward. I hope things are better in that time. You bought the Macbook you were looking for, right?
 
